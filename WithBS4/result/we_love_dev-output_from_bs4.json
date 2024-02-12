@@ -206,118 +206,62 @@
                         },
                         {
                             "application30Days": true,
-                            "applicationsStats": {
-                                "allTime": {
-                                    "acceptanceRate": 1,
-                                    "replyTime": 257449004
-                                },
-                                "last30Days": {
-                                    "acceptanceRate": 1,
-                                    "replyTime": 257449004
-                                },
-                                "updatedAt": 1698664528000
-                            },
-                            "companyId": "5QNUH2zakaSoRiiKTcvJBLHPRJf2",
-                            "createdAt": 1697722393462,
-                            "creatorId": "5QNUH2zakaSoRiiKTcvJBLHPRJf2",
-                            "descriptionPreview": "Jaji est la Neo-mutuelle engagée qui veut réinventer l’expérience de la complémentaire santé d’entreprise à travers une démarche 100 % solidaire et digitale.\nNous pensons que l'histoire et les valeurs de la mutuelle sont en adéquation avec la quête de sens des jeunes générations et plus largement avec les aspirations sociétales actuelles.\nC’est pourquoi depuis plusieurs mois, nos équipes travaille",
+                            "companyId": "GBk66xUV82Rbe8azp5iPGO4Dz6p1",
+                            "createdAt": 1707752887141,
+                            "creatorId": "GBk66xUV82Rbe8azp5iPGO4Dz6p1",
+                            "descriptionPreview": "Quelle sera l étendu de vos extraordinaires missions :\n\nInitier et développer des outils d infrastructure à la hauteur de Stark Industries dans l objectif de façonner et transformer les données.\nAgir tel(le) un(e) allié(e) des Data Scientists, pour industrialiser leurs algorithmes et flux de données.\nÊtre un(e) acteur(rice) de choix dans l architecture big data afin de répondre aux différents cas ",
                             "details": {
                                 "contracts": {
                                     "permanent": true
                                 },
                                 "locale": "fr",
                                 "places": {
-                                    "ChIJzzg0WxZu5kcRoyyp3xekfCE": {
+                                    "ChIJVZUwf8Uow0cRkw8MCcqCJD0": {
                                         "position": 0,
                                         "precise": true,
-                                        "updatedAt": 1697722341161
+                                        "updatedAt": 1707752360671
                                     }
                                 },
-                                "professionId": "-Mx3kkb13fZejNbGASKP",
+                                "professionId": "-NKn5LxIRWG_hKLi5-Zd",
                                 "remotePolicy": {
-                                    "daysPerWeek": 3,
+                                    "daysPerWeek": 2,
                                     "frequency": "hybrid"
                                 },
-                                "requiredExperience": 7,
+                                "requiredExperience": 3,
                                 "salary": {
-                                    "max": 65,
-                                    "min": 55,
+                                    "max": 55,
+                                    "min": 35,
                                     "recurrence": "year",
-                                    "maxPerYear": 65
+                                    "maxPerYear": 55
                                 }
                             },
-                            "helmetHandle": "nKLpRHbOR5iv4SKudrn9",
-                            "id": "-Nh75Av1sLhLOE_AnW5b",
-                            "lastUpdate": 1707746380066,
-                            "mdDescription": "Jaji est la **Neo-mutuelle engagée** qui veut réinventer l’expérience de la complémentaire santé d’entreprise à travers une démarche 100 % solidaire et digitale.\n\nNous pensons que l'histoire et les valeurs de la mutuelle sont en adéquation avec la quête de sens des jeunes générations et plus largement avec les aspirations sociétales actuelles.\n\nC’est pourquoi depuis plusieurs mois, nos équipes travaillent d’arrache-pied pour proposer une plateforme de **protection santé des salariés nouvelle génération** reposant sur un **modèle mutualiste.**\n\nIl est temps pour nous de passer à la phase suivante : la construction d’une équipe de développeurs composée de jeunes talents ambitieux, motivés et désireux de rejoindre un projet ayant un **impact positif sur la société**.\n\n**Pourquoi les techs sont heureux dans votre entreprise ou pourquoi vous rejoindre**\n\nNous sommes une **entreprise à mission** engagée en faveur d'un modèle de protection sociale efficace, transparent et pérenne qui contribue activement à la **qualité de vie pour tous**, et agit concrètement en faveur d’**une société plus solidaire et inclusive**.\n\nNous pensons que la santé est **un bien commun** et non un bien de consommation. Dans ce cadre, nous défendons un modèle vertueux fondé sur les **solidarités collectives** qui s’émancipent des logiques individualistes et culpabilisantes de notre époque. Nous mettons **la transparence, la pédagogie et la confiance** au cœur de notre promesse envers nos adhérents, nos partenaires, la société civile ainsi qu’envers **nos salariés** !\n\nAlors si tu souhaites rejoindre **une opportunité rare** à un stade très excitant de son histoire et lancer **un projet ambitieux et humain** from scratch sur des sujets sociétaux gigantesques, alors ce poste est fait pour toi !\n\n**👋*Ce poste est fait pour toi si :***\n· Tu as la curiosité et la volonté d'apprendre.\n· Tu es doté d'une autonomie et tu es force de proposition.\n· Tu as un bon sens du code propre et optimisé.\n· Tu as de l’affinité pour les frameworks propres (DDD, Clean architecture…).\n· Tu as des principes SOLID, il y en a dans la littérature, mais surtout dans votre code.\n· Tu as une bonne affinité pour l’expérience utilisateur UX/UI.\n· Tu as un mindset Agile\n· Tu as cette envie de partager ton savoir\n· Tu disposes d'un fort niveau d'exigence personnelle\n· Tu te réveille le matin avec l'envie de rendre le monde meilleur\n\n**Missions, contexte** \nTu es développeur informatique, tu as déjà effectué une ou des missions/projets en entreprise, tu es à la recherche d'une opportunité de travailler sur un projet prometteur, avec beaucoup de challenge technique, dans un contexte formateur et à la pointe de la technologie, alors tu es le/la bienvenu(e) chez Jaji.\n\nTu participes à la construction des solutions Web Front, en Vue.js 3 et/ou des applications mobiles en React Native.\n· Tu participes à la construction de la solution Web API BACK architecturé en micro-services, via .NET 6 avec le pattern CQRS en Domain-driven design.\n· Tu es partie prenante dans l’étude des solutions de la plateforme.\n· Tu intègres une Feature Team d’un projet conduit dans un cadre 100% Agile, avec des outils issus des Framework SCRUM et SAFe.\n· Et tu t'appuyeras sur des outils avancés de conduite de tests et de contrôle de qualité.\n· Tu assures un haut niveau de qualité de code (clean code, couverture de tests, maintenabilité, évolutivité)\n\n***Le processus de recrutement sera décliné de la manière suivante :***\n\nCes points peuvent être condensés sur 2 rendez-vous.\n\n* ***Premier échange :*** Tu auras un entretien téléphonique😉\n* ***Deuxième échange :*** Tu seras amené (e) à passer un entretien technique\n* ***Troisième échange :*** Tu rencontreras nos équipes afin de déclencher le match parfait🥳",
+                            "id": "-NqSy3PkncngOFfZUW4D",
+                            "lastUpdate": 1707752898890,
+                            "mdDescription": "Quelle sera l étendu de vos extraordinaires missions :\n\n* Initier et développer des outils d infrastructure à la hauteur de Stark Industries dans l objectif de façonner et transformer les données.\n* Agir tel(le) un(e) allié(e) des Data Scientists, pour industrialiser leurs algorithmes et flux de données.\n* Être un(e) acteur(rice) de choix dans l architecture big data afin de répondre aux différents cas métiers.\n* Protéger et garantir l intégrité des données en assurant leur sécurité et leur accessibilités\n* Mettre en œuvre des pratiques de sécurité redoutables pour protéger les données les plus confidentielles et sensibles, tel(le) un(e) gardien(ne) des joyaux de l univers\n* Travailler en collaboration avec les équipes techniques dans l ingestion des données.\n\nQuels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?\n\n* Maitriser des technologies Big Data tel(le) un(e) expert(e) des mystères technologiques ainsi que les environnements Google Cloud platform, Amazon Web Services et/ou Microsoft Azure\n* Connaitre les langages SQL et Python\n* Des bases solides en architecture data (notamment informatique décisionnelle et big data)\n* Une force de proposition sans faille sur la mise en œuvre et l utilisation des solutions Big Data\n* Être un(e) protecteur(rice) tel Captain America et donc connaitre les principes de sécurité et bonnes pratiques.\n\nCe qui vous attend chez DataKhi :\n\n* Une équipe d’expert(e)s soudé(e)s, toujours prêt(e)s à s’entraider afin de faire front à toute problématique.\n* Des projets variés, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées\n* De l’autonomie et des responsabilités dans vos missions.\n* Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs (confiance ; transparence , humain ; passion ; éco responsabilité )\n* L’opportunité de participer à des afterworks, événements et sessions sportives régulières afin de célébrer nos succès en équipe",
                             "premium": true,
-                            "provider": "flatchr",
-                            "publishDate": 1707746380066,
-                            "reference": "Développeur Full Stack Senior Paris H/F",
-                            "seoAlias": "developpeur-full-stack-senior-paris-hf-jaji",
+                            "publishDate": 1707752898890,
                             "skillsList": [
                                 {
-                                    "index": 0,
-                                    "name": "Typescript",
+                                    "name": "Power BI",
                                     "value": 50
                                 },
                                 {
-                                    "id": ".NET core",
-                                    "index": 1,
-                                    "name": ".NET core",
-                                    "value": 80
-                                },
-                                {
-                                    "id": "C#",
-                                    "index": 2,
-                                    "name": "C#",
-                                    "value": 85
-                                },
-                                {
-                                    "index": 3,
-                                    "name": "Javascript",
+                                    "name": "Python",
                                     "value": 50
                                 },
                                 {
-                                    "id": "PostgreSQL",
-                                    "index": 4,
-                                    "name": "PostgreSQL",
-                                    "value": 65
-                                },
-                                {
-                                    "id": "HTML5",
-                                    "index": 5,
-                                    "name": "HTML5",
-                                    "value": 60
-                                },
-                                {
-                                    "index": 6,
                                     "name": "SQL",
                                     "value": 50
                                 },
                                 {
-                                    "index": 7,
-                                    "name": "Angular",
+                                    "name": "Azure",
                                     "value": 50
                                 },
                                 {
-                                    "index": 8,
-                                    "name": "SCRUM",
+                                    "name": "Google Cloud",
                                     "value": 50
                                 },
                                 {
-                                    "id": "Agile",
-                                    "index": 9,
-                                    "name": "Agile",
-                                    "value": 65
-                                },
-                                {
-                                    "index": 10,
-                                    "name": "React",
-                                    "value": 50
-                                },
-                                {
-                                    "index": 11,
                                     "name": "Amazon Web Services",
                                     "value": 50
                                 }
@@ -327,32 +271,28 @@
                                 "management": "",
                                 "technical": ""
                             },
-                            "title": "Développeur Full Stack Senior Paris H/F",
+                            "title": "Data Engineer",
+                            "helmetHandle": "torhKtLTz2Oz0UJ7EcGj",
                             "rawDescription": "",
                             "smallCompany": {
-                                "companyName": "Jaji",
-                                "handle": "MjGi9f8DT9GtLS4RQnob",
-                                "id": "5QNUH2zakaSoRiiKTcvJBLHPRJf2",
-                                "seoAlias": "jaji",
-                                "gallery": {
-                                    "handle": "Y0TkanLT36OjK65huPvL"
-                                },
-                                "fallbackGalleryUrl": "https://i.ytimg.com/vi/4-p8qQ9E_gE/maxresdefault.jpg"
+                                "companyName": "KHI PORTAGE",
+                                "handle": "zzmLEEbMS1e8jI2PdNUH",
+                                "id": "GBk66xUV82Rbe8azp5iPGO4Dz6p1"
                             },
                             "type": "company_job",
                             "contractTypes": [
                                 "permanent"
                             ],
                             "profession": {
-                                "algoliaKeyword": "fullstack",
+                                "algoliaKeyword": "data",
                                 "langContent": {
                                     "en": {
-                                        "displayName": "Développeur.euse Full stack",
-                                        "name": "Full stack developer"
+                                        "displayName": "Data engineer",
+                                        "name": "Engineer Data"
                                     },
                                     "fr": {
-                                        "displayName": "Développeur.euse Full stack",
-                                        "name": "Développeur Full stack"
+                                        "displayName": "Ingénieur·e Data",
+                                        "name": "Ingénieur Data"
                                     }
                                 }
                             }

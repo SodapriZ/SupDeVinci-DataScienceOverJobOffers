@@ -1,0 +1,367 @@
+{
+    "initialResults": {
+        "public_jobs": {
+            "state": {
+                "facets": [],
+                "disjunctiveFacets": [
+                    "details.remotePolicy.frequency",
+                    "details.requiredExperience",
+                    "contractTypes",
+                    "details.professionId",
+                    "details.salary.maxPerYear"
+                ],
+                "hierarchicalFacets": [],
+                "facetsRefinements": {},
+                "facetsExcludes": {},
+                "disjunctiveFacetsRefinements": {
+                    "contractTypes": [],
+                    "details.professionId": [],
+                    "details.remotePolicy.frequency": []
+                },
+                "numericRefinements": {
+                    "details.requiredExperience": {},
+                    "details.salary.maxPerYear": {}
+                },
+                "tagRefinements": [],
+                "hierarchicalFacetsRefinements": {},
+                "index": "public_jobs",
+                "aroundPrecision": 20000,
+                "hitsPerPage": 24,
+                "maxValuesPerFacet": 10,
+                "query": "",
+                "highlightPreTag": "__ais-highlight__",
+                "highlightPostTag": "__/ais-highlight__",
+                "page": 0
+            },
+            "results": [
+                {
+                    "hits": [
+                        {
+                            "applicationUrl": "https://www.aplitrak.com/?adid=c2hpcmFuaS5qZXlhLjI2NzA2LjExMDMzQGdpZXB3Yy5hcGxpdHJhay5jb20",
+                            "application_email": "shirani.jeya.26706.11033@giepwc.aplitrak.com",
+                            "companyId": "zPHAsLcDjDTsOvw0BnkZEWDDqNw2",
+                            "createdAt": "1707264000000",
+                            "creatorId": "RxVHfXxuFQYFnUsEc29ntBhq79m2",
+                            "descriptionPreview": "PwC poursuit sa stratégie mondiale The New Equation, portée par l'humain, nos engagements responsables, sociétaux et soutenus par la technologie. Dans ce contexte, nous investissons sur l'utilisation du cloud, de l'IA, des alliances technologiques, de la réalité virtuelle et de technologies émergentes.\n\nDans le cadre du développement de nos activités Risk & Regulatory (forensic, audit interne, con",
+                            "details": {
+                                "contracts": {
+                                    "permanent": true
+                                },
+                                "places": {
+                                    "ChIJD7fiBh9u5kcRYJSMaMOCCwQ": 1707304876451
+                                },
+                                "remotePolicy": {
+                                    "daysPerWeek": 3,
+                                    "frequency": "hybrid"
+                                },
+                                "requiredExperience": 0,
+                                "salary": {
+                                    "currency": "€",
+                                    "max": 0,
+                                    "min": 0,
+                                    "recurrence": "year",
+                                    "maxPerYear": 0
+                                },
+                                "start": "ASAP"
+                            },
+                            "helmetHandle": "Fn1MMfsDRzmKFBxINZN2",
+                            "id": "broadbeanHook396513WD",
+                            "isRemoteCrafted": true,
+                            "lastUpdate": 1707304893580,
+                            "mdDescription": "PwC poursuit sa stratégie mondiale The New Equation, portée par l'humain, nos engagements responsables, sociétaux et soutenus par la technologie. Dans ce contexte, nous investissons sur l'utilisation du cloud, de l'IA, des alliances technologiques, de la réalité virtuelle et de technologies émergentes.\n\nDans le cadre du développement de nos activités Risk & Regulatory (forensic, audit interne, contrôle interne et cartographie des risques par exemple), nous investissons significativement dans les technologies émergentes.\n\n \nNous sommes à la recherche de nouveaux talents pour accompagner nos clients dans le développement d'outils.\n\n**Ce que vous pouvez attendre de nous :**\n\n \n**En tant que développeur senior, vous allez :**\n\n* Recueillir les besoins des équipes de gestion des risques et concevoir des outils innovants tant à destination des équipes métier Risk & Regulatory que de nos clients ;\n \n* Développer, en mode agile, nos outils de demain ;\n \n* Respecter les normes de développement, les délais et les charges estimés en accord avec le tech lead\n \n* Conseiller les équipes de gestion des risques sur les moyens d'automatiser et de réinventer nos missions avec notamment de l'IA, Machine Learning, Process Intelligence\n \n* Contribuer au rayonnement de l'activité chez nos clients, de toutes tailles et issus de tous secteurs d'activité (industries & services et services financiers).\n \n\n**En tant que développeur senior, vous pourrez :**\n\n* Consolider les fondamentaux pour devenir un professionnel de l'analyse de données hautement qualifié grâce à notre programme de formation sur mesure ;\n \n* Bénéficier également du soutien d'une communauté dynamique et expérimentée qui vous aidera à orienter votre carrière, afin que vous donniez toujours le meilleur de vous-même et puissiez libérer tout votre potentiel ;\n \n* Évoluer dans un environnement performant et stimulant.\n \n\n**Ce que nous attendons de vous :**\n\n* Formation bac + 5 acquise en école d'ingénieur ou par la voie universitaire ;\n \n* Vous avez une première expérience significative de 3 ans minimum dans le domaine du développement ;\n \n* Vous avez la capacité à proposer des solutions innovantes en co-construction avec les clients ;\n \n* Vous avez une première expérience d'encadrement de profils juniors ou a minima de supervision de leurs travaux ;\n \n* Être consultant PwC c'est aussi s'engager à transmettre les valeurs portées par le réseau ;\n \n* Maîtrise de l'anglais tant à l'oral qu'à l'écrit ;\n \n* Aisance dans la communication orale et bon rédactionnel.\n \n\n \n**Méthodologies à maîtriser :**\n\n* eXtreme-Programming (Test-Driven-Development, pair programming, code review, et le processus d'intégration / livraison continue)\n \n* Agile (Scrum, Lean, SAFe, etc.)\n \n\n**Compétences techniques recherchées :**\n\n* Bases de données : SQL (PostgreSQL, MySQL, SQL Server, Oracle, DB2) et NoSQL\n \n* Langages : R, Python, SQL\n \n* Backend : Java J2EE, Spring, Node.js, .NET, Python\n \n* Frontend : Angular, HTML5, CSS3, JavaScript\n \n\n**Compétences techniques appréciées :**\n\n* Architecture : API REST, micro-services\n \n* Cloud : AWS, Azure, GCP\n \n* Container : Docker, Kubernetes\n \n\n**Ces avantages que nous vous offrons :**\n\n* Flexibilité avec la charte FlexWork : télétravail étendu, mobilité géographique, FlexTime, Dress for your day\n \n* Pass mobilité durable pour couvrir vos dépenses de mobilité durable\n \n* Programme Be Well, Work Well pour prendre soin de sa santé (partenariat Gymlib, application United heroes, associations sportives, formations mindfulness…)\n \n* Programme Family Care pour vous accompagner dans vos projets de parentalité comme dans les moments difficiles\n \n* Écosystème de santé pour trouver à qui parler, être écouté et aidé quelles que soient vos difficultés professionnelles ou personnelles\n \n* Crédit de 3 jours par an sur le temps de travail pour des missions d'engagement sociétal\n \n* Mobilité interne et internationale possible à partir de 18 mois d'ancienneté\n \n* Crystal Park (site de Neuilly-sur-Seine) : parc privatif de 2 hectares, conciergerie, salle de musique, salle de sport, Café Joyeux…\n \n* Programme New World. New Skills pour monter en compétences sur les enjeux de demain (ESG, technologies, inclusion des diversités) et plateforme Vantage de formation à la demande\n \n* Et aussi : RTT, mutuelle santé et prévoyance, restaurants d'entreprise et titres-restaurants, avantages du Comité Inter-Entreprises…\n \n\n \nToutes nos offres sont ouvertes aux personnes en situation de handicap",
+                            "premium": 1707378884005,
+                            "provider": "broadbean",
+                            "publishDate": 1707304893580,
+                            "reference": "396513WD_1707304875",
+                            "requiredExperience": 0,
+                            "seoAlias": "developpeur-full-stack-senior-cdi-hf-pwc-france",
+                            "skillsList": [
+                                {
+                                    "name": "SQL",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Agile",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Python",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Angular",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "API REST",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Azure",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Crystal",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "CSS3",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "DB2",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Docker",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "HTML5",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Java",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Javascript",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Kubernetes",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Machine Learning",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Mysql",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "NodeJS",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "NoSQL",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Oracle",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "PostgreSQL",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "R",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Réseau",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Safe",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "SCRUM",
+                                    "value": 100
+                                },
+                                {
+                                    "name": "Spring",
+                                    "value": 100
+                                }
+                            ],
+                            "status": "JOB_PUBLISHED",
+                            "title": "Développeur Full Stack Senior | CDI | H/F",
+                            "rawDescription": "",
+                            "smallCompany": {
+                                "companyName": "PwC France",
+                                "handle": "0S5PRQ93Ryy1VjJ0Spon",
+                                "id": "zPHAsLcDjDTsOvw0BnkZEWDDqNw2",
+                                "seoAlias": "pwc",
+                                "gallery": {
+                                    "handle": "RzYlY4DmQraQTm8KwNRB"
+                                }
+                            },
+                            "type": "company_job",
+                            "contractTypes": [
+                                "permanent"
+                            ],
+                            "_geoloc": [
+                                {
+                                    "lat": 48.85661400000001,
+                                    "lng": 2.3522219
+                                }
+                            ],
+                            "formattedPlaces": [
+                                "Paris, France"
+                            ],
+                            "objectID": "broadbeanHook396513WD"
+                        },
+                        {
+                            "application30Days": true,
+                            "applicationsStats": {
+                                "allTime": {
+                                    "acceptanceRate": 1,
+                                    "replyTime": 257449004
+                                },
+                                "last30Days": {
+                                    "acceptanceRate": 1,
+                                    "replyTime": 257449004
+                                },
+                                "updatedAt": 1698664528000
+                            },
+                            "companyId": "5QNUH2zakaSoRiiKTcvJBLHPRJf2",
+                            "createdAt": 1697722393462,
+                            "creatorId": "5QNUH2zakaSoRiiKTcvJBLHPRJf2",
+                            "descriptionPreview": "Jaji est la Neo-mutuelle engagée qui veut réinventer l’expérience de la complémentaire santé d’entreprise à travers une démarche 100 % solidaire et digitale.\nNous pensons que l'histoire et les valeurs de la mutuelle sont en adéquation avec la quête de sens des jeunes générations et plus largement avec les aspirations sociétales actuelles.\nC’est pourquoi depuis plusieurs mois, nos équipes travaille",
+                            "details": {
+                                "contracts": {
+                                    "permanent": true
+                                },
+                                "locale": "fr",
+                                "places": {
+                                    "ChIJzzg0WxZu5kcRoyyp3xekfCE": {
+                                        "position": 0,
+                                        "precise": true,
+                                        "updatedAt": 1697722341161
+                                    }
+                                },
+                                "professionId": "-Mx3kkb13fZejNbGASKP",
+                                "remotePolicy": {
+                                    "daysPerWeek": 3,
+                                    "frequency": "hybrid"
+                                },
+                                "requiredExperience": 7,
+                                "salary": {
+                                    "max": 65,
+                                    "min": 55,
+                                    "recurrence": "year",
+                                    "maxPerYear": 65
+                                }
+                            },
+                            "helmetHandle": "nKLpRHbOR5iv4SKudrn9",
+                            "id": "-Nh75Av1sLhLOE_AnW5b",
+                            "lastUpdate": 1707746380066,
+                            "mdDescription": "Jaji est la **Neo-mutuelle engagée** qui veut réinventer l’expérience de la complémentaire santé d’entreprise à travers une démarche 100 % solidaire et digitale.\n\nNous pensons que l'histoire et les valeurs de la mutuelle sont en adéquation avec la quête de sens des jeunes générations et plus largement avec les aspirations sociétales actuelles.\n\nC’est pourquoi depuis plusieurs mois, nos équipes travaillent d’arrache-pied pour proposer une plateforme de **protection santé des salariés nouvelle génération** reposant sur un **modèle mutualiste.**\n\nIl est temps pour nous de passer à la phase suivante : la construction d’une équipe de développeurs composée de jeunes talents ambitieux, motivés et désireux de rejoindre un projet ayant un **impact positif sur la société**.\n\n**Pourquoi les techs sont heureux dans votre entreprise ou pourquoi vous rejoindre**\n\nNous sommes une **entreprise à mission** engagée en faveur d'un modèle de protection sociale efficace, transparent et pérenne qui contribue activement à la **qualité de vie pour tous**, et agit concrètement en faveur d’**une société plus solidaire et inclusive**.\n\nNous pensons que la santé est **un bien commun** et non un bien de consommation. Dans ce cadre, nous défendons un modèle vertueux fondé sur les **solidarités collectives** qui s’émancipent des logiques individualistes et culpabilisantes de notre époque. Nous mettons **la transparence, la pédagogie et la confiance** au cœur de notre promesse envers nos adhérents, nos partenaires, la société civile ainsi qu’envers **nos salariés** !\n\nAlors si tu souhaites rejoindre **une opportunité rare** à un stade très excitant de son histoire et lancer **un projet ambitieux et humain** from scratch sur des sujets sociétaux gigantesques, alors ce poste est fait pour toi !\n\n**👋*Ce poste est fait pour toi si :***\n· Tu as la curiosité et la volonté d'apprendre.\n· Tu es doté d'une autonomie et tu es force de proposition.\n· Tu as un bon sens du code propre et optimisé.\n· Tu as de l’affinité pour les frameworks propres (DDD, Clean architecture…).\n· Tu as des principes SOLID, il y en a dans la littérature, mais surtout dans votre code.\n· Tu as une bonne affinité pour l’expérience utilisateur UX/UI.\n· Tu as un mindset Agile\n· Tu as cette envie de partager ton savoir\n· Tu disposes d'un fort niveau d'exigence personnelle\n· Tu te réveille le matin avec l'envie de rendre le monde meilleur\n\n**Missions, contexte** \nTu es développeur informatique, tu as déjà effectué une ou des missions/projets en entreprise, tu es à la recherche d'une opportunité de travailler sur un projet prometteur, avec beaucoup de challenge technique, dans un contexte formateur et à la pointe de la technologie, alors tu es le/la bienvenu(e) chez Jaji.\n\nTu participes à la construction des solutions Web Front, en Vue.js 3 et/ou des applications mobiles en React Native.\n· Tu participes à la construction de la solution Web API BACK architecturé en micro-services, via .NET 6 avec le pattern CQRS en Domain-driven design.\n· Tu es partie prenante dans l’étude des solutions de la plateforme.\n· Tu intègres une Feature Team d’un projet conduit dans un cadre 100% Agile, avec des outils issus des Framework SCRUM et SAFe.\n· Et tu t'appuyeras sur des outils avancés de conduite de tests et de contrôle de qualité.\n· Tu assures un haut niveau de qualité de code (clean code, couverture de tests, maintenabilité, évolutivité)\n\n***Le processus de recrutement sera décliné de la manière suivante :***\n\nCes points peuvent être condensés sur 2 rendez-vous.\n\n* ***Premier échange :*** Tu auras un entretien téléphonique😉\n* ***Deuxième échange :*** Tu seras amené (e) à passer un entretien technique\n* ***Troisième échange :*** Tu rencontreras nos équipes afin de déclencher le match parfait🥳",
+                            "premium": true,
+                            "provider": "flatchr",
+                            "publishDate": 1707746380066,
+                            "referenc e": "Développeur Full Stack Senior Paris H/F",
+                            "seoAlias": "developpeur-full-stack-senior-paris-hf-jaji",
+                            "skillsList": [
+                                {
+                                    "index": 0,
+                                    "name": "Typescript",
+                                    "value": 50
+                                },
+                                {
+                                    "id": ".NET core",
+                                    "index": 1,
+                                    "name": ".NET core",
+                                    "value": 80
+                                },
+                                {
+                                    "id": "C#",
+                                    "index": 2,
+                                    "name": "C#",
+                                    "value": 85
+                                },
+                                {
+                                    "index": 3,
+                                    "name": "Javascript",
+                                    "value": 50
+                                },
+                                {
+                                    "id": "PostgreSQL",
+                                    "index": 4,
+                                    "name": "PostgreSQL",
+                                    "value": 65
+                                },
+                                {
+                                    "id": "HTML5",
+                                    "index": 5,
+                                    "name": "HTML5",
+                                    "value": 60
+                                },
+                                {
+                                    "index": 6,
+                                    "name": "SQL",
+                                    "value": 50
+                                },
+                                {
+                                    "index": 7,
+                                    "name": "Angular",
+                                    "value": 50
+                                },
+                                {
+                                    "index": 8,
+                                    "name": "SCRUM",
+                                    "value": 50
+                                },
+                                {
+                                    "id": "Agile",
+                                    "index": 9,
+                                    "name": "Agile",
+                                    "value": 65
+                                },
+                                {
+                                    "index": 10,
+                                    "name": "React",
+                                    "value": 50
+                                },
+                                {
+                                    "index": 11,
+                                    "name": "Amazon Web Services",
+                                    "value": 50
+                                }
+                            ],
+                            "status": "JOB_PUBLISHED",
+                            "team": {
+                                "management": "",
+                                "technical": ""
+                            },
+                            "title": "Développeur Full Stack Senior Paris H/F",
+                            "rawDescription": "",
+                            "smallCompany": {
+                                "companyName": "Jaji",
+                                "handle": "MjGi9f8DT9GtLS4RQnob",
+                                "id": "5QNUH2zakaSoRiiKTcvJBLHPRJf2",
+                                "seoAlias": "jaji",
+                                "gallery": {
+                                    "handle": "Y0TkanLT36OjK65huPvL"
+                                },
+                                "fallbackGalleryUrl": "https: //i.ytimg.com/vi/4-p8qQ9E_gE/maxresdefault.jpg"
+                            },
+                            "type": "company_job",
+                            "contractTypes": [
+                                "permanent"
+                            ],
+                            "profession": {
+                                "algoliaKeyword": "fullstack",
+                                "langContent": {
+                                    "en": {
+                                        "displayName": "Développeur.euse Full stack",
+                                        "name": "Full stack developer"
+                                    },
+                                    "fr": {
+                                        "displayName": "Développeur.euse Full stack",
+                                        "name": "Développeur Full stack"
+                                    }
+                                }
+                            }
+                        }
+                    ]
+                }
+            ]
+        }
+        
+    }
+    
+}

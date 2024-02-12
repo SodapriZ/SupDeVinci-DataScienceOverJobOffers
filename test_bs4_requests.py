@@ -2,9 +2,19 @@ import requests
 from bs4 import BeautifulSoup
 import json
 import re
+import json
+
+def clean_string(text):
+    # Remove HTML tags
+    clean_text = re.sub(r'<[^>]+>', '', text)
+    # Remove newlines
+    clean_text = clean_text.replace("\n", '').replace('\r', ' ')
+    # Remove extra whitespaces
+    clean_text = re.sub(r'\s+', ' ', clean_text).strip()
+    return clean_text
 
 # URL of the webpage
-url = "https://welovedevs.com/app/fr/jobs?query=&refinementList%5Bdetails.remotePolicy.frequency%5D%5B0%5D=fullTime&place%5Blocation%5D=Nantes%2C%20France&place%5BlatLng%5D=47.218371%2C-1.553621&place%5BplaceId%5D=ChIJra6o8IHuBUgRMO0NHlI3DQQ"
+url = "https://welovedevs.com/app/fr/jobs?query="
 
 # Fetch the HTML content of the webpage
 response = requests.get(url)
@@ -17,18 +27,25 @@ soup = BeautifulSoup(html_content, "html.parser")
 script_tags = soup.find_all("script")
 
 # Define the pattern to search for
-pattern = r'window\.__INSTANTSEARCH_SERVER_STATE__\s*=\s*({.*?})}}'
+pattern = r'window\.__INSTANTSEARCH_SERVER_STATE__\s*=\s*({.*?}}})'
 
 # Iterate through each script tag and search for the pattern
 for script in script_tags :
     if script.string:  # Check if script.string is not None
-        match = re.search(pattern, script.string)
+        script_string = clean_string(script.string)
+        match = re.search(pattern, script_string)
         if match:
+            # Load the modified JSON string
             data = match.group(1)
+            data = data + "}]}]}}}"
             print(data)
-            # # Parse the JSON data
-            # json_data = json.loads(data)
-            # # Now you have the JSON data, you can access it as a Python dictionary
-            # # For example, to access the initialResults key:
-            # initial_results = json_data['initialResults']
-            # print(initial_results)
+            json_data = json.loads(data)
+            # Print the cleaned JSON
+            print(json.dumps(data, indent=4))
+            # Define the output file path
+            output_file = "output.json"
+            # Write the JSON data to the file
+            with open(output_file, "w", encoding="utf-8") as file:
+                json.dump(json_data, file, indent=4, ensure_ascii=False)
+
+            print("JSON data has been written to:", output_file)

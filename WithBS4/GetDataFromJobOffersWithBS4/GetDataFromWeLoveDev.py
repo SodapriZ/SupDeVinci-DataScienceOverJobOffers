@@ -14,7 +14,7 @@ def clean_string(text):
     return clean_text
 
 # URL of the webpage
-url = "https://welovedevs.com/app/fr/jobs?query="
+url = "https://welovedevs.com/app/fr/jobs?query=Data"
 
 # Fetch the HTML content of the webpage
 response = requests.get(url)
@@ -27,7 +27,8 @@ soup = BeautifulSoup(html_content, "html.parser")
 script_tags = soup.find_all("script")
 
 # Define the pattern to search for
-pattern = r'window\.__INSTANTSEARCH_SERVER_STATE__\s*=\s*({.*?}}})'
+# pattern = r'window\.__INSTANTSEARCH_SERVER_STATE__\s*=\s*({.*?}}})'
+pattern = r'"results"\s*:\s*\[(.*?)\]\}'
 
 # Iterate through each script tag and search for the pattern
 for script in script_tags :
@@ -37,8 +38,6 @@ for script in script_tags :
         if match:
             # Load the modified JSON string
             data = match.group(1)
-            data = data + "}]}]}}}"
-            print(data)
             json_data = json.loads(data)
             # Print the cleaned JSON
             print(json.dumps(data, indent=4))

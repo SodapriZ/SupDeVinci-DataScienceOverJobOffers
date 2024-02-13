@@ -1,29 +1,29 @@
 [
     {
-        "job title": "data-engineer-khi-portage",
-        "company name": "KHI PORTAGE",
-        "title": "Data Engineer",
-        "profession": "Data engineer",
+        "job_title": "data-engineer-khi-portage",
+        "company_name": "KHI PORTAGE",
+        "job_offer_title": "Data Engineer",
+        "profession_title": "Data engineer",
         "salary_info": {
             "max": 55,
             "min": 35,
             "recurrence": "year",
             "maxPerYear": 55
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "",
             "technical": ""
         },
         "location": [
             "Tourcoing, France"
         ],
-        "createdTimestamp": 1707752887141,
-        "skill List": [
+        "created_timestamp": 1707752887141,
+        "skill_list": [
             {
                 "name": "Power BI",
                 "value": 50
@@ -49,35 +49,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "data-engineer-hf-groupe-creative",
-        "company name": "Groupe Creative ",
-        "title": "Data Engineer (H/F/X)",
-        "profession": "Data engineer",
+        "job_title": "data-engineer-hf-groupe-creative",
+        "company_name": "Groupe Creative ",
+        "job_offer_title": "Data Engineer (H/F/X)",
+        "profession_title": "Data engineer",
         "salary_info": {
             "max": 50,
             "min": 40,
             "recurrence": "year",
             "maxPerYear": 50
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "\n🤝 Entretien de carrière et entretien professionnel annuel\n\n🕵‍♂ Suivi de mission tous les 3 mois \n\n👨‍🎓 Formations CREATIVE ACADEMY\n\n👨‍🔬 Cellule Innovation pour développer des projets en interne\n\n🎫 Participation à des événements numériques\n\n🎤 Animation de conférences\n\n👨‍🏫 Déjeuners techniques, Organisation de meetups\n\n🎉 Soirées d’agence, Séminaires Groupe\n\n🌱 Politique RSE",
             "technical": "Nos équipes sont aussi variées que nos agences ! 🌈\n\nTraditionnellement basé à Rennes, le Groupe Créative se veut 100% pur beurre mais pas seulement 😉 Nantes 🐘, Bordeaux 🍷, Lille ⚜, Paris ♥ Lyon 🦁 Toulouse qui sont venues étendre nos horizons pour toujours plus de proximité avec nos clients et avec vous !\n\nChez Créative nous aimons les profils innovants, qui ont le cerveau en ébullition, des idées plein la tête et surtout qui possèdent le potentiel de faire de leur rêves… une réalité ! De vrais Cré-acteurs en somme ! \n\nNotre point commun à tous ? La créativité et le besoin d'innover en permanence ! ✨"
         },
         "location": [
             "Lille, France"
         ],
-        "createdTimestamp": 1686661867216,
-        "skill List": [
+        "created_timestamp": 1686661867216,
+        "skill_list": [
             {
                 "name": "Agile",
                 "value": 50
@@ -95,35 +95,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "data-engineer-full-data-management",
-        "company name": "Full Data Management",
-        "title": "Data Engineer",
-        "profession": "Data engineer",
+        "job_title": "data-engineer-full-data-management",
+        "company_name": "Full Data Management",
+        "job_offer_title": "Data Engineer",
+        "profession_title": "Data engineer",
         "salary_info": {
             "max": 50,
             "min": 30,
             "recurrence": "year",
             "maxPerYear": 50
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 4,
-        "team": {
+        "team_description": {
             "management": "",
             "technical": ""
         },
         "location": [
             "Wasquehal, France"
         ],
-        "createdTimestamp": 1705918698809,
-        "skill List": [
+        "created_timestamp": 1705918698809,
+        "skill_list": [
             {
                 "name": "Docker",
                 "value": 50
@@ -197,35 +197,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "data-analyst-hf-khi-portage",
-        "company name": "KHI PORTAGE",
-        "title": "DATA Analyst ( H/F) ",
-        "profession": "Data Analyst",
+        "job_title": "data-analyst-hf-khi-portage",
+        "company_name": "KHI PORTAGE",
+        "job_offer_title": "DATA Analyst ( H/F) ",
+        "profession_title": "Data Analyst",
         "salary_info": {
             "max": 55,
             "min": 35,
             "recurrence": "year",
             "maxPerYear": 55
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "",
             "technical": ""
         },
         "location": [
             "Tourcoing, France"
         ],
-        "createdTimestamp": 1707753628751,
-        "skill List": [
+        "created_timestamp": 1707753628751,
+        "skill_list": [
             {
                 "name": "Power BI",
                 "value": 50
@@ -235,15 +235,15 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "data-engineer-bi-bnp-paribas",
-        "company name": "BNP Paribas",
-        "title": "Data Engineer BI",
-        "profession": {},
+        "job_title": "data-engineer-bi-bnp-paribas",
+        "company_name": "BNP Paribas",
+        "job_offer_title": "Data Engineer BI",
+        "profession_title": {},
         "salary_info": {
             "currency": "€",
             "max": 41,
@@ -251,17 +251,17 @@
             "recurrence": "year",
             "maxPerYear": 41
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {},
+        "team_description": {},
         "location": [
             "Nantes, France"
         ],
-        "createdTimestamp": "1706140800000",
-        "skill List": [
+        "created_timestamp": "1706140800000",
+        "skill_list": [
             {
                 "name": "Agile",
                 "value": 100
@@ -279,26 +279,26 @@
                 "value": 100
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "developpeuseeur-techlead-data-lille-fh-capgemini-1",
-        "company name": "Capgemini",
-        "title": "Développeuse.eur TechLead data - LILLE F/H",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "developpeuseeur-techlead-data-lille-fh-capgemini-1",
+        "company_name": "Capgemini",
+        "job_offer_title": "Développeuse.eur TechLead data - LILLE F/H",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "3",
-        "team": {},
+        "team_description": {},
         "location": [
             "Lille, France"
         ],
-        "createdTimestamp": 1700281818555,
-        "skill List": [
+        "created_timestamp": 1700281818555,
+        "skill_list": [
             {
                 "name": "Mulesoft",
                 "value": 50
@@ -320,35 +320,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "product-owner-po-specialise-en-data-et-intelligence-artificielle-oak",
-        "company name": "Oak",
-        "title": "Product Owner (PO) - Spécialisé en Data et Intelligence Artificielle",
-        "profession": "Product Owner",
+        "job_title": "product-owner-po-specialise-en-data-et-intelligence-artificielle-oak",
+        "company_name": "Oak",
+        "job_offer_title": "Product Owner (PO) - Spécialisé en Data et Intelligence Artificielle",
+        "profession_title": "Product Owner",
         "salary_info": {
             "max": 45,
             "min": 40,
             "recurrence": "year",
             "maxPerYear": 45
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 3,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "Dans une petite équipe de 7 personnes le management est collaboratif ! ",
             "technical": "Le projet de OAK se concentre sur le développement d'un produit révolutionnaire d'aide à la mobilité interne et destiné aux entreprises de taille moyenne. Ce produit intègre intensivement la data science et l'intelligence artificielle, offrant ainsi des solutions sur mesure à nos clients."
         },
         "location": [
             "Talence, France"
         ],
-        "createdTimestamp": 1705918140975,
-        "skill List": [
+        "created_timestamp": 1705918140975,
+        "skill_list": [
             {
                 "name": "React",
                 "value": 50
@@ -394,28 +394,28 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "noveo",
-        "company name": "NOVEO",
-        "title": "spontaneous_application",
-        "profession": {},
+        "job_title": "noveo",
+        "company_name": "NOVEO",
+        "job_offer_title": "spontaneous_application",
+        "profession_title": {},
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {},
+        "team_description": {},
         "location": [
             "Paris, France",
             "Lyon, France",
             "Madrid, Espagne"
         ],
-        "createdTimestamp": 1707400104015,
-        "skill List": [
+        "created_timestamp": 1707400104015,
+        "skill_list": [
             {
                 "name": "Agile",
                 "value": 100
@@ -489,26 +489,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "spontaneousApplications": true
         }
     },
     {
-        "job title": "full-data-management",
-        "company name": "Full Data Management",
-        "title": "spontaneous_application",
-        "profession": {},
+        "job_title": "full-data-management",
+        "company_name": "Full Data Management",
+        "job_offer_title": "spontaneous_application",
+        "profession_title": {},
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "hybrid"
         },
         "required_experience": 0,
-        "team": {},
+        "team_description": {},
         "location": [
             "Wasquehal, France"
         ],
-        "createdTimestamp": 1706532574338,
-        "skill List": [
+        "created_timestamp": 1706532574338,
+        "skill_list": [
             {
                 "name": "Snowflake",
                 "value": 50
@@ -582,35 +582,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "spontaneousApplications": true
         }
     },
     {
-        "job title": "developpeurs-net-angular-full-data-management",
-        "company name": "Full Data Management",
-        "title": "Développeurs .net /Angular",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "developpeurs-net-angular-full-data-management",
+        "company_name": "Full Data Management",
+        "job_offer_title": "Développeurs .net /Angular",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {
             "max": 50,
             "min": 28,
             "recurrence": "year",
             "maxPerYear": 50
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 3,
             "frequency": "no"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "",
             "technical": ""
         },
         "location": [
             "Wasquehal, France"
         ],
-        "createdTimestamp": 1705917876868,
-        "skill List": [
+        "created_timestamp": 1705917876868,
+        "skill_list": [
             {
                 "id": ".NET core",
                 "index": 0,
@@ -632,35 +632,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "developpeur-java-spring-jetdev",
-        "company name": "Jetdev",
-        "title": "Développeur Java / Spring",
-        "profession": "Back-end developer",
+        "job_title": "developpeur-java-spring-jetdev",
+        "company_name": "Jetdev",
+        "job_offer_title": "Développeur Java / Spring",
+        "profession_title": "Back-end developer",
         "salary_info": {
             "max": 55,
             "min": 36,
             "recurrence": "year",
             "maxPerYear": 55
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 3,
             "frequency": "hybrid"
         },
         "required_experience": 2,
-        "team": {
+        "team_description": {
             "management": "",
             "technical": ""
         },
         "location": [
             "Villeneuve-d'Ascq, France"
         ],
-        "createdTimestamp": 1677061618269,
-        "skill List": [
+        "created_timestamp": 1677061618269,
+        "skill_list": [
             {
                 "name": "Spring",
                 "value": 50
@@ -690,35 +690,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "consultante-technique-en-digital-analytics-developpement-front-hf-optimal-ways",
-        "company name": "Optimal Ways",
-        "title": "Consultant(e) technique en Digital Analytics / Développement Front H/F",
-        "profession": "Front-end developer",
+        "job_title": "consultante-technique-en-digital-analytics-developpement-front-hf-optimal-ways",
+        "company_name": "Optimal Ways",
+        "job_offer_title": "Consultant(e) technique en Digital Analytics / Développement Front H/F",
+        "profession_title": "Front-end developer",
         "salary_info": {
             "max": 40,
             "min": 35,
             "recurrence": "year",
             "maxPerYear": 40
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 1,
             "frequency": "hybrid"
         },
         "required_experience": 1,
-        "team": {
+        "team_description": {
             "management": "L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada). Nicolas est également impliqué depuis l'origine dans MeasureCamp, le réseau de conférences le plus important de Digital Analytics au niveau mondial. Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).",
             "technical": "Nous sommes une agence spécialisée dans le Digital Analytics et avons pour mission d’accompagner et former les équipes ecommerce à prendre des décisions éclairées avec une démarche durable et responsable. Nous travaillons principalement avec des grandes marques retail & ecommerce et leurs filiales dans le monde entier (Brady Seton, Cultura, Cyrillus, Decathlon, GiFi, Midas, Somfy, …)."
         },
         "location": [
             "Wasquehal, France"
         ],
-        "createdTimestamp": 1703234168670,
-        "skill List": [
+        "created_timestamp": 1703234168670,
+        "skill_list": [
             {
                 "name": "Javascript",
                 "value": 50
@@ -782,35 +782,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "developpeur-full-stack-listen-too",
-        "company name": "Listen Too",
-        "title": "Développeur.euse Mobile iOS / Android / Flutter",
-        "profession": "Mobile developer",
+        "job_title": "developpeur-full-stack-listen-too",
+        "company_name": "Listen Too",
+        "job_offer_title": "Développeur.euse Mobile iOS / Android / Flutter",
+        "profession_title": "Mobile developer",
         "salary_info": {
             "max": 50,
             "min": 38,
             "recurrence": "year",
             "maxPerYear": 50
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "L'accompagnement est mis en place au travers de : \n- Formation chaque année\n- Veille (Participation au salon, forum, ...) chaque année\n- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",
             "technical": "Equipe composé de 20 développeurs sur des environnements :\nBack-end : Node / Nuxt.JS\nFront-End : Vue.JS; React.JS; Angular\nMobile : Android; iOS; Flutter"
         },
         "location": [
             "Lille, France"
         ],
-        "createdTimestamp": 1702301249118,
-        "skill List": [
+        "created_timestamp": 1702301249118,
+        "skill_list": [
             {
                 "id": "Android",
                 "index": 0,
@@ -850,35 +850,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "developpeur-backend-senior-hf-team-poker-winamax",
-        "company name": "Winamax",
-        "title": "Développeur Back-End Senior (H/F) - Team Poker",
-        "profession": "Back-end developer",
+        "job_title": "developpeur-backend-senior-hf-team-poker-winamax",
+        "company_name": "Winamax",
+        "job_offer_title": "Développeur Back-End Senior (H/F) - Team Poker",
+        "profession_title": "Back-end developer",
         "salary_info": {
             "max": 60,
             "min": 50,
             "recurrence": "year",
             "maxPerYear": 60
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 2,
             "frequency": "hybrid"
         },
         "required_experience": 4,
-        "team": {
+        "team_description": {
             "management": "",
             "technical": ""
         },
         "location": [
             "Paris, France"
         ],
-        "createdTimestamp": 1707403397677,
-        "skill List": [
+        "created_timestamp": 1707403397677,
+        "skill_list": [
             {
                 "id": "NodeJS",
                 "index": 0,
@@ -890,35 +890,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "consultante-fullstack-craft-hoppr-1",
-        "company name": "HoppR",
-        "title": "Consultant.e Fullstack / Craft",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "consultante-fullstack-craft-hoppr-1",
+        "company_name": "HoppR",
+        "job_offer_title": "Consultant.e Fullstack / Craft",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {
             "max": 56,
             "min": 37,
             "recurrence": "year",
             "maxPerYear": 56
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 3,
             "frequency": "hybrid"
         },
         "required_experience": 1,
-        "team": {
+        "team_description": {
             "management": "Nous avons une approche organisationnelle horizontale avec peu de strates hiérarchiques\nNotre vision du management se rapproche plus du mentoring. \n\nAvec des grilles de salaires transparentes, c'est à l'équipe de management de s'assurer que tout le monde se sente bien, progresse et révèle son potentiel. ",
             "technical": "Nos projets sont orientés sur des phases de Build et de l'accompagnement sous forme de Coaching, formation ou mission de Conseil \n\nNous assumons une culture & ADN Tech et investissons donc énormément en formation, mentoring, ou après des communautés pour toujours progresser\n\nLe partage est dont très important pour nous et tu pourras compter sur tes collègues pour échanger, faire de la veille techno et participer à la construction et évolution de HoppR "
         },
         "location": [
             "Lyon, France"
         ],
-        "createdTimestamp": 1705657491213,
-        "skill List": [
+        "created_timestamp": 1705657491213,
+        "skill_list": [
             {
                 "index": 0,
                 "name": "Spring",
@@ -989,35 +989,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "senior-backend-software-engineer-net-lucca",
-        "company name": "LUCCA",
-        "title": "Senior Back-end Software Engineer .NET",
-        "profession": "Back-end developer",
+        "job_title": "senior-backend-software-engineer-net-lucca",
+        "company_name": "LUCCA",
+        "job_offer_title": "Senior Back-end Software Engineer .NET",
+        "profession_title": "Back-end developer",
         "salary_info": {
             "max": 65,
             "min": 50,
             "recurrence": "year",
             "maxPerYear": 65
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 3,
             "frequency": "hybrid"
         },
         "required_experience": 5,
-        "team": {
+        "team_description": {
             "management": "Le management est horizontal et participatif ! ",
             "technical": "Notre pôle R&D est aujourd'hui composé de 180 personnes.\nChaque produit dispose de sa propre équipe, une composition type ; Head of product, Lead PM, Engineer manager, Lead, Software developer back, front, fullstack, Intégrateur, UI/UX ...."
         },
         "location": [
             "Nantes, France"
         ],
-        "createdTimestamp": 1699372588580,
-        "skill List": [
+        "created_timestamp": 1699372588580,
+        "skill_list": [
             {
                 "id": ".NET core",
                 "index": 0,
@@ -1062,26 +1062,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "cloud-engineer-hf-capgemini",
-        "company name": "Capgemini",
-        "title": "Cloud Engineer (F/H) Paris",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "cloud-engineer-hf-capgemini",
+        "company_name": "Capgemini",
+        "job_offer_title": "Cloud Engineer (F/H) Paris",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "4",
-        "team": {},
+        "team_description": {},
         "location": [
             "Issy-les-Moulineaux, France"
         ],
-        "createdTimestamp": 1701145813542,
-        "skill List": [
+        "created_timestamp": 1701145813542,
+        "skill_list": [
             {
                 "name": "Azure",
                 "value": 50
@@ -1115,26 +1115,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "tech-lead-mulesoft-fh-paris-capgemini",
-        "company name": "Capgemini",
-        "title": "Tech Lead Mulesoft (F/H) Paris",
-        "profession": "CTO",
+        "job_title": "tech-lead-mulesoft-fh-paris-capgemini",
+        "company_name": "Capgemini",
+        "job_offer_title": "Tech Lead Mulesoft (F/H) Paris",
+        "profession_title": "CTO",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "5",
-        "team": {},
+        "team_description": {},
         "location": [
             "Issy-les-Moulineaux, France"
         ],
-        "createdTimestamp": 1698118205667,
-        "skill List": [
+        "created_timestamp": 1698118205667,
+        "skill_list": [
             {
                 "name": "Mulesoft",
                 "value": 50
@@ -1188,35 +1188,35 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "dveloppeur-java-aws-hf-listen-too",
-        "company name": "Listen Too",
-        "title": "Développeur Java (H/F)",
-        "profession": "Web developer",
+        "job_title": "dveloppeur-java-aws-hf-listen-too",
+        "company_name": "Listen Too",
+        "job_offer_title": "Développeur Java (H/F)",
+        "profession_title": "Web developer",
         "salary_info": {
             "max": 50,
             "min": 35,
             "recurrence": "year",
             "maxPerYear": 50
         },
-        "remote": {
+        "remote_policy": {
             "daysPerWeek": 3,
             "frequency": "hybrid"
         },
         "required_experience": 3,
-        "team": {
+        "team_description": {
             "management": "L'accompagnement est mis en place au travers de : \n- Formation chaque année\n- Veille (Participation au salon, forum, ...) chaque année\n- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",
             "technical": "Equipe composé de 20 développeurs sur des environnements :\nBack-end : Node / Nuxt.JS\nFront-End : Vue.JS; React.JS; Angular\nMobile : Android; iOS; Flutter"
         },
         "location": [
             "Lille, France"
         ],
-        "createdTimestamp": 1701182100495,
-        "skill List": [
+        "created_timestamp": 1701182100495,
+        "skill_list": [
             {
                 "name": "Amazon Web Services",
                 "value": 50
@@ -1242,26 +1242,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "sogeti-consultante-chefffe-de-projet-it-hf-sogeti",
-        "company name": "Sogeti",
-        "title": "Sogeti Consultant(e) Chef(ffe) de projet IT H/F",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "sogeti-consultante-chefffe-de-projet-it-hf-sogeti",
+        "company_name": "Sogeti",
+        "job_offer_title": "Sogeti Consultant(e) Chef(ffe) de projet IT H/F",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "5",
-        "team": {},
+        "team_description": {},
         "location": [
             "Belfort, France"
         ],
-        "createdTimestamp": 1705989629941,
-        "skill List": [
+        "created_timestamp": 1705989629941,
+        "skill_list": [
             {
                 "name": "Management",
                 "value": 50
@@ -1271,26 +1271,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "sogeti-consultante-developpeurse-java-hf-dijon-sogeti",
-        "company name": "Sogeti",
-        "title": "Sogeti Consultant(e) Développeur(se) Java H/F - Dijon",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "sogeti-consultante-developpeurse-java-hf-dijon-sogeti",
+        "company_name": "Sogeti",
+        "job_offer_title": "Sogeti Consultant(e) Développeur(se) Java H/F - Dijon",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "3",
-        "team": {},
+        "team_description": {},
         "location": [
             "Dijon, France"
         ],
-        "createdTimestamp": 1705989629563,
-        "skill List": [
+        "created_timestamp": 1705989629563,
+        "skill_list": [
             {
                 "name": "Java",
                 "value": 50
@@ -1320,26 +1320,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "sogeti-testeur-qa-lille-hf-sogeti-2",
-        "company name": "Sogeti",
-        "title": "SOGETI - Testeur QA LILLE H/F",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "sogeti-testeur-qa-lille-hf-sogeti-2",
+        "company_name": "Sogeti",
+        "job_offer_title": "SOGETI - Testeur QA LILLE H/F",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "2",
-        "team": {},
+        "team_description": {},
         "location": [
             "Lille, France"
         ],
-        "createdTimestamp": 1705989628833,
-        "skill List": [
+        "created_timestamp": 1705989628833,
+        "skill_list": [
             {
                 "name": "Angular",
                 "value": 50
@@ -1381,26 +1381,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "expert-mulesoft-talend-fh-capgemini",
-        "company name": "Capgemini",
-        "title": "Expert Mulesoft Talend F/H",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "expert-mulesoft-talend-fh-capgemini",
+        "company_name": "Capgemini",
+        "job_offer_title": "Expert Mulesoft Talend F/H",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "3",
-        "team": {},
+        "team_description": {},
         "location": [
             "Toulouse, France"
         ],
-        "createdTimestamp": 1700800214657,
-        "skill List": [
+        "created_timestamp": 1700800214657,
+        "skill_list": [
             {
                 "name": "Mulesoft",
                 "value": 50
@@ -1450,26 +1450,26 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     },
     {
-        "job title": "ingenieur-cloud-confirme-toulouse-fh-capgemini",
-        "company name": "Capgemini",
-        "title": "Ingénieur Cloud confirmé TOULOUSE F/H",
-        "profession": "Développeur.euse Full stack",
+        "job_title": "ingenieur-cloud-confirme-toulouse-fh-capgemini",
+        "company_name": "Capgemini",
+        "job_offer_title": "Ingénieur Cloud confirmé TOULOUSE F/H",
+        "profession_title": "Développeur.euse Full stack",
         "salary_info": {},
-        "remote": {
+        "remote_policy": {
             "frequency": "no"
         },
         "required_experience": "4",
-        "team": {},
+        "team_description": {},
         "location": [
             "Toulouse, France"
         ],
-        "createdTimestamp": 1700800214752,
-        "skill List": [
+        "created_timestamp": 1700800214752,
+        "skill_list": [
             {
                 "name": "Agile",
                 "value": 50
@@ -1479,7 +1479,7 @@
                 "value": 50
             }
         ],
-        "contract Type": {
+        "contract_type": {
             "permanent": true
         }
     }

@@ -39,10 +39,8 @@ for script in script_tags :
             # Load the modified JSON string
             data = match.group(1)
             json_data = json.loads(data)
-            # Print the cleaned JSON
-            print(json.dumps(data, indent=4))
             # Define the output file path
-            output_file = "../result/we_love_dev-output_from_bs4.json"
+            output_file = "./result/we_love_dev-output_from_bs4.json"
             # Write the JSON data to the file
             with open(output_file, "w", encoding="utf-8") as file:
                 json.dump(json_data, file, indent=4, ensure_ascii=False)

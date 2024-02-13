@@ -1195,8 +1195,11 @@
                     "maxPerYear": 55
                 }
             },
-            "helmetHandle": "hGXsT2QdRbOdKJLqy86T",
+            "helmetHandle": "b84tjmuRTyjm4oSKpaNg",
             "id": "-NOsdk1DFMfRtXznXGJ6",
+            "inSelections": {
+                "-Mmx2jtgtj4WnNVEC6Oy": 1707815880541
+            },
             "lastUpdate": 1707815642098,
             "mdDescription": "“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur de ses enjeux” où “règne le bien-être”. Chez Jetdev on a eu un départ en 6 ans.\n\nTu fais partie de ceux qui pensent que le JDK 8 a tout changé ? Es-tu capable d'expliquer l'IoC sans sourciller ? Connais-tu tous les composants de Spring, de Spring Security à Spring Data, comme si c'étaient tes meilleurs potes ? Tu es content de lire craftsmanship dans cette annonce et tu te demandes à partir de quand je vais parler de clean code ou de clean architecture ? Pour toi, un bon code c’est un code simple, compréhensible et sécurisé ? Si en plus de ça tu as le mindset Agile, c’est bien toi qu’on recherche. Si certains de ces concepts te sont inconnus, tu auras l’occasion de te former chez nous dans une équipe de n°10.\nMais avant tout, tu dois pouvoir devenir un membre à part entière de la famille Jetdev. Ça veut dire aimer passer du bon temps avec ses collègues. Il faut aussi avoir une grande conscience professionnelle et être un team player.\n\nTu seras l’image et le porte parole de Jetdev chez nos clients à travers tes missions de développeurs. Tu apporteras ton expertise afin de conseiller au mieux nos clients dans le développement de leurs solutions. Tu sauras lui dire “Non” quand il le faudra, tu sauras donner de ta personne dans les moments difficiles mais aussi et surtout, tu distribueras ta bonne humeur et ton savoir vivre afin de rendre leurs journées meilleures.",
             "premium": true,
@@ -2876,7 +2879,7 @@
     "query": "Data",
     "params": "aroundPrecision=20000&facets=%5B%22contractTypes%22%2C%22details.professionId%22%2C%22details.remotePolicy.frequency%22%2C%22details.requiredExperience%22%2C%22details.salary.maxPerYear%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=24&maxValuesPerFacet=10&page=0&query=Data&tagFilters=",
     "index": "public_jobs",
-    "processingTimeMS": 4,
+    "processingTimeMS": 1,
     "processingTimingsMS": {
         "_request": {
             "roundTrip": 5
@@ -2884,16 +2887,8 @@
         "afterFetch": {
             "format": {
                 "total": 1
-            },
-            "total": 1
-        },
-        "getIdx": {
-            "load": {
-                "total": 1
-            },
-            "total": 2
-        },
-        "total": 4
+            }
+        }
     },
-    "serverTimeMS": 5
+    "serverTimeMS": 2
 }

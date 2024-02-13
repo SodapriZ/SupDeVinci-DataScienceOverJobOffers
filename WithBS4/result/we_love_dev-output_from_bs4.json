@@ -1157,6 +1157,130 @@
             "application30Days": true,
             "applicationsStats": {
                 "allTime": {
+                    "acceptanceRate": 0.6666666666666666,
+                    "replyTime": 439731108.0416667
+                },
+                "last30Days": {
+                    "acceptanceRate": 1,
+                    "replyTime": 159468169.5
+                },
+                "updatedAt": 1705588344152
+            },
+            "companyId": "RuLqSXVa5qeFSOcTrDGVxmjpbZW2",
+            "createdAt": 1677061618269,
+            "creatorId": "RuLqSXVa5qeFSOcTrDGVxmjpbZW2",
+            "descriptionPreview": "“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur",
+            "details": {
+                "contracts": {
+                    "permanent": true
+                },
+                "locale": "fr",
+                "places": {
+                    "ChIJkcr8qr3XwkcRk4243VlZBAA": {
+                        "position": 0,
+                        "precise": true,
+                        "updatedAt": 1677061521618
+                    }
+                },
+                "professionId": "-Mx44QoDU81SRDJrb13z",
+                "remotePolicy": {
+                    "daysPerWeek": 3,
+                    "frequency": "hybrid"
+                },
+                "requiredExperience": 2,
+                "salary": {
+                    "max": 55,
+                    "min": 36,
+                    "recurrence": "year",
+                    "maxPerYear": 55
+                }
+            },
+            "helmetHandle": "hGXsT2QdRbOdKJLqy86T",
+            "id": "-NOsdk1DFMfRtXznXGJ6",
+            "lastUpdate": 1707815642098,
+            "mdDescription": "“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur de ses enjeux” où “règne le bien-être”. Chez Jetdev on a eu un départ en 6 ans.\n\nTu fais partie de ceux qui pensent que le JDK 8 a tout changé ? Es-tu capable d'expliquer l'IoC sans sourciller ? Connais-tu tous les composants de Spring, de Spring Security à Spring Data, comme si c'étaient tes meilleurs potes ? Tu es content de lire craftsmanship dans cette annonce et tu te demandes à partir de quand je vais parler de clean code ou de clean architecture ? Pour toi, un bon code c’est un code simple, compréhensible et sécurisé ? Si en plus de ça tu as le mindset Agile, c’est bien toi qu’on recherche. Si certains de ces concepts te sont inconnus, tu auras l’occasion de te former chez nous dans une équipe de n°10.\nMais avant tout, tu dois pouvoir devenir un membre à part entière de la famille Jetdev. Ça veut dire aimer passer du bon temps avec ses collègues. Il faut aussi avoir une grande conscience professionnelle et être un team player.\n\nTu seras l’image et le porte parole de Jetdev chez nos clients à travers tes missions de développeurs. Tu apporteras ton expertise afin de conseiller au mieux nos clients dans le développement de leurs solutions. Tu sauras lui dire “Non” quand il le faudra, tu sauras donner de ta personne dans les moments difficiles mais aussi et surtout, tu distribueras ta bonne humeur et ton savoir vivre afin de rendre leurs journées meilleures.",
+            "premium": true,
+            "publishDate": 1707815642098,
+            "seoAlias": "developpeur-java-spring-jetdev",
+            "skillsList": [
+                {
+                    "name": "Spring",
+                    "value": 50
+                },
+                {
+                    "name": "Spring Boot",
+                    "value": 50
+                },
+                {
+                    "name": "Java",
+                    "value": 50
+                },
+                {
+                    "name": "PostgreSQL",
+                    "value": 50
+                },
+                {
+                    "name": "MongoDB",
+                    "value": 50
+                },
+                {
+                    "name": "Google Cloud",
+                    "value": 50
+                },
+                {
+                    "name": "Git",
+                    "value": 50
+                }
+            ],
+            "status": "JOB_PUBLISHED",
+            "team": {
+                "management": "",
+                "technical": ""
+            },
+            "title": "Développeur Java / Spring",
+            "rawDescription": "",
+            "smallCompany": {
+                "companyName": "Jetdev",
+                "handle": "1g94NdaS12ZAfq6Y37jQ",
+                "id": "RuLqSXVa5qeFSOcTrDGVxmjpbZW2",
+                "seoAlias": "jetdev",
+                "gallery": {
+                    "handle": "P2LIaThYQMGOMELvfJi6"
+                },
+                "fallbackGalleryUrl": "https://i.ytimg.com/vi/utT1OGWCiiQ/maxresdefault.jpg"
+            },
+            "type": "company_job",
+            "contractTypes": [
+                "permanent"
+            ],
+            "profession": {
+                "algoliaKeyword": "backend",
+                "langContent": {
+                    "en": {
+                        "displayName": "Back-end developer",
+                        "name": "Back-end developer"
+                    },
+                    "fr": {
+                        "displayName": "Développeur·euse Back-end",
+                        "name": "Développeur Back-end"
+                    }
+                }
+            },
+            "_geoloc": [
+                {
+                    "lat": 50.60800649999999,
+                    "lng": 3.1661191
+                }
+            ],
+            "formattedPlaces": [
+                "Villeneuve-d'Ascq, France"
+            ],
+            "objectID": "-NOsdk1DFMfRtXznXGJ6"
+        },
+        {
+            "application30Days": true,
+            "applicationsStats": {
+                "allTime": {
                     "acceptanceRate": 0.5,
                     "replyTime": 280269738.75
                 },
@@ -2691,147 +2815,21 @@
                 "Toulouse, France"
             ],
             "objectID": "sap+42078445"
-        },
-        {
-            "applicationUrl": "https://capgemini-service.contactrh.com/jobs/12582/42199203/fr_FR",
-            "companyId": "PyG4jtlBilPXBmeN2UbOrYbtnee2",
-            "createdAt": 1705903235227,
-            "creatorId": "PyG4jtlBilPXBmeN2UbOrYbtnee2",
-            "descriptionPreview": "Capgemini Engineering fait partie du groupe Capgemini, un leader mondial, responsable et multiculturel, regroupant 325 000 personnes dans plus de 50 pays. Partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie, le Groupe est guidé au quotidien par sa raison d’être : libérer les énergies humaines par la technologie p",
-            "details": {
-                "contracts": {
-                    "permanent": true
-                },
-                "places": {
-                    "ChIJs-1yGJPIlkcR8NtxAL1fChw": {
-                        "position": 0
-                    }
-                },
-                "professionId": "-Mx3kkb13fZejNbGASKP",
-                "remotePolicy": {
-                    "frequency": "no"
-                },
-                "requiredExperience": "3",
-                "start": "asap"
-            },
-            "helmetHandle": "FDdvhCBqQliiA0AAqy1A",
-            "id": "sap+42199203",
-            "lastUpdate": 1705903235277,
-            "mdDescription": "**L'offre**\n\n\nCapgemini Engineering fait partie du groupe Capgemini, un leader mondial, responsable et multiculturel, regroupant 325 000 personnes dans plus de 50 pays. Partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie, le Groupe est guidé au quotidien par sa raison d’être : libérer les énergies humaines par la technologie pour un avenir inclusif et durable. Fort de 55 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes.\n\n\nMission:\n\n * Accompagner et guider les équipes afin d'installer, configurer et maintenir en conditions opérationnelles les équipements\n * Garantir l'exploitabilité et la fiabilité de l'application\n * Assurer les phases d'installation\n * Assurer le RUN des applications en production\n * Instiller la culture Devops et mettre en place différents outils au sein des projets\n * Contribuer au développement à l'évolution et à la maintenance des outils\n * Assurer le respect des délais et du niveau de qualité attendu\n\n\n**L'entreprise**\n\n\nCapgemini est un leader mondial du conseil, des services informatiques et de la transformation numérique. A la pointe de l’innovation, le Groupe aide ses clients à saisir l’ensemble des opportunités que présentent le cloud, le digital et les plateformes. Fort de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, il accompagne les entreprises et organisations dans la réalisation de leurs ambitions, de la définition de leur stratégie à la mise en œuvre de leurs opérations. Pour Capgemini, ce sont les hommes et les femmes qui donnent toute sa valeur à la technologie. Résolument multiculturel, le Groupe compte 200 000 collaborateurs présents dans plus de 40 pays. Il a réalisé un chiffre d'affaires de 12,8 milliards d'euros en 2017.\nPlus d’informations sur www.capgemini.com. People matter, results count.\n\n\n**Votre profil**\n\n\nVotre profil :\n\n * Minimum 2 ans d'expérience en IT\n * Orienté client et résultats\n * Organisation, rigueur, pragmatisme, ténacité et autonomie\n * Qualités relationnelles, sens de l'écoute, travail en équipe\n * Excellentes compétences rédactionnelles\n * Maîtrise de l'anglais\n\n\n\nCompétences :\n\n * Orchestration &amp; Containeurs : Kubernetes, Docker…\n * Système: RedHat, …\n * Hyperscaler AWS, AZUR, GCP ou Cloud Privé OpenStack, Openshift,…\n * Automatisation: Ansible, Puppet, Jenkis, GitLab, Terraform, …\n * Programation/Scripting: Python, Bash, Shell, YAML …\n * Virtualisation: VMWare\n * Monitoring: Prometheus, Grafana, Elastic Search, Kibana, …\n * Mise en place de Pipeline CI/CD\n * Des connaissances de la 5GC sont un plus\n\n\nCe poste est ouvert aux personnes en situation de Handicap.",
-            "premium": true,
-            "provider": "sap",
-            "publishDate": 1705903235277,
-            "reference": "1719414-42199203",
-            "seoAlias": "ingenieure-devops-hf-capgemini-engineering-5",
-            "skillsList": [
-                {
-                    "name": "Ansible",
-                    "value": 50
-                },
-                {
-                    "name": "Bash",
-                    "value": 50
-                },
-                {
-                    "name": "Gitlab",
-                    "value": 50
-                },
-                {
-                    "name": "Grafana",
-                    "value": 50
-                },
-                {
-                    "name": "Kubernetes",
-                    "value": 50
-                },
-                {
-                    "name": "Management",
-                    "value": 50
-                },
-                {
-                    "name": "OpenShift",
-                    "value": 50
-                },
-                {
-                    "name": "Openstack",
-                    "value": 50
-                },
-                {
-                    "name": "Prometheus",
-                    "value": 50
-                },
-                {
-                    "name": "Puppet",
-                    "value": 50
-                },
-                {
-                    "name": "Python",
-                    "value": 50
-                },
-                {
-                    "name": "Terraform",
-                    "value": 50
-                },
-                {
-                    "name": "VMWare",
-                    "value": 50
-                }
-            ],
-            "status": "JOB_PUBLISHED",
-            "title": "Ingénieur(e) DevOps H/F",
-            "rawDescription": "",
-            "smallCompany": {
-                "companyName": "Capgemini Engineering",
-                "handle": "ROrpQ17uQ2mDdRwCNOQh",
-                "id": "PyG4jtlBilPXBmeN2UbOrYbtnee2",
-                "seoAlias": "capgemini-engineering",
-                "gallery": {
-                    "handle": "hZbPxU7GSOl3wKBDLzma"
-                },
-                "fallbackGalleryUrl": "https://i.ytimg.com/vi/MZ0Z6PjdnQo/maxresdefault.jpg"
-            },
-            "type": "company_job",
-            "contractTypes": [
-                "permanent"
-            ],
-            "profession": {
-                "algoliaKeyword": "fullstack",
-                "langContent": {
-                    "en": {
-                        "displayName": "Développeur.euse Full stack",
-                        "name": "Full stack developer"
-                    },
-                    "fr": {
-                        "displayName": "Développeur.euse Full stack",
-                        "name": "Développeur Full stack"
-                    }
-                }
-            },
-            "_geoloc": [
-                {
-                    "lat": 48.6019858,
-                    "lng": 7.783521699999998
-                }
-            ],
-            "formattedPlaces": [
-                "Strasbourg, France"
-            ],
-            "objectID": "sap+42199203"
         }
     ],
-    "nbHits": 71,
+    "nbHits": 72,
     "page": 0,
     "nbPages": 3,
     "hitsPerPage": 24,
     "facets": {
         "contractTypes": {
-            "permanent": 48,
+            "permanent": 49,
             "spontaneousApplications": 22,
             "freelance": 1
         },
         "details.professionId": {
             "-Mx3kkb13fZejNbGASKP": 18,
-            "-Mx44QoDU81SRDJrb13z": 5,
+            "-Mx44QoDU81SRDJrb13z": 6,
             "-NKn5LxIRWG_hKLi5-Zd": 3,
             "-Mx3jlcS4yb7nXcwFhhO": 2,
             "-Mx3kNKTkaE7pzppmXYb": 1,
@@ -2848,13 +2846,13 @@
             "45": 3,
             "50": 6,
             "52": 2,
-            "55": 4,
+            "55": 5,
             "56": 1,
             "60": 5,
             "70": 2
         },
         "details.remotePolicy.frequency": {
-            "hybrid": 50,
+            "hybrid": 51,
             "no": 14,
             "fullTime": 2
         }
@@ -2864,7 +2862,7 @@
             "min": 0,
             "max": 75,
             "avg": 45,
-            "sum": 1681
+            "sum": 1736
         }
     },
     "exhaustiveFacetsCount": true,
@@ -2878,24 +2876,12 @@
     "query": "Data",
     "params": "aroundPrecision=20000&facets=%5B%22contractTypes%22%2C%22details.professionId%22%2C%22details.remotePolicy.frequency%22%2C%22details.requiredExperience%22%2C%22details.salary.maxPerYear%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=24&maxValuesPerFacet=10&page=0&query=Data&tagFilters=",
     "index": "public_jobs",
-    "processingTimeMS": 4,
+    "processingTimeMS": 1,
     "processingTimingsMS": {
         "_request": {
-            "roundTrip": 6
+            "roundTrip": 5
         },
-        "afterFetch": {
-            "format": {
-                "total": 1
-            },
-            "total": 1
-        },
-        "getIdx": {
-            "load": {
-                "total": 1
-            },
-            "total": 1
-        },
-        "total": 4
+        "total": 1
     },
-    "serverTimeMS": 4
+    "serverTimeMS": 1
 }

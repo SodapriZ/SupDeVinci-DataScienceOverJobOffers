@@ -43,7 +43,7 @@ def clean_data(parsed_data_list):
             "salary_min": parsed_data["salary_info"].get("min"),
             "remote_quantity": parsed_data["remote_policy"].get("daysPerWeek"),
             "job_format": parsed_data["remote_policy"].get("frequency"),
-            "required_experience": parsed_data.get("required_experience"),
+            "required_experience": int(parsed_data.get("required_experience")),
             "team_management_description": parsed_data["team_description"].get("management"),
             "team_technical_description": parsed_data["team_description"].get("technical"),
             **location_data,
@@ -71,7 +71,9 @@ cleaned_data_list = clean_data(parsed_data_list)
 df = pd.DataFrame(cleaned_data_list)
 
 # Filter DataFrame to select rows where profession_title is not an empty dictionary
-filtered_df = df[df['profession_title'].apply(lambda x: isinstance(x, dict) and bool(x))]
+filtered_df = df[df['profession_title'] != {}]
+
+print(filtered_df.head(5))
 
 
 # Write DataFrame to Parquet file

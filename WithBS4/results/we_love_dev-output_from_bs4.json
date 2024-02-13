@@ -2879,11 +2879,24 @@
     "query": "Data",
     "params": "aroundPrecision=20000&facets=%5B%22contractTypes%22%2C%22details.professionId%22%2C%22details.remotePolicy.frequency%22%2C%22details.requiredExperience%22%2C%22details.salary.maxPerYear%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=24&maxValuesPerFacet=10&page=0&query=Data&tagFilters=",
     "index": "public_jobs",
-    "processingTimeMS": 1,
+    "processingTimeMS": 2,
     "processingTimingsMS": {
         "_request": {
-            "roundTrip": 13
-        }
+            "queue": 4,
+            "roundTrip": 14
+        },
+        "afterFetch": {
+            "format": {
+                "total": 1
+            }
+        },
+        "getIdx": {
+            "load": {
+                "total": 1
+            },
+            "total": 1
+        },
+        "total": 2
     },
-    "serverTimeMS": 2
+    "serverTimeMS": 8
 }

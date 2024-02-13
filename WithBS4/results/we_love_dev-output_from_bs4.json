@@ -2882,12 +2882,7 @@
     "processingTimeMS": 1,
     "processingTimingsMS": {
         "_request": {
-            "roundTrip": 5
-        },
-        "afterFetch": {
-            "format": {
-                "total": 1
-            }
+            "roundTrip": 13
         }
     },
     "serverTimeMS": 2

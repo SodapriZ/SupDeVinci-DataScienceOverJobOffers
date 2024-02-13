@@ -57,7 +57,7 @@ def clean_data(parsed_data_list):
     return cleaned_data_list
 
 # Read JSON data from file
-file_path = "./result/we_love_dev-parsed_data.json"
+file_path = "./results/we_love_dev-parsed_data.json"
 with open(file_path, 'r', encoding='utf-8') as file:
     json_data = file.read()
 
@@ -75,5 +75,5 @@ filtered_df = df[df['profession_title'].apply(lambda x: isinstance(x, dict) and 
 
 
 # Write DataFrame to Parquet file
-output_file_path = "./result/we_love_dev-cleaned_data.parquet"
+output_file_path = "./results/we_love_dev-cleaned_data.parquet"
 filtered_df.to_parquet(output_file_path, engine='pyarrow', index=False)

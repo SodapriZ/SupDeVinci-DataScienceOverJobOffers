@@ -12,4 +12,4 @@ for directory in directories:
     for file in files:
         file_path = os.path.join(directory, file)
         print(f"Executing {file_path}...")
-        os.system(f"python {file_path}")
+        os.system(f"py {file_path}")

@@ -82,8 +82,12 @@ df = pd.DataFrame(cleaned_data_list)
 # Filter DataFrame to select rows where profession_title is not an empty dictionary
 filtered_df = df[df['profession_title'] != {}]
 
-print('Job Offers DataFrame : ',filtered_df.head(5))
+# print('Job Offers DataFrame : ',filtered_df.head(5))
+print('Job Offers DataFrame : ',filtered_df.iloc[1]['team_management_description'])
+print('Job Offers DataFrame : ',filtered_df.iloc[1]['team_technical_description'])
 
 # Write DataFrame to Parquet file
-output_file_path = "./results/we_love_dev-cleaned_data.parquet"
-filtered_df.to_parquet(output_file_path, engine='pyarrow', index=False)
+output_parquet_file_path = "./results/we_love_dev-cleaned_data.parquet"
+output_csv_file_path = "./results/we_love_dev-cleaned_data.csv"
+filtered_df.to_parquet(output_parquet_file_path, engine='pyarrow', index=False)
+filtered_df.to_csv(output_csv_file_path, index=False)

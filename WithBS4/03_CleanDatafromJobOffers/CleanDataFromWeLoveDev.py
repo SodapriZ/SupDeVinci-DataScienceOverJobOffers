@@ -28,6 +28,14 @@ def parse_location(location):
         return {"city": city, "country": country}
     return {"city": None, "country": None}
 
+def categorize_experience(experience):
+    if experience <= 3:
+        return '[0-3]'
+    elif experience <= 7:
+        return '[3-7]'
+    else:
+        return '[+7]'
+
 def clean_data(parsed_data_list):
     cleaned_data_list = []
     for parsed_data in parsed_data_list:
@@ -44,6 +52,7 @@ def clean_data(parsed_data_list):
             "remote_quantity": parsed_data["remote_policy"].get("daysPerWeek"),
             "job_format": parsed_data["remote_policy"].get("frequency"),
             "required_experience": int(parsed_data.get("required_experience")),
+            "required_experience_category":categorize_experience(int(parsed_data.get("required_experience"))),
             "team_management_description": parsed_data["team_description"].get("management"),
             "team_technical_description": parsed_data["team_description"].get("technical"),
             **location_data,
@@ -73,8 +82,7 @@ df = pd.DataFrame(cleaned_data_list)
 # Filter DataFrame to select rows where profession_title is not an empty dictionary
 filtered_df = df[df['profession_title'] != {}]
 
-print(filtered_df.head(5))
-
+print('Job Offers DataFrame : ',filtered_df.head(5))
 
 # Write DataFrame to Parquet file
 output_file_path = "./results/we_love_dev-cleaned_data.parquet"

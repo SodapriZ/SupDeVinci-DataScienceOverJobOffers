@@ -1,0 +1,78 @@
+skill_name,skill_count
+Java,8
+Python,7
+Management,7
+SQL,6
+Agile,6
+Google Cloud,5
+Angular,5
+Javascript,4
+Amazon Web Services,4
+Talend,4
+PostgreSQL,3
+Mulesoft,3
+WebMethods,3
+Kong,3
+Spring Boot,3
+React,3
+Spring,3
+Power BI,3
+MongoDB,3
+NodeJS,3
+Kafka,3
+Git,3
+Azure,3
+Réseau,2
+Cucumber,2
+C#,2
+Github,2
+.NET core,2
+Selenium,2
+API REST,2
+Docker,2
+Jira,2
+Groovy,2
+RabbitMQ,2
+Typescript,2
+IoT,1
+VMware vSphere,1
+Gitlab,1
+Robot Framework,1
+Postman,1
+VueJS,1
+Jenkins,1
+Microsoft SQL Server,1
+Notion,1
+Prometheus,1
+Mantis,1
+Serverless,1
+Oracle,1
+Chef,1
+Tomcat,1
+SwiftUI,1
+Svelte,1
+CSS3,1
+Flutter,1
+RxKotlin,1
+Kubernetes,1
+Stambia,1
+Machine Learning,1
+Apache Airflow,1
+Terraform,1
+Snowflake,1
+Mysql,1
+Confluence,1
+NLP (Natural language processing),1
+Numpy,1
+Database,1
+HTML5,1
+Actionscript,1
+Gestion de projet,1
+jQuery,1
+Google Apps Script,1
+Firebase,1
+Android,1
+Kotlin,1
+Swift,1
+IOS,1
+XRay,1

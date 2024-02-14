@@ -3,10 +3,63 @@ import pandas as pd
 from datetime import datetime
 import pyarrow.parquet as pq
 
+import nltk
+from nltk.tokenize import word_tokenize
+from nltk.corpus import stopwords
+from nltk.stem import WordNetLemmatizer
+from nltk import ne_chunk
+from nltk.tokenize import word_tokenize
+from nltk.tag import pos_tag
+
+import spacy
+
+
+nltk.download('punkt')
+nltk.download('stopwords')
+nltk.download('wordnet')
+nltk.download('maxent_ne_chunker')
+nltk.download('words')
+nltk.download('averaged_perceptron_tagger')
+
+# Load the English language model
+nlp = spacy.load('fr_core_news_sm') 
+
 def convert_timestamp(timestamp_ms):
     if timestamp_ms:
         return datetime.fromtimestamp(int(timestamp_ms) / 1000).strftime('%Y-%m-%d %H:%M:%S')
     return None
+
+def preprocess_text(text):
+    if text :
+        # Tokenize text
+        tokens = word_tokenize(text)
+        # Remove punctuation and lowercase
+        tokens = [word.lower() for word in tokens if word.isalnum()]
+        # Remove stopwords
+        stop_words = set(stopwords.words('english'))
+        tokens = [word for word in tokens if not word in stop_words]
+        # Lemmatization
+        lemmatizer = WordNetLemmatizer()
+        tokens = [lemmatizer.lemmatize(word) for word in tokens]
+        return ' '.join(tokens)
+    else :
+        return ''
+
+def extract_named_entities(text):
+    if text:
+        # Process the text with spaCy
+        doc = nlp(text)
+        # Extract named entities
+        named_entities = [ent.text for ent in doc.ents if ent.label_ in ['ORG', 'DATE', 'GPE', 'EVENT', 'PERSON']]
+        return named_entities
+    else:
+        return []
+
+# Function to add named entities to DataFrame
+def add_named_entities(text):
+    named_entities = extract_named_entities(text)
+    return ', '.join(named_entities)
+
 
 def parse_skill_list(skill_list):
     if skill_list:
@@ -54,7 +107,11 @@ def clean_data(parsed_data_list):
             "required_experience": int(parsed_data.get("required_experience")),
             "required_experience_category":categorize_experience(int(parsed_data.get("required_experience"))),
             "team_management_description": parsed_data["team_description"].get("management"),
+            "team_management_description_processed": preprocess_text(parsed_data["team_description"].get("management")),
+            "team_management_description_entities": add_named_entities(preprocess_text(parsed_data["team_description"].get("management"))),
             "team_technical_description": parsed_data["team_description"].get("technical"),
+            "team_technical_description_processed": preprocess_text(parsed_data["team_description"].get("technical")),
+            "team_technical_description_entities": add_named_entities(preprocess_text(parsed_data["team_description"].get("technical"))),
             **location_data,
             "created_timestamp": convert_timestamp(parsed_data.get("created_timestamp")),
             "skills": parse_skill_list(parsed_data.get("skill_list")),
@@ -83,8 +140,10 @@ df = pd.DataFrame(cleaned_data_list)
 filtered_df = df[df['profession_title'] != {}]
 
 # print('Job Offers DataFrame : ',filtered_df.head(5))
-print('Job Offers DataFrame : ',filtered_df.iloc[1]['team_management_description'])
-print('Job Offers DataFrame : ',filtered_df.iloc[1]['team_technical_description'])
+print('Description Full : ',filtered_df.iloc[1]['team_management_description'])
+print('Description Processed : ',filtered_df.iloc[1]['team_management_description_processed'])
+print('Description Entity : ',filtered_df.iloc[1]['team_management_description_entities'])
+# print('Job Offers DataFrame : ',filtered_df.iloc[1]['team_technical_description'])
 
 # Write DataFrame to Parquet file
 output_parquet_file_path = "./results/we_love_dev-cleaned_data.parquet"

@@ -1,4 +1,4 @@
-company_name,job_offer_title,profession_title,description,salary_max,salary_avg,salary_min,remote_quantity,job_format,required_experience,required_experience_category,team_management_description,team_management_description_processed,team_management_description_entities,team_technical_description,team_technical_description_processed,team_technical_description_entities,city,country,created_timestamp,skills,cdi
+company_name,job_offer_title,profession_title,description,description_summarized,salary_max,salary_avg,salary_min,remote_quantity,job_format,required_experience,required_experience_category,team_management_description,team_management_description_summarized,team_technical_description,team_technical_description_summarized,city,country,created_timestamp,skills,cdi
 KHI PORTAGE,Data Engineer,Data engineer,"Quelle sera l étendu de vos extraordinaires missions :
 
 * Initier et développer des outils d infrastructure à la hauteur de Stark Industries dans l objectif de façonner et transformer les données.
@@ -22,7 +22,12 @@ Ce qui vous attend chez KHI PORTAGE :
 * Des projets variés, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
 * De l’autonomie et des responsabilités dans vos missions.
 * Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs (confiance ; transparence , humain ; passion ; éco responsabilité )
-* L’opportunité de participer à des afterworks, événements et sessions sportives régulières afin de célébrer nos succès en équipe",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,,,Tourcoing,France,2024-02-12 16:48:07,Power BI/Python/SQL/Azure/Google Cloud/Amazon Web Services,True
+* L’opportunité de participer à des afterworks, événements et sessions sportives régulières afin de célébrer nos succès en équipe","* Être un(e) acteur(rice) de choix dans l architecture big data afin de répondre aux différents cas métiers.
+* Maitriser des technologies Big Data tel(le) un(e) expert(e) des mystères technologiques ainsi que les environnements Google Cloud platform, Amazon Web Services et/ou Microsoft Azure
+* Connaitre les langages SQL et Python
+* Des bases solides en architecture data (notamment informatique décisionnelle et big data)
+* Une force de proposition sans faille sur la mise en œuvre et l utilisation des solutions Big Data
+* Être un(e) protecteur(rice) tel Captain America et donc connaitre les principes de sécurité et bonnes pratiques.",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,Tourcoing,France,2024-02-12 16:48:07,Power BI/Python/SQL/Azure/Google Cloud/Amazon Web Services,True
 Groupe Creative ,Data Engineer (H/F/X),Data engineer,"Envie d’un challenge sur la région lilloise ? Super ! Notre équipe d'ingénieurs Data, cherche leur futur(e ) collaborateur(trice) ! 
  
 Voilà le type de missions qui pourront vous être confiées :
@@ -78,7 +83,9 @@ A la suite d’un court échange téléphonique avec Lisa, vous pourrez la renco
 Groupe Créative offre à tous ses candidats les mêmes opportunités d’accès à l’emploi sans distinction de genre, d’ethnicité, de religion, d’orientation sexuelle, de statut social, de handicap et d’âge.
  
 **Et pour finir :**
-Quelques mots de notre fondateur, Raphaël DOYEN, qui vous partage sa vision de l’entreprise : [https://www.youtube.com/watch?v=EoIVkVDvuoc](https://www.youtube.com/watch?v=EoIVkVDvuoc)",50.0,45.0,40.0,2.0,hybrid,3,[0-3],"
+Quelques mots de notre fondateur, Raphaël DOYEN, qui vous partage sa vision de l’entreprise : [https://www.youtube.com/watch?v=EoIVkVDvuoc](https://www.youtube.com/watch?v=EoIVkVDvuoc)","* Collecter, consolider et modéliser de gros volumes de données (Big Data, Data Warehouses, Data Lakes).
+**Suite du processus :**
+A la suite d’un court échange téléphonique avec Lisa, vous pourrez la rencontrer lors d’un entretien RH.",50.0,45.0,40.0,2.0,hybrid,3,[0-3],"
 🤝 Entretien de carrière et entretien professionnel annuel
 
 🕵‍♂ Suivi de mission tous les 3 mois 
@@ -95,13 +102,16 @@ Quelques mots de notre fondateur, Raphaël DOYEN, qui vous partage sa vision de 
 
 🎉 Soirées d’agence, Séminaires Groupe
 
-🌱 Politique RSE",entretien de carrière et entretien professionnel annuel suivi de mission tous le 3 mois formation creative academy cellule innovation pour développer de projets en interne participation à de événements numériques animation de conférences déjeuners technique organisation de meetups soirées agence séminaires groupe politique rse,,"Nos équipes sont aussi variées que nos agences ! 🌈
+🌱 Politique RSE",,"Nos équipes sont aussi variées que nos agences ! 🌈
 
 Traditionnellement basé à Rennes, le Groupe Créative se veut 100% pur beurre mais pas seulement 😉 Nantes 🐘, Bordeaux 🍷, Lille ⚜, Paris ♥ Lyon 🦁 Toulouse qui sont venues étendre nos horizons pour toujours plus de proximité avec nos clients et avec vous !
 
 Chez Créative nous aimons les profils innovants, qui ont le cerveau en ébullition, des idées plein la tête et surtout qui possèdent le potentiel de faire de leur rêves… une réalité ! De vrais Cré-acteurs en somme ! 
 
-Notre point commun à tous ? La créativité et le besoin d'innover en permanence ! ✨",no équipes sont aussi variées que no agences traditionnellement basé à rennes le groupe créative se veut 100 pur beurre mais pa seulement nantes bordeaux lille paris lyon toulouse qui sont venue étendre no horizon pour toujours plus de proximité avec no client et avec vous chez créative nous aimons le profils innovants qui ont le cerveau en ébullition de idées plein la tête et surtout qui possèdent le potentiel de faire de leur une réalité de vrais en somme notre point commun à tous la créativité et le besoin en permanence,,Lille,France,2023-06-13 15:11:07,Agile/Power BI/Python/SQL,True
+Notre point commun à tous ? La créativité et le besoin d'innover en permanence ! ✨","Nos équipes sont aussi variées que nos agences !
+🌈
+
+Traditionnellement basé à Rennes, le Groupe Créative se veut 100% pur beurre mais pas seulement 😉 Nantes 🐘, Bordeaux 🍷, Lille ⚜, Paris ♥ Lyon 🦁 Toulouse qui sont venues étendre nos horizons pour toujours plus de proximité avec nos clients et avec vous !",Lille,France,2023-06-13 15:11:07,Agile/Power BI/Python/SQL,True
 Full Data Management,Data Engineer,Data engineer,"**Descriptif du poste**
 
 Descriptif du poste
@@ -174,7 +184,22 @@ Soft Skills :
 Nous cherchons une personne qui aime travailler en équipe, travailler dans la joie et la bonne humeur, qui est passionnée/curieux(se)/ fidèle/optimiste, qui est fier(e) de l'entreprise pour laquelle il/elle travaille.
 
 
-Donc si tu as envie de grandir professionnellement et humainement rejoins-nous !",50.0,40.0,30.0,2.0,hybrid,4,[3-7],,,,,,,Wasquehal,France,2024-01-22 11:18:18,Docker/Git/Java/Python/Azure/SQL/Kubernetes/Talend/Google Cloud/Stambia/Machine Learning/Amazon Web Services/Apache Airflow/Terraform/MongoDB/Snowflake/Mysql/PostgreSQL,True
+Donc si tu as envie de grandir professionnellement et humainement rejoins-nous !","* Cadrage des outils nécessaires, à la réalisation de visualisation, d'intelligence artificielle, du bon fonctionnement du socle data de l'entreprise
+* Prise en compte de la gestion de la sécurité de ses données
+* Concevoir et développer les futures fonctionnalités de la plateforme Big Data sous Google Cloud Platform,
+* Concevoir les flux d’alimentation et les tables (structure de donnée),
+* Automatiser et industrialiser les flux,
+* Assurer le run applicatif, le cas échéant.
+*
+
+
+🎯 VOTRE PROFIL
+
+
+Vous maitrisez l'écosystème de développement et monitoring de flux (cloud, applications); d'outils de flux (AirFlow,) de dictionnaire de données (Collibra) et utilisez des outils de monitoring (Datadog)
+
+
+Technique : Expert cloud Provider (AWS / GCP) .",50.0,40.0,30.0,2.0,hybrid,4,[3-7],,,,,Wasquehal,France,2024-01-22 11:18:18,Docker/Git/Java/Python/Azure/SQL/Kubernetes/Talend/Google Cloud/Stambia/Machine Learning/Amazon Web Services/Apache Airflow/Terraform/MongoDB/Snowflake/Mysql/PostgreSQL,True
 KHI PORTAGE,DATA Analyst ( H/F) ,Data Analyst,"Quels seront l étendu de vos extraordinaires missions :
 
 * Analyser les problématiques métier et les synthétiser tel Tony Stark
@@ -198,56 +223,18 @@ Ce qui vous attend chez KHI PORTAGE :
 \- Des projets variés\, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
 \- De l’autonomie et des responsabilités dans vos missions\.
 \- Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs \(confiance ; transparence \, humain ; passion ; eco responsabilité \)
-\- L’opportunité de participer à des afterworks\, événements et sessions sportives régulières afin de célébrer nos succès en équipe",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,,,Tourcoing,France,2024-02-12 17:00:28,Power BI/SQL,True
-Capgemini,Développeuse.eur TechLead data - LILLE F/H,Développeur.euse Full stack,"**L'offre**
+\- L’opportunité de participer à des afterworks\, événements et sessions sportives régulières afin de célébrer nos succès en équipe","Quels seront l étendu de vos extraordinaires missions :
 
+* Analyser les problématiques métier et les synthétiser tel Tony Stark
+* A l'image de Scarlet Witch : manipuler la donnée, l'exploiter et l'interpréter pour en dégager des observations business utiles
+* Créer des dashboards et rapports afin d'obtenir des éléments de décision
+* Mettre en place des KPIs de performances permettant de donner une vision cohérente des résultats aux différentes équipes métiers
+* Devenir un(e) référent(e) technique sur l'outil de reporting Power BI
+* Prendre part au développement de la startup avec tes idées innovantes
 
-QU’EST-CE QU’UN.E DEVELOPPEUR.EUSE/ TECH-LEAD DATA ?
-C’est être à la pointe des sujets d’intégration et participer au développement de l’offre « Modernisation des plateformes d’échange et API Management » en s’appuyant sur des solutions d’intégration notamment Mulesoft, Boomi, Talend, Apigee…
-
- * Participer au recueil des besoins auprès de nos clients
- * Participer à la conception, l’architecture et l’intégration de la solution d’intégration retenue
- * Déployer et optimiser au quotidien des pipelines de données dans le Cloud
- * Développer des nouveaux flux/API
- * Apporter une Expertise et un Leadership Technologique
- * Apporter / Diffuser une Expertise et un Leadership Technologique au sein de sa squad
- * Assurer la scalabilité, la modularité et la modernité des plateformes Interfaces
- * Collaborer avec les partenaires de projet, d'intégration et d'exploitation pour faciliter la mise en œuvre des nouveaux flux
-
-
-
-
-
-
-LES PLUS DU POSTE ?
-
-En plus de ton quotidien, tu pourras entreprendre, être formé.e, utiliser nos incubateurs pour innover, organiser des conférences en France ou ailleurs dans le monde.
-Et côté rémunération ? En plus de ton salaire, tu percevras de la participation, de l'intéressement, un PERCO, une mutuelle, des Tickets Restaurants, des congés d'ancienneté, de nombreux avantages CE, un accord de télétravail et de parentalité !
-
-
-**L'entreprise**
-
-
-""Get the future you want""
-Telle est notre promesse chez Capgemini : Evoluer dans un environnement où le développement des compétences et les perspectives sont à portée de main !
-Nous recherchons des femmes et des hommes passionné.e.s par l'IT pour intégrer nos équipes techniques et accompagner nos clients dans leurs projets de transformation numérique.
-Si pour toi le développement informatique c'est bien plus que des lignes de code, cette offre est faite pour toi.
-Capgemini Lille, c’est aussi le « Greentech », un bâtiment neuf construit au bord de l’eau, écologique et facilement accessible par tous les moyens de transports en commun !
-Découvrez nos locaux ici
-
-Au sein de nos centres de services basés à Euratechnologies, nous recherchons des consultantes/ consultants techniques prêtes/s à rejoindre nos équipes Cloud and Custom Application, C&amp;CA . L’ADN de C&amp;CA est d’accompagner la transformation, assurer l’intégration et la performance du SI de nos clients dans des secteurs variés tels que l’énergie, les transports, la grande distribution. Transmettre notre savoir-faire sur les méthodologies de delivery et les pratiques business sont au cœur de nos engagements auprès de nos clients.
-
-
-**Votre profil**
-
-
-QUELS SONT LES PREREQUIS ?
- * ESB/ETL/IPAAS ( Mulesoft, Boomi, Talend, Tibco, Webmethods, WSO2,…)
- * API Gateway/API Management (Apigee, APIM, Axway, kong, Mulesoft, Boomi,...)
- * API Rest/Json/Swagger/openAPI/RAML
- * Kafka/Solace/ActiveMQ/RabbitMQ/TIBCO EMS/IBM MQ/JMS
- * Javascript/Groovy/Python/Java
- * Cloud (AWS/Azure/GCP)",,0.0,,,no,3,[0-3],,,,,,,Lille,France,2023-11-18 05:30:18,Mulesoft/Management/Talend/Kong/WebMethods,True
+Quels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?
+\- Des projets variés\, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
+\- De l’autonomie et des responsabilités dans vos missions\.",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,Tourcoing,France,2024-02-12 17:00:28,Power BI/SQL,True
 Oak,Product Owner (PO) - Spécialisé en Data et Intelligence Artificielle,Product Owner,"Qui sommes nous ?
 Le projet de OAK se concentre sur le développement d'un produit révolutionnaire d'aide à la mobilité interne et destiné aux entreprises de taille moyenne. Ce produit intègre intensivement la data science et l'intelligence artificielle, offrant ainsi des solutions sur mesure à nos clients.
 
@@ -297,7 +284,8 @@ Nous t’offrons un environnement de travail dynamique et stimulant, où l'innov
 
 
 Tu souhaites nous rejoindre pour contribuer au développement d'un produit révolutionnaire qui transformera la mobilité en entreprise ? Rien de plus simple : Envoie ton CV et ta lettre de motivation à XXXXX@oak-rh.com.
-Nous sommes impatients de découvrir comment ton expertise en gestion de produit, data science et IA peut contribuer à notre succès.",45.0,42.5,40.0,3.0,hybrid,3,[0-3],Dans une petite équipe de 7 personnes le management est collaboratif ! ,dans une petite équipe de 7 personnes le management est collaboratif,,"Le projet de OAK se concentre sur le développement d'un produit révolutionnaire d'aide à la mobilité interne et destiné aux entreprises de taille moyenne. Ce produit intègre intensivement la data science et l'intelligence artificielle, offrant ainsi des solutions sur mesure à nos clients.",le projet de oak se concentre sur le développement produit révolutionnaire à la mobilité interne et destiné aux entreprises de taille moyenne ce produit intègre intensivement la data science et artificielle offrant ainsi de solution sur mesure à no client,,Talence,France,2024-01-22 11:09:00,Python/Confluence/Jira/NLP (Natural language processing)/React/Typescript/Numpy/Database/Selenium,True
+Nous sommes impatients de découvrir comment ton expertise en gestion de produit, data science et IA peut contribuer à notre succès.","\- Coordonner la gestion du produit et assurer la communication entre les équipes de Conception\, Marketing\, IT et Data Science\.
+Tu souhaites nous rejoindre pour contribuer au développement d'un produit révolutionnaire qui transformera la mobilité en entreprise ?",45.0,42.5,40.0,3.0,hybrid,3,[0-3],Dans une petite équipe de 7 personnes le management est collaboratif ! ,,"Le projet de OAK se concentre sur le développement d'un produit révolutionnaire d'aide à la mobilité interne et destiné aux entreprises de taille moyenne. Ce produit intègre intensivement la data science et l'intelligence artificielle, offrant ainsi des solutions sur mesure à nos clients.",,Talence,France,2024-01-22 11:09:00,Python/Confluence/Jira/NLP (Natural language processing)/React/Typescript/Numpy/Database/Selenium,True
 Full Data Management,Développeurs .net /Angular,Développeur.euse Full stack,"Nous recherchons ASAP :
 →4 développeurs Full Stack expérimenté (3 ans d'XP en plus de l'alternance)
 →.NET (obligatoire)
@@ -316,13 +304,61 @@ Alors si tu souhaites rejoindre une équipe soudée où règne la joie et la bon
 Si tu souhaites partager tes connaissances, et tu souhaites intégrer la belle famille Full Data Management alors contacte nous !
 
 
-* Nous serons ravis de t'en dire plus sur cette très belle opportunité !",50.0,39.0,28.0,3.0,no,3,[0-3],,,,,,,Wasquehal,France,2024-01-22 11:04:36,.NET core/Angular/C#/Google Cloud,True
+* Nous serons ravis de t'en dire plus sur cette très belle opportunité !","Nous recherchons ASAP :
+→4 développeurs Full Stack expérimenté (3 ans d'XP en plus de l'alternance)
+→.NET (obligatoire)
+→Angular (obligatoire)
+
+
+Localisation : LILLE
+
+
+Poste à pourvoir en CDI démarrage au 1er février 2024
+
+
+Alors si tu souhaites rejoindre une équipe soudée où règne la joie et la bonne humeur, où le partage et l'humain son mis en avant.
+* Nous serons ravis de t'en dire plus sur cette très belle opportunité !",50.0,39.0,28.0,3.0,no,3,[0-3],,,,,Wasquehal,France,2024-01-22 11:04:36,.NET core/Angular/C#/Google Cloud,True
+MAIF,Développeurs Fullstack F/H,Développeur.euse Full stack,"Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.
+
+**Pourquoi nous rejoindre ?**
+Nous avons créé la Guilde Développement MAIF, qui constitue un collectif tourné vers le partage, l'entraide et un objectif commun : être un espace d'échange, de partage de connaissance pour faire vivre et progresser le métier de développeur.
+
+Au sein de la Maif, tu rejoindras l’un de nos collectifs agiles, organisés en squads (équipes pluridisciplinaires). C’est un environnement idéal pour continuer à progresser et échanger dans un cadre bienveillant et pensé pour les profils techniques
+
+Concrètement, nous te proposons :
+
+* Un vaste choix de contextes et de projets, qui permet d'aborder des sujets différents, tant sur le plan technique que fonctionnel.
+* Des collectifs dans lesquels il fait bon vivre
+* Un cadre de travail qui vise à un excellent équilibre pro/perso : télétravail 2 à 3j / semaine, grand campus avec services associés (centre aéré, gymnase, conciergerie, comité d'entreprise…) et accords sur le temps de travail (possibilité d'augmenter ou baisser son temps de travail)
+* De nombreux avantages : un salaire fixe attractif, une prime de vacances, des augmentations collectives & individuelles, une aide financière à la garde d'enfant, une participation à la prise en charge des activités sportives/culturelles extrascolaires des enfants, des plans d'épargnes d'entreprise abondés etc.
+* Une qualité de vie propre aux villes de taille moyenne : Niort est la 3ème ville française où il fait bon vivre, tournée vers l'accueil de ses nouveaux habitants (transports en commun gratuits, vie culturelle etc.) et investie sur l'avenir de la tech #NiortTech.
+
+**Notre stack technique**
+
+* Backend: Java 11+, Spring boot (Data, Security, Batch), PostgreSQL, Maven, Junit, Cucumber, Kafka, ElasticSearch. Nous avons aussi du Legacy (Java 8 / J2EE / Spring Core) et nous améliorons nos compétences dans d'autres langages (Scala, Kotlin, Python, Go).
+* Frontend: Javascript, Node.js, React.js, Typescript, Sass \* DevOps: Sonar, Git, Github, IntelliJ, Jira, Docker / Kubernetes, ELK, Grafana, Maven
+
+**Ton profil**
+
+* Tu as au moins 2 ans d'expérience dans le développement d'applications, et des compétences solides en développement Java et/ou Javascript.
+* Que tu sois plus backend ou plus frontend, tu es prêt(e) à étendre tes connaissances, au fil du temps.
+* Tu es sensible à la qualité du code et tu es pragmatique.
+* Tu sais faire preuve d'écoute, tu accordes de l'importance aux échanges, et tu as le sens du service.
+
+Le recrutement se déroule en deux étapes :
+
+* Un entretien de qualification technique
+* Un entretien avec ta future équipe RH et ton management","Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.
+**Notre stack technique**
+
+* Backend: Java 11+, Spring boot (Data, Security, Batch), PostgreSQL, Maven, Junit, Cucumber, Kafka, ElasticSearch.",52.0,44.5,37.0,3.0,hybrid,1,[0-3],,,,,Niort,France,2022-12-13 01:00:00,Java/Javascript/Maven/Spring/Cucumber/Docker/Elasticsearch/Git/Github/Go/Grafana/Jira/JUnit/Kafka/Kotlin/Kubernetes/NodeJS/PostgreSQL/Python/React/Sass/Scala/Spring Boot/Typescript,True
 Jetdev,Développeur Java / Spring,Back-end developer,"“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur de ses enjeux” où “règne le bien-être”. Chez Jetdev on a eu un départ en 6 ans.
 
 Tu fais partie de ceux qui pensent que le JDK 8 a tout changé ? Es-tu capable d'expliquer l'IoC sans sourciller ? Connais-tu tous les composants de Spring, de Spring Security à Spring Data, comme si c'étaient tes meilleurs potes ? Tu es content de lire craftsmanship dans cette annonce et tu te demandes à partir de quand je vais parler de clean code ou de clean architecture ? Pour toi, un bon code c’est un code simple, compréhensible et sécurisé ? Si en plus de ça tu as le mindset Agile, c’est bien toi qu’on recherche. Si certains de ces concepts te sont inconnus, tu auras l’occasion de te former chez nous dans une équipe de n°10.
 Mais avant tout, tu dois pouvoir devenir un membre à part entière de la famille Jetdev. Ça veut dire aimer passer du bon temps avec ses collègues. Il faut aussi avoir une grande conscience professionnelle et être un team player.
 
-Tu seras l’image et le porte parole de Jetdev chez nos clients à travers tes missions de développeurs. Tu apporteras ton expertise afin de conseiller au mieux nos clients dans le développement de leurs solutions. Tu sauras lui dire “Non” quand il le faudra, tu sauras donner de ta personne dans les moments difficiles mais aussi et surtout, tu distribueras ta bonne humeur et ton savoir vivre afin de rendre leurs journées meilleures.",55.0,45.5,36.0,3.0,hybrid,2,[0-3],,,,,,,Villeneuve-d'Ascq,France,2023-02-22 11:26:58,Spring/Spring Boot/Java/PostgreSQL/MongoDB/Google Cloud/Git,True
+Tu seras l’image et le porte parole de Jetdev chez nos clients à travers tes missions de développeurs. Tu apporteras ton expertise afin de conseiller au mieux nos clients dans le développement de leurs solutions. Tu sauras lui dire “Non” quand il le faudra, tu sauras donner de ta personne dans les moments difficiles mais aussi et surtout, tu distribueras ta bonne humeur et ton savoir vivre afin de rendre leurs journées meilleures.","Chez Jetdev on a eu un départ en 6 ans.
+Pour toi, un bon code c’est un code simple, compréhensible et sécurisé ?",55.0,45.5,36.0,3.0,hybrid,2,[0-3],,,,,Villeneuve-d'Ascq,France,2023-02-22 11:26:58,Spring/Spring Boot/Java/PostgreSQL/MongoDB/Google Cloud/Git,True
 Optimal Ways,Consultant(e) technique en Digital Analytics / Développement Front H/F,Front-end developer,"Vous avez déjà une expérience en développement front JS ? Vous souhaitez vous spécialiser dans la data avec une agence experte ? Le poste Consultant(e) technique en Digital Analytics H/F est fait pour vous !
 
 **Description du poste**
@@ -365,7 +401,11 @@ Nos bureaux sont idéalement situés au cœur de la métropole lilloise, assuran
 
 Pour plus d'informations sur Optimal Ways et ce que nous représentons, veuillez visiter notre site Web à l'adresse : https://www.optimalways.com/fr/
 
-Si vous avez envie de vous développer dans un environnement favorable et êtes engagé(e) à avoir un impact positif, nous vous invitons à rejoindre notre équipe. Optimal Ways est l'endroit où vos compétences, vos connaissances et vos valeurs convergent pour une carrière épanouissante.",40.0,37.5,35.0,1.0,hybrid,1,[0-3],"L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada). Nicolas est également impliqué depuis l'origine dans MeasureCamp, le réseau de conférences le plus important de Digital Analytics au niveau mondial. Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).",été fondée par nicolas malo en 2011 un expert en digital analytics avec plus de 20 an dans le domaine avec de expériences à silicon valley canada nicolas est également impliqué depuis dans measurecamp le réseau de conférences le plus important de digital analytics au niveau mondial pendant 3 an nicolas été également le président de association de analystes digitaux francophones,,"Nous sommes une agence spécialisée dans le Digital Analytics et avons pour mission d’accompagner et former les équipes ecommerce à prendre des décisions éclairées avec une démarche durable et responsable. Nous travaillons principalement avec des grandes marques retail & ecommerce et leurs filiales dans le monde entier (Brady Seton, Cultura, Cyrillus, Decathlon, GiFi, Midas, Somfy, …).",nous somme une agence spécialisée dans le digital analytics et avon pour mission accompagner et former le équipes ecommerce à prendre de décisions éclairées avec une démarche durable et responsable nous travaillons principalement avec de grandes marque retail ecommerce et leurs filiales dans le monde entier brady seton cultura cyrillus decathlon gifi midas somfy,,Wasquehal,France,2023-12-22 09:36:08,Javascript/CSS3/HTML5/NodeJS/Python/Angular/Actionscript/Gestion de projet/jQuery/SQL/Google Apps Script/Google Cloud/Firebase,True
+Si vous avez envie de vous développer dans un environnement favorable et êtes engagé(e) à avoir un impact positif, nous vous invitons à rejoindre notre équipe. Optimal Ways est l'endroit où vos compétences, vos connaissances et vos valeurs convergent pour une carrière épanouissante.","Le poste Consultant(e) technique en Digital Analytics H/F est fait pour vous !
+**Description du poste**
+
+En tant que Consultant(e) technique en Digital Analytics H/F chez Optimal Ways, vous avancerez dans votre carrière en travaillant en étroite collaboration avec une équipe experte, compétente et bienveillante.",40.0,37.5,35.0,1.0,hybrid,1,[0-3],"L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada). Nicolas est également impliqué depuis l'origine dans MeasureCamp, le réseau de conférences le plus important de Digital Analytics au niveau mondial. Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).","L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada).
+Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).","Nous sommes une agence spécialisée dans le Digital Analytics et avons pour mission d’accompagner et former les équipes ecommerce à prendre des décisions éclairées avec une démarche durable et responsable. Nous travaillons principalement avec des grandes marques retail & ecommerce et leurs filiales dans le monde entier (Brady Seton, Cultura, Cyrillus, Decathlon, GiFi, Midas, Somfy, …).",,Wasquehal,France,2023-12-22 09:36:08,Javascript/CSS3/HTML5/NodeJS/Python/Angular/Actionscript/Gestion de projet/jQuery/SQL/Google Apps Script/Google Cloud/Firebase,True
 Listen Too,Développeur.euse Mobile iOS / Android / Flutter,Mobile developer,"**📢 Imaginez un lieu où votre voix compte autant que vos compétences…**
 
 Chez Listen too, nous sommes convaincus que l’écoute est indissociable du progrès. Cultivée au quotidien, elle devient un catalyseur de croissance et de réussite, tant pour l’entreprise que pour ses collaborateur·rice·s.
@@ -434,13 +474,14 @@ Android : Java / Kotlin iOS : Swift / Objective-C / MacOSX / XCode Dart : Flutte
 🙋🏻‍♂️ Un éventuel dernier échange sur mesure avec Florent, Co-fondateur du cabinet, pour confirmer ce que nous savions déjà ! 😉
 
 Tu l’auras compris, cette phase de recrutement est avant tout l’occasion de s’écouter et d’échanger.
-Chez Listen too, nous célébrons la diversité et l’inclusion, convaincus que chaque talent, quelle que soit son origine ou son parcours, est une richesse pour notre équipe et contribue à notre réussite commune.",50.0,44.0,38.0,2.0,hybrid,3,[0-3],"L'accompagnement est mis en place au travers de : 
+Chez Listen too, nous célébrons la diversité et l’inclusion, convaincus que chaque talent, quelle que soit son origine ou son parcours, est une richesse pour notre équipe et contribue à notre réussite commune.","🎨 Le Product Design : pour une conception Produit centrée utilisateur.
+Être listenien·ne, c’est être au cœur d’une entreprise qui valorise votre voix, votre parcours, et votre évolution.",50.0,44.0,38.0,2.0,hybrid,3,[0-3],"L'accompagnement est mis en place au travers de : 
 - Formation chaque année
 - Veille (Participation au salon, forum, ...) chaque année
-- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",est mi en place au travers de formation chaque année veille participation au salon forum chaque année prise en hauteur allouer du temp pour diffuser la bonne parole,,"Equipe composé de 20 développeurs sur des environnements :
+- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",,"Equipe composé de 20 développeurs sur des environnements :
 Back-end : Node / Nuxt.JS
 Front-End : Vue.JS; React.JS; Angular
-Mobile : Android; iOS; Flutter",equipe composé de 20 développeurs sur de environnements node angular mobile android io flutter,,Lille,France,2023-12-11 14:27:29,Android/Kotlin/Swift/IOS/RxKotlin/Flutter/SwiftUI,True
+Mobile : Android; iOS; Flutter",,Lille,France,2023-12-11 14:27:29,Android/Kotlin/Swift/IOS/RxKotlin/Flutter/SwiftUI,True
 Winamax,Développeur Back-End Senior (H/F) - Team Poker,Back-end developer,"**A PROPOS DU POSTE**
 
 Au sein de la team Poker, tu participeras activement à la conception, à l’implémentation et à la supervision des micro services de la plateforme de poker.
@@ -506,7 +547,54 @@ Afin de garantir une expérience candidat optimale, les processus de recrutement
 \- Restaurant d’entreprise
 \- Participation à des conférences techniques
 
-Du fun : soirées organisées régulièrement par notre CSE (poker, gaming, jeux de plateau, soirée raclette…)",60.0,55.0,50.0,2.0,hybrid,4,[3-7],,,,,,,Paris,France,2024-02-08 15:43:17,NodeJS/Amazon Web Services,True
+Du fun : soirées organisées régulièrement par notre CSE (poker, gaming, jeux de plateau, soirée raclette…)","\- Conception de l’architecture de la plateforme
+\- Développement de micro services hautement disponibles et scalables
+\- Développement des APIs et des modèles de données
+\- Écriture de tests unitaires\, end to end et réalisation de scenarii en conditions réelles
+\- Participation aux code reviews de l’équipe
+\- Déploiement des applications sur AWS
+\- Supervision et optimisation de la plateforme de poker
+\- Documentation de l’architecture et des services de poker
+\- Collaboration avec les équipes Front\-End\, Data\, Infrastructure\, Sécurité et les chefs de projets
+
+
+Exemples de projets : 
+
+\- Création d’une gateway poker avec authentification\, rate limiting\, routing\, pub/sub \(10K\+ msg/s\)
+\- Implémentation d’un micro service d’inscription \(1000 inscriptions/s\)
+\- Ajout de nouveaux types de jeux et d’opérations spéciales sur le moteur de jeu de poker
+
+
+**PROFIL RECHERCHÉ**
+
+\- Expérience significative dans le développement de services Back\-End sur une plateforme à fort trafic \(10K\+ req/s\)
+\- Expérience significative sur des problématiques de load balancing\, high availability\, scaling\, caching\, database et storage
+\- Maîtrise des architectures distribuées Event\-Driven
+\- Maîtrise de Redis ou Kafka \(structures de données\, pub/sub\, streams\, pipelines\)
+\- Maîtrise d’une base de données relationnelle \(MySQL ou PostgreSQL\)\, modélisation\, optimisation\, transactions\, locks
+\- La connaissance du langage JavaScript et de l’écosystème Node\.js est souhaitable \(les micro services reposent sur Node\.js\)
+\- Connaissance de l’environnement cloud
+\- Culture DevOps \(CI/CD\, Docker\, Observability\)
+
+
+**MODALITÉS ASSOCIÉES AU POSTE**
+
+\- Poste à pourvoir en CDI temps plein \(35h/semaine\) exclusivement
+\- Lieu de travail : Paris intra\-muros
+\- Date de démarrage : ASAP
+\- Rémunération selon le profil
+\- Modalités de travail exclues : mi\-temps\, freelance\, job étudiant\, contrat en alternance
+
+
+**PROCESS DE RECRUTEMENT**
+
+\- Screening RH \(30 min\)
+\- Entretien Tech Lead en visio \(30 min\)
+\- Entretien technique en visio \- software design et live coding \(2h\)
+\- Entretien Head of Engineering en présentiel \(1h\)
+
+Afin de garantir une expérience candidat optimale, les processus de recrutement chez Winamax durent, en moyenne, entre 2 et 4 semaines.
+**POURQUOI NOUS REJOINDRE ?",60.0,55.0,50.0,2.0,hybrid,4,[3-7],,,,,Paris,France,2024-02-08 15:43:17,NodeJS/Amazon Web Services,True
 HoppR,Consultant.e Fullstack / Craft,Développeur.euse Full stack,"**Qui sommes-nous ?🐱‍🏍**
 
 **Ce qui nous anime**
@@ -563,14 +651,18 @@ Les missions et projet HoppR sont l’occasion de découvrir un nouvel environne
 2️⃣ Un échange téléphonique ou visio avec Nicolas, président d'HoppR
 3️⃣ Un entretien technique avec l’équipe Tech, exercice de pair programming, échange sur ton parcours
 4️⃣ Un dernier échange (optionel) durant un évènement HoppR pour rencontrer tes futurs collègues et découvrir l’ambiance chez HoppR
-💙 **Envie d’avancer avec nous ? Alors contacte hello@hoppr.tech !**",56.0,46.5,37.0,3.0,hybrid,1,[0-3],"Nous avons une approche organisationnelle horizontale avec peu de strates hiérarchiques
+💙 **Envie d’avancer avec nous ? Alors contacte hello@hoppr.tech !**","**Qui sommes-nous ?🐱‍🏍**
+
+**Ce qui nous anime**
+Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech.
+Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.",56.0,46.5,37.0,3.0,hybrid,1,[0-3],"Nous avons une approche organisationnelle horizontale avec peu de strates hiérarchiques
 Notre vision du management se rapproche plus du mentoring. 
 
-Avec des grilles de salaires transparentes, c'est à l'équipe de management de s'assurer que tout le monde se sente bien, progresse et révèle son potentiel. ",nous avon une approche organisationnelle horizontale avec peu de strates hiérarchiques notre vision du management se rapproche plus du mentoring avec de grille de salaires transparentes à de management de que tout le monde se sente bien progresse et révèle son potentiel,,"Nos projets sont orientés sur des phases de Build et de l'accompagnement sous forme de Coaching, formation ou mission de Conseil 
+Avec des grilles de salaires transparentes, c'est à l'équipe de management de s'assurer que tout le monde se sente bien, progresse et révèle son potentiel. ",,"Nos projets sont orientés sur des phases de Build et de l'accompagnement sous forme de Coaching, formation ou mission de Conseil 
 
 Nous assumons une culture & ADN Tech et investissons donc énormément en formation, mentoring, ou après des communautés pour toujours progresser
 
-Le partage est dont très important pour nous et tu pourras compter sur tes collègues pour échanger, faire de la veille techno et participer à la construction et évolution de HoppR ",no projets sont orientés sur de phase de build et de sou forme de coaching formation ou mission de conseil nous assumons une culture adn tech et investissons donc énormément en formation mentoring ou après de communautés pour toujours progresser le partage est dont très important pour nous et tu pourras compter sur te collègues pour échanger faire de la veille techno et participer à la construction et évolution de hoppr,,Lyon,France,2024-01-19 10:44:51,Spring/Java/Svelte/Docker/Github/Gitlab/NodeJS/React/Cucumber/PostgreSQL/Kafka/MongoDB/VueJS/Jenkins/Agile,True
+Le partage est dont très important pour nous et tu pourras compter sur tes collègues pour échanger, faire de la veille techno et participer à la construction et évolution de HoppR ",,Lyon,France,2024-01-19 10:44:51,Spring/Java/Svelte/Docker/Github/Gitlab/NodeJS/React/Cucumber/PostgreSQL/Kafka/MongoDB/VueJS/Jenkins/Agile,True
 LUCCA,Senior Back-end Software Engineer .NET,Back-end developer,"🎓 Bac+5
 💼 5 ans minimum d'expérience requis
 📍 Nantes
@@ -677,8 +769,9 @@ Ce poste est fait pour vous si :
 Étape 1 : Entretien téléphonique avec le / la talent acquisition manager (45')
 Étape 2 : Test technique en live ou en asynchrone
 Étape 3 : Petit oral avec une (bonne) partie de votre probable future équipe (60')
-Étape 4 : Grand oral (45')",65.0,57.5,50.0,3.0,hybrid,5,[3-7],Le management est horizontal et participatif ! ,le management est horizontal et participatif,,"Notre pôle R&D est aujourd'hui composé de 180 personnes.
-Chaque produit dispose de sa propre équipe, une composition type ; Head of product, Lead PM, Engineer manager, Lead, Software developer back, front, fullstack, Intégrateur, UI/UX ....",notre pôle r est composé de 180 personnes chaque produit dispose de sa propre équipe une composition type head product lead pm engineer manager lead software developer back front fullstack intégrateur,,Nantes,France,2023-11-07 16:56:28,.NET core/C#/Microsoft SQL Server/Angular/Typescript/VMware vSphere/Prometheus/Github/Notion,True
+Étape 4 : Grand oral (45')","À quoi ressemble une équipe produit ?
+Le quotidien d’un développeur, il ressemble à quoi ?",65.0,57.5,50.0,3.0,hybrid,5,[3-7],Le management est horizontal et participatif ! ,,"Notre pôle R&D est aujourd'hui composé de 180 personnes.
+Chaque produit dispose de sa propre équipe, une composition type ; Head of product, Lead PM, Engineer manager, Lead, Software developer back, front, fullstack, Intégrateur, UI/UX ....",,Nantes,France,2023-11-07 16:56:28,.NET core/C#/Microsoft SQL Server/Angular/Typescript/VMware vSphere/Prometheus/Github/Notion,True
 Capgemini,Cloud Engineer (F/H) Paris,Développeur.euse Full stack,"**L'offre**
 
 
@@ -714,7 +807,8 @@ Get The Future You Want* http://www.capgemini.com/﻿
  * Vous avez construit une compétence autour des services managés Cloud
  * Vous êtes certifié(e) Cloud DevOps, Cloud Developer ou Cloud Architect
  * Vous êtes orienté(e) service client, avec une très bonne communication et une envie de progresser
- * Vous êtes « Team Player Agile » pour assurer une cohésion et un travail collaboratif dans son équipe",,0.0,,,no,4,[3-7],,,,,,,Issy-les-Moulineaux,France,2023-11-28 05:30:13,Azure/Agile/Serverless/Angular/IoT/Management/React/Réseau,True
+ * Vous êtes « Team Player Agile » pour assurer une cohésion et un travail collaboratif dans son équipe","Rejoindre C&amp;CA c’est intervenir au cœur du métier d’intégrateur de Capgemini, contribuer au développement de systèmes et programmes critiques dans le cadre des transformations Agiles, Digitales et Data de nos clients.
+Être Cloud Engineer c’est être à la pointe des services pour industrialiser le développement et le déploiement de Cloud native Application dans un model “As a service”.",,0.0,,,no,4,[3-7],,,,,Issy-les-Moulineaux,France,2023-11-28 05:30:13,Azure/Agile/Serverless/Angular/IoT/Management/React/Réseau,True
 Capgemini,Tech Lead Mulesoft (F/H) Paris,CTO,"**L'offre**
 
 
@@ -753,7 +847,10 @@ Qui êtes-vous ?
 Vous avez construit des compétences sur un ou plusieurs des environnements cités plus haut et/ou similaire,
 Vous avez une sensibilité particulière sur la façon dont les données circulent au sein d’un SI et comment elles sont transformées et utilisées par les différentes applications (cloud &amp; legacies)
 Vous êtes orienté service client, avec une très bonne communication et une envie de progresser dans ce domaine d’expertise et d’excellence.
-Vous êtes un Team Player Agile pour assurer une cohésion et un travail collaboratif dans son équipe",,0.0,,,no,5,[3-7],,,,,,,Issy-les-Moulineaux,France,2023-10-24 05:30:05,Mulesoft/Agile/API REST/Groovy/Java/Javascript/Kafka/Kong/Management/Python/RabbitMQ/Talend/WebMethods,True
+Vous êtes un Team Player Agile pour assurer une cohésion et un travail collaboratif dans son équipe","Vous avez construit des compétences sur un ou plusieurs des environnements cités plus haut et/ou similaire,
+Vous avez une sensibilité particulière sur la façon dont les données circulent au sein d’un SI et comment elles sont transformées et utilisées par les différentes applications (cloud &amp; legacies)
+Vous êtes orienté service client, avec une très bonne communication et une envie de progresser dans ce domaine d’expertise et d’excellence.
+Vous êtes un Team Player Agile pour assurer une cohésion et un travail collaboratif dans son équipe",,0.0,,,no,5,[3-7],,,,,Issy-les-Moulineaux,France,2023-10-24 05:30:05,Mulesoft/Agile/API REST/Groovy/Java/Javascript/Kafka/Kong/Management/Python/RabbitMQ/Talend/WebMethods,True
 Listen Too,Développeur Java (H/F),Web developer,"**📢 Imaginez un lieu où votre voix compte autant que vos compétences…**
 
 Chez Listen too, nous sommes convaincus que l’écoute est indissociable du progrès. Cultivée au quotidien, elle devient un catalyseur de croissance et de réussite, tant pour l’entreprise que pour ses collaborateur·rice·s.
@@ -827,13 +924,16 @@ Si oui, rejoins-nous pour renforcer la communauté #TECH de Listen Too Lille !
 🙋🏻‍♂️ Un éventuel dernier échange sur mesure avec Florent, Co-fondateur du cabinet, pour confirmer ce que nous savions déjà ! 😉
 
 Tu l’auras compris, cette phase de recrutement est avant tout l’occasion de s’écouter et d’échanger.
-Chez Listen too, nous célébrons la diversité et l’inclusion, convaincus que chaque talent, quelle que soit son origine ou son parcours, est une richesse pour notre équipe et contribue à notre réussite commune.",50.0,42.5,35.0,3.0,hybrid,3,[0-3],"L'accompagnement est mis en place au travers de : 
+Chez Listen too, nous célébrons la diversité et l’inclusion, convaincus que chaque talent, quelle que soit son origine ou son parcours, est une richesse pour notre équipe et contribue à notre réussite commune.","**
+
+🎯 Le Product Management : pour porter la vision Produit et maximiser la création de valeur.
+Être listenien·ne, c’est être au cœur d’une entreprise qui valorise votre voix, votre parcours, et votre évolution.",50.0,42.5,35.0,3.0,hybrid,3,[0-3],"L'accompagnement est mis en place au travers de : 
 - Formation chaque année
 - Veille (Participation au salon, forum, ...) chaque année
-- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",est mi en place au travers de formation chaque année veille participation au salon forum chaque année prise en hauteur allouer du temp pour diffuser la bonne parole,,"Equipe composé de 20 développeurs sur des environnements :
+- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",,"Equipe composé de 20 développeurs sur des environnements :
 Back-end : Node / Nuxt.JS
 Front-End : Vue.JS; React.JS; Angular
-Mobile : Android; iOS; Flutter",equipe composé de 20 développeurs sur de environnements node angular mobile android io flutter,,Lille,France,2023-11-28 15:35:00,Amazon Web Services/Tomcat/Agile/Spring Boot/Java/Javascript,True
+Mobile : Android; iOS; Flutter",,Lille,France,2023-11-28 15:35:00,Amazon Web Services/Tomcat/Agile/Spring Boot/Java/Javascript,True
 Sogeti,Sogeti Consultant(e) Chef(ffe) de projet IT H/F,Développeur.euse Full stack,"**L'offre**
 
 
@@ -863,7 +963,11 @@ Fort de plus de 50 ans d’expérience et d’une grande expertise des différen
 Issu.e d’une formation supérieure en informatique (Bac+5 type école d'Ingénieur ou Master Universitaire), vous justifiez d'une expérience de minimum 6 ans sur un poste similaire
 
 Capgemini promeut une culture inclusive dans un cadre multiculturel et créateur de valeur, quel que soit votre parcours, genre, origine culturelle, sociale, … notamment au travers de ses réseaux OUTFront et Women@Capgemini. Entreprise handi accueillante, le Groupe développe une politique active d’emploi et d’insertion des personnes en situation d’handicap. Capgemini s’engage pour un numérique responsable en intégrant l’éco-conception et l’accessibilité dans ses projets, et réduira de 90 % ses émissions d’ici 2040. Partenaire de différentes associations, Capgemini accompagne les exclus du numérique vers l’autonomie.
-https://www.capgemini.com/fr-fr/notre-groupe/responsabilite-sociale-et-environnementale/",,0.0,,,no,5,[3-7],,,,,,,Belfort,France,2024-01-23 07:00:29,Management/Chef,True
+https://www.capgemini.com/fr-fr/notre-groupe/responsabilite-sociale-et-environnementale/","**L'offre**
+
+
+Vous intégrez notre équipe à Belfort dans le département IT d’un de nos clients.
+Vous travaillerez sur toutes les phases des projets stratégiques pour nos clients.",,0.0,,,no,5,[3-7],,,,,Belfort,France,2024-01-23 07:00:29,Management/Chef,True
 Sogeti,Sogeti Consultant(e) Développeur(se) Java H/F - Dijon,Développeur.euse Full stack,"**L'offre**
 
 
@@ -898,7 +1002,8 @@ Fort de plus de 50 ans d’expérience et d’une grande expertise des différen
 
 Issu.e d’une formation supérieure en informatique (Bac+5 type école d'Ingénieur ou Master Universitaire), vous justifiez d'une expérience de minimum 3 ans sur un poste similaire
 Capgemini promeut une culture inclusive dans un cadre multiculturel et créateur de valeur, quel que soit votre parcours, genre, origine culturelle, sociale, … notamment au travers de ses réseaux OUTFront et Women@Capgemini. Entreprise handi accueillante, le Groupe développe une politique active d’emploi et d’insertion des personnes en situation d’handicap. Capgemini s’engage pour un numérique responsable en intégrant l’éco-conception et l’accessibilité dans ses projets, et réduira de 90 % ses émissions d’ici 2040. Partenaire de différentes associations, Capgemini accompagne les exclus du numérique vers l’autonomie.
-https://www.capgemini.com/fr-fr/notre-groupe/responsabilite-sociale-et-environnementale/﻿",,0.0,,,no,3,[0-3],,,,,,,Dijon,France,2024-01-23 07:00:29,Java/Git/Management/Oracle/Spring/Spring Boot/SQL,True
+https://www.capgemini.com/fr-fr/notre-groupe/responsabilite-sociale-et-environnementale/﻿","Fort de plus de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes.
+Capgemini s’engage pour un numérique responsable en intégrant l’éco-conception et l’accessibilité dans ses projets, et réduira de 90 % ses émissions d’ici 2040.",,0.0,,,no,3,[0-3],,,,,Dijon,France,2024-01-23 07:00:29,Java/Git/Management/Oracle/Spring/Spring Boot/SQL,True
 Sogeti,SOGETI - Testeur QA LILLE H/F,Développeur.euse Full stack,"**L'offre**
 
 
@@ -934,7 +1039,21 @@ LES PREREQUIS
 
  * Tu as 1 à 3 ans d'expérience dans l’activité de tests et une formation de niveau bac +3/+5
  * Tu es certifié ISTQB et tu maîtrises un langage de programmation (Java, Angular,…)
- * Ta stack : Robotframework, Cucumber, Gherkin, Selenium ; Cerberus ; Postman, Squash TM; TestLink ; Jira ; Katalon ; X-Ray ; Mantis.",,0.0,,,no,2,[0-3],,,,,,,Lille,France,2024-01-23 07:00:28,Angular/Cucumber/Java/Jira/Management/Mantis/Postman/Robot Framework/Selenium/XRay,True
+ * Ta stack : Robotframework, Cucumber, Gherkin, Selenium ; Cerberus ; Postman, Squash TM; TestLink ; Jira ; Katalon ; X-Ray ; Mantis.","https://www.capgemini.com/fr fr/notre groupe/responsabilite sociale et environnementale/
+
+
+**L'entreprise**
+
+
+Capgemini est un leader mondial, responsable et multiculturel, regroupant 350000 personnes dans près de 50 pays ;partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie.
+**Votre profil**
+
+
+LES PREREQUIS
+
+ * Tu as 1 à 3 ans d'expérience dans l’activité de tests et une formation de niveau bac +3/+5
+ * Tu es certifié ISTQB et tu maîtrises un langage de programmation (Java, Angular,…)
+ * Ta stack : Robotframework, Cucumber, Gherkin, Selenium ; Cerberus ; Postman, Squash TM; TestLink ; Jira ; Katalon ; X-Ray ; Mantis.",,0.0,,,no,2,[0-3],,,,,Lille,France,2024-01-23 07:00:28,Angular/Cucumber/Java/Jira/Management/Mantis/Postman/Robot Framework/Selenium/XRay,True
 Capgemini,Expert Mulesoft Talend F/H,Développeur.euse Full stack,"**L'offre**
 
 
@@ -985,7 +1104,8 @@ Qui êtes-vous ? :
 
 CAPGEMINI, Entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise.
 
-Get the Future You Want | www.capgemini.com",,0.0,,,no,3,[0-3],,,,,,,Toulouse,France,2023-11-24 05:30:14,Mulesoft/Talend/API REST/Groovy/Java/Javascript/Kafka/Kong/Management/Python/RabbitMQ/WebMethods,True
+Get the Future You Want | www.capgemini.com","Être Développeur / Tech lead, c’est être à la pointe des sujets d’intégration et participer au développement de l’offre « Modernisation des plateformes d’échange et API Management” en s’appuyant sur la solution d’intégration Mulesoft.
+Intervenir sur des projets innovants et d’envergure, à la fois variés et motivants, pour des clients grands comptes du secteur spatial ou des acteurs du newSpace.",,0.0,,,no,3,[0-3],,,,,Toulouse,France,2023-11-24 05:30:14,Mulesoft/Talend/API REST/Groovy/Java/Javascript/Kafka/Kong/Management/Python/RabbitMQ/WebMethods,True
 Capgemini,Ingénieur Cloud confirmé TOULOUSE F/H,Développeur.euse Full stack,"**L'offre**
 
 
@@ -1028,4 +1148,5 @@ Nous Rejoindre Capgemini c'est :
 
 Get The Future You Want* | www.capgemini.com
 
-Capgemini, Entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise.",,0.0,,,no,4,[3-7],,,,,,,Toulouse,France,2023-11-24 05:30:14,Agile/Réseau,True
+Capgemini, Entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise.","Rejoindre C&amp;CA c’est intervenir au cœur du métier d’intégrateur de Capgemini pour le développement des systèmes et programmes critiques dans le cadre des transformations Agiles, Digitales et Data de nos clients.
+Capgemini c’est également une communauté de plus de 3000 certifiés AWS dans le monde.",,0.0,,,no,4,[3-7],,,,,Toulouse,France,2023-11-24 05:30:14,Agile/Réseau,True

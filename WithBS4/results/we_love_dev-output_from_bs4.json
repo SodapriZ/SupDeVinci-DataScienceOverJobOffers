@@ -108,13 +108,13 @@
             "application30Days": true,
             "applicationsStats": {
                 "allTime": {
-                    "acceptanceRate": 0.8,
+                    "acceptanceRate": 0.8333333333333334,
                     "replyTime": 2992917
                 },
                 "last30Days": {
                     "acceptanceRate": 1
                 },
-                "updatedAt": 1704722818747
+                "updatedAt": 1707925732514
             },
             "companyId": "272AqvcG4hNq4gjgMF2ge2fRLSt1",
             "createdAt": 1686661867216,
@@ -145,7 +145,7 @@
                     "maxPerYear": 50
                 }
             },
-            "helmetHandle": "sBsNdrgRSU6uXXwoEe8G",
+            "helmetHandle": "IbhS0zWrQ6K1UBebQGSQ",
             "id": "-NXooPu87iKRuaUozjkR",
             "lastUpdate": 1701858848373,
             "mdDescription": "Envie d’un challenge sur la région lilloise ? Super ! Notre équipe d'ingénieurs Data, cherche leur futur(e ) collaborateur(trice) ! \n \nVoilà le type de missions qui pourront vous être confiées :\n\n* Implémenter des algorithmes d’analyse de données pour l'industrialisation ou l'exploration R&D.\n* Collecter, consolider et modéliser de gros volumes de données (Big Data, Data Warehouses, Data Lakes).\n* Développer et automatiser les flux de données et leurs visualisations en dashboards, reporting.\n* S'assurer de la scalabilité, la sécurité, la stabilité et la disponibilité des données de la plateforme.\n* Analyser des données web pour répondre aux questions métiers et participer à la construction de l’architecture Big Data\n\n**Voici quelques exemples d’outils utilisés chez CREATIVE et nos clients :**\n\n* Python, Go, R….\n* Spark Scala\n* Data Mining, Data Warehouse, NoSQL, Parallel Programming\n* Git, Linux, Django, REST, bash\n\n**Votre profil :**\nVous avez déjà mené à bien un projet significatif en environnement Big Data. Vous avez au minimum 3 ans d’expérience sur un poste similaire et souhaitez conforter vos acquis.\nVous voulez rejoindre un collectif où vous pourrez aussi bien apporter votre expertise que vous nourrir de celle des autres.\nAu-delà de la mission, vous recherchez une structure qui saura reconnaître vos compétences et vous accompagner dans vos souhaits d’évolution.\nVous êtes disponible dès maintenant ou nous pouvons convenir d’une date de démarrage si vous avez une période de préavis à respecter.\n \n**Conditions de travail :**\n· Poste à pourvoir en CDI.\n· Temps de travail : 36h30/semaine\n· Télétravail : *Hybride*\n· Rémunération : 40 à 50 K \n \n \n \n**Avantages sociaux :**\no Prime de vacances\no Titres restaurant de 10 euros par jour\no Avantages liés aux déplacements quotidiens\no Prime d’intéressement et/ou de participation\no 10 jours de RTT\no Activités et avantages du CSE\no Prime de cooptation\n \n**Description de l’entreprise :**\nNotre agence lilloise est située à Lille Europe. En nous rejoignant, vous trouverez une proximité avec les équipes managériales, commerciales et RH, *que ce soit lors d’évènements techniques ou conviviaux (en journée ou en soirée).*\nRejoindre Créative c'est :\n· L’assurance de se voir confier des projets techniquement challengeant, depuis nos locaux ou ceux de nos clients\n· Une relation de confiance durable avec chacun de nos collaborateurs et de nos clients\n· La garantie d’une montée en compétences et d’une évolution de carrière.\n \nL’une des forces de Créative, ce n’est pas juste vous trouver une mission. C’est également échanger avec vous au quotidien et participer ensemble aux évènements techniques internes ou locaux (DevFest, Bdx IO, Agile Tour, PO DOJO, BBL…) et conviviaux.\n \n**Suite du processus :**\nA la suite d’un court échange téléphonique avec Lisa, vous pourrez la rencontrer lors d’un entretien RH. Vous serez ensuite amené à échanger avec un ***collaborateur*** avant un dernier point avec Marie et/ou Nicolas, pour la partie commerciale.\n \nGroupe Créative offre à tous ses candidats les mêmes opportunités d’accès à l’emploi sans distinction de genre, d’ethnicité, de religion, d’orientation sexuelle, de statut social, de handicap et d’âge.\n \n**Et pour finir :**\nQuelques mots de notre fondateur, Raphaël DOYEN, qui vous partage sa vision de l’entreprise : [https://www.youtube.com/watch?v=EoIVkVDvuoc](https://www.youtube.com/watch?v=EoIVkVDvuoc)",
@@ -553,100 +553,6 @@
             "objectID": "broadbeanHookI_BCEFIT_2DAI_0582"
         },
         {
-            "applicationUrl": "https://capgemini-service.contactrh.com/jobs/12582/42066128/fr_FR",
-            "companyId": "W90gViUWEFRj0t2GArwd5QmzngE2",
-            "createdAt": 1700281818555,
-            "creatorId": "W90gViUWEFRj0t2GArwd5QmzngE2",
-            "descriptionPreview": "QU’EST-CE QU’UN.E DEVELOPPEUR.EUSE/ TECH-LEAD DATA ?\nC’est être à la pointe des sujets d’intégration et participer au développement de l’offre « Modernisation des plateformes d’échange et API Management » en s’appuyant sur des solutions d’intégration notamment Mulesoft, Boomi, Talend, Apigee…\n\n * Participer au recueil des besoins auprès de nos clients\n * Participer à la conception, l’architect",
-            "details": {
-                "contracts": {
-                    "permanent": true
-                },
-                "places": {
-                    "ChIJKTEY-VjV3EcRsAgl8UHxChw": {
-                        "position": 0
-                    }
-                },
-                "professionId": "-Mx3kkb13fZejNbGASKP",
-                "remotePolicy": {
-                    "frequency": "no"
-                },
-                "requiredExperience": "3",
-                "start": "asap"
-            },
-            "helmetHandle": "0OK26TLsRVyLOzW3Zi49",
-            "id": "sap+42066128",
-            "lastUpdate": 1701439214778,
-            "mdDescription": "**L'offre**\n\n\nQU’EST-CE QU’UN.E DEVELOPPEUR.EUSE/ TECH-LEAD DATA ?\nC’est être à la pointe des sujets d’intégration et participer au développement de l’offre « Modernisation des plateformes d’échange et API Management » en s’appuyant sur des solutions d’intégration notamment Mulesoft, Boomi, Talend, Apigee…\n\n * Participer au recueil des besoins auprès de nos clients\n * Participer à la conception, l’architecture et l’intégration de la solution d’intégration retenue\n * Déployer et optimiser au quotidien des pipelines de données dans le Cloud\n * Développer des nouveaux flux/API\n * Apporter une Expertise et un Leadership Technologique\n * Apporter / Diffuser une Expertise et un Leadership Technologique au sein de sa squad\n * Assurer la scalabilité, la modularité et la modernité des plateformes Interfaces\n * Collaborer avec les partenaires de projet, d'intégration et d'exploitation pour faciliter la mise en œuvre des nouveaux flux\n\n\n\n\n\n\nLES PLUS DU POSTE ?\n\nEn plus de ton quotidien, tu pourras entreprendre, être formé.e, utiliser nos incubateurs pour innover, organiser des conférences en France ou ailleurs dans le monde.\nEt côté rémunération ? En plus de ton salaire, tu percevras de la participation, de l'intéressement, un PERCO, une mutuelle, des Tickets Restaurants, des congés d'ancienneté, de nombreux avantages CE, un accord de télétravail et de parentalité !\n\n\n**L'entreprise**\n\n\n\"Get the future you want\"\nTelle est notre promesse chez Capgemini : Evoluer dans un environnement où le développement des compétences et les perspectives sont à portée de main !\nNous recherchons des femmes et des hommes passionné.e.s par l'IT pour intégrer nos équipes techniques et accompagner nos clients dans leurs projets de transformation numérique.\nSi pour toi le développement informatique c'est bien plus que des lignes de code, cette offre est faite pour toi.\nCapgemini Lille, c’est aussi le « Greentech », un bâtiment neuf construit au bord de l’eau, écologique et facilement accessible par tous les moyens de transports en commun !\nDécouvrez nos locaux ici\n\nAu sein de nos centres de services basés à Euratechnologies, nous recherchons des consultantes/ consultants techniques prêtes/s à rejoindre nos équipes Cloud and Custom Application, C&amp;CA . L’ADN de C&amp;CA est d’accompagner la transformation, assurer l’intégration et la performance du SI de nos clients dans des secteurs variés tels que l’énergie, les transports, la grande distribution. Transmettre notre savoir-faire sur les méthodologies de delivery et les pratiques business sont au cœur de nos engagements auprès de nos clients.\n\n\n**Votre profil**\n\n\nQUELS SONT LES PREREQUIS ?\n * ESB/ETL/IPAAS ( Mulesoft, Boomi, Talend, Tibco, Webmethods, WSO2,…)\n * API Gateway/API Management (Apigee, APIM, Axway, kong, Mulesoft, Boomi,...)\n * API Rest/Json/Swagger/openAPI/RAML\n * Kafka/Solace/ActiveMQ/RabbitMQ/TIBCO EMS/IBM MQ/JMS\n * Javascript/Groovy/Python/Java\n * Cloud (AWS/Azure/GCP)",
-            "premium": true,
-            "provider": "sap",
-            "publishDate": 1705396697904,
-            "reference": "144700-42066128",
-            "seoAlias": "developpeuseeur-techlead-data-lille-fh-capgemini-1",
-            "skillsList": [
-                {
-                    "name": "Mulesoft",
-                    "value": 50
-                },
-                {
-                    "name": "Management",
-                    "value": 50
-                },
-                {
-                    "name": "Talend",
-                    "value": 50
-                },
-                {
-                    "name": "Kong",
-                    "value": 50
-                },
-                {
-                    "name": "WebMethods",
-                    "value": 50
-                }
-            ],
-            "status": "JOB_PUBLISHED",
-            "title": "Développeuse.eur TechLead data - LILLE F/H",
-            "rawDescription": "",
-            "smallCompany": {
-                "companyName": "Capgemini",
-                "handle": "KDHOGQivQnyiaCcOtIQc",
-                "id": "W90gViUWEFRj0t2GArwd5QmzngE2",
-                "seoAlias": "capgemini",
-                "gallery": {
-                    "handle": "YramXxtAQCCaySkEm5aA"
-                },
-                "fallbackGalleryUrl": "https://i.ytimg.com/vi/JffOAPu4ptw/maxresdefault.jpg"
-            },
-            "type": "company_job",
-            "contractTypes": [
-                "permanent"
-            ],
-            "profession": {
-                "algoliaKeyword": "fullstack",
-                "langContent": {
-                    "en": {
-                        "displayName": "Développeur.euse Full stack",
-                        "name": "Full stack developer"
-                    },
-                    "fr": {
-                        "displayName": "Développeur.euse Full stack",
-                        "name": "Développeur Full stack"
-                    }
-                }
-            },
-            "_geoloc": [
-                {
-                    "lat": 50.6464173,
-                    "lng": 2.9853856
-                }
-            ],
-            "formattedPlaces": [
-                "Lille, France"
-            ],
-            "objectID": "sap+42066128"
-        },
-        {
             "application30Days": true,
             "companyId": "9JREwWZ0WxXSS94Ng5uHToAIZWa2",
             "createdAt": 1705918140975,
@@ -898,8 +804,8 @@
                     "value": 50
                 }
             ],
-            "createdAt": 1707400104015,
-            "lastUpdate": 1707400104015,
+            "createdAt": 1708004487709,
+            "lastUpdate": 1708004487709,
             "seoAlias": "noveo",
             "status": "JOB_PUBLISHED",
             "title": "spontaneous_application",
@@ -1152,6 +1058,202 @@
                 "Wasquehal, France"
             ],
             "objectID": "-NokbO_EKuVOYvE2fvj9"
+        },
+        {
+            "application30Days": true,
+            "application_email": "clemence.montalegre.34018.11033@maif.aplitrak.com",
+            "applicationsStats": {
+                "allTime": {
+                    "replyTime": 2592000000
+                },
+                "last30Days": {
+                    "replyTime": 2592000000
+                },
+                "updatedAt": 1703499302604
+            },
+            "companyId": "iiF1lLWaaaQk1ylW9TsGCTf6LAV2",
+            "createdAt": "1670889600000",
+            "creatorId": "quXL2VL0SkXol3W2c19pXuZP98V2",
+            "descriptionPreview": "Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.\nPourquoi nous rejoindre ?\nNous avons créé la Guilde Développement MAIF, qui constitue un collectif tourné vers le partage, l'entraide et un objectif commun : être un espace d'échange, de partage de connais",
+            "details": {
+                "contracts": {
+                    "permanent": true
+                },
+                "locale": "fr",
+                "places": {
+                    "ChIJIxP4QckvB0gRkh7hEE0dVts": {
+                        "position": 1,
+                        "precise": true,
+                        "updatedAt": 1671021300094
+                    }
+                },
+                "professionId": "-Mx3kkb13fZejNbGASKP",
+                "remotePolicy": {
+                    "daysPerWeek": 3,
+                    "frequency": "hybrid"
+                },
+                "requiredExperience": 1,
+                "salary": {
+                    "max": 52,
+                    "min": 37,
+                    "recurrence": "year",
+                    "maxPerYear": 52
+                },
+                "start": "ASAP"
+            },
+            "helmetHandle": "bBEEzYIUQXvwb9KEzT8A",
+            "id": "broadbeanHook+2022-4135",
+            "isRemoteCrafted": true,
+            "lastUpdate": 1692692090929,
+            "mdDescription": "Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.\n\n**Pourquoi nous rejoindre ?**\nNous avons créé la Guilde Développement MAIF, qui constitue un collectif tourné vers le partage, l'entraide et un objectif commun : être un espace d'échange, de partage de connaissance pour faire vivre et progresser le métier de développeur.\n\nAu sein de la Maif, tu rejoindras l’un de nos collectifs agiles, organisés en squads (équipes pluridisciplinaires). C’est un environnement idéal pour continuer à progresser et échanger dans un cadre bienveillant et pensé pour les profils techniques\n\nConcrètement, nous te proposons :\n\n* Un vaste choix de contextes et de projets, qui permet d'aborder des sujets différents, tant sur le plan technique que fonctionnel.\n* Des collectifs dans lesquels il fait bon vivre\n* Un cadre de travail qui vise à un excellent équilibre pro/perso : télétravail 2 à 3j / semaine, grand campus avec services associés (centre aéré, gymnase, conciergerie, comité d'entreprise…) et accords sur le temps de travail (possibilité d'augmenter ou baisser son temps de travail)\n* De nombreux avantages : un salaire fixe attractif, une prime de vacances, des augmentations collectives & individuelles, une aide financière à la garde d'enfant, une participation à la prise en charge des activités sportives/culturelles extrascolaires des enfants, des plans d'épargnes d'entreprise abondés etc.\n* Une qualité de vie propre aux villes de taille moyenne : Niort est la 3ème ville française où il fait bon vivre, tournée vers l'accueil de ses nouveaux habitants (transports en commun gratuits, vie culturelle etc.) et investie sur l'avenir de la tech #NiortTech.\n\n**Notre stack technique**\n\n* Backend: Java 11+, Spring boot (Data, Security, Batch), PostgreSQL, Maven, Junit, Cucumber, Kafka, ElasticSearch. Nous avons aussi du Legacy (Java 8 / J2EE / Spring Core) et nous améliorons nos compétences dans d'autres langages (Scala, Kotlin, Python, Go).\n* Frontend: Javascript, Node.js, React.js, Typescript, Sass \\* DevOps: Sonar, Git, Github, IntelliJ, Jira, Docker / Kubernetes, ELK, Grafana, Maven\n\n**Ton profil**\n\n* Tu as au moins 2 ans d'expérience dans le développement d'applications, et des compétences solides en développement Java et/ou Javascript.\n* Que tu sois plus backend ou plus frontend, tu es prêt(e) à étendre tes connaissances, au fil du temps.\n* Tu es sensible à la qualité du code et tu es pragmatique.\n* Tu sais faire preuve d'écoute, tu accordes de l'importance aux échanges, et tu as le sens du service.\n\nLe recrutement se déroule en deux étapes :\n\n* Un entretien de qualification technique\n* Un entretien avec ta future équipe RH et ton management",
+            "premium": true,
+            "provider": "broadbean",
+            "publishDate": 1707990251005,
+            "reference": "2023-5694",
+            "requiredExperience": 0,
+            "seoAlias": "developpeur-fullstack-fh-maif",
+            "skillsList": [
+                {
+                    "name": "Java",
+                    "value": 100
+                },
+                {
+                    "name": "Javascript",
+                    "value": 100
+                },
+                {
+                    "name": "Maven",
+                    "value": 100
+                },
+                {
+                    "name": "Spring",
+                    "value": 100
+                },
+                {
+                    "name": "Cucumber",
+                    "value": 100
+                },
+                {
+                    "name": "Docker",
+                    "value": 100
+                },
+                {
+                    "name": "Elasticsearch",
+                    "value": 100
+                },
+                {
+                    "name": "Git",
+                    "value": 100
+                },
+                {
+                    "name": "Github",
+                    "value": 100
+                },
+                {
+                    "name": "Go",
+                    "value": 100
+                },
+                {
+                    "name": "Grafana",
+                    "value": 100
+                },
+                {
+                    "name": "Jira",
+                    "value": 100
+                },
+                {
+                    "name": "JUnit",
+                    "value": 100
+                },
+                {
+                    "name": "Kafka",
+                    "value": 100
+                },
+                {
+                    "name": "Kotlin",
+                    "value": 100
+                },
+                {
+                    "name": "Kubernetes",
+                    "value": 100
+                },
+                {
+                    "name": "NodeJS",
+                    "value": 100
+                },
+                {
+                    "name": "PostgreSQL",
+                    "value": 100
+                },
+                {
+                    "name": "Python",
+                    "value": 100
+                },
+                {
+                    "name": "React",
+                    "value": 100
+                },
+                {
+                    "name": "Sass",
+                    "value": 100
+                },
+                {
+                    "name": "Scala",
+                    "value": 100
+                },
+                {
+                    "name": "Spring Boot",
+                    "value": 100
+                },
+                {
+                    "name": "Typescript",
+                    "value": 100
+                }
+            ],
+            "status": "JOB_PUBLISHED",
+            "team": {
+                "management": "",
+                "technical": ""
+            },
+            "title": "Développeurs Fullstack F/H",
+            "rawDescription": "",
+            "smallCompany": {
+                "companyName": "MAIF",
+                "handle": "d9m3GNTOQZqvF9KaeLIR",
+                "id": "iiF1lLWaaaQk1ylW9TsGCTf6LAV2",
+                "seoAlias": "maif",
+                "gallery": {
+                    "handle": "pUaeRfGURsCbmWm9nEJK"
+                },
+                "fallbackGalleryUrl": "https://i.ytimg.com/vi/e3Nf713gmsk/maxresdefault.jpg"
+            },
+            "type": "company_job",
+            "contractTypes": [
+                "permanent"
+            ],
+            "profession": {
+                "algoliaKeyword": "fullstack",
+                "langContent": {
+                    "en": {
+                        "displayName": "Développeur.euse Full stack",
+                        "name": "Full stack developer"
+                    },
+                    "fr": {
+                        "displayName": "Développeur.euse Full stack",
+                        "name": "Développeur Full stack"
+                    }
+                }
+            },
+            "_geoloc": [
+                {
+                    "lat": 46.3287103,
+                    "lng": -0.487657
+                }
+            ],
+            "formattedPlaces": [
+                "Niort, France"
+            ],
+            "objectID": "broadbeanHook+2022-4135"
         },
         {
             "application30Days": true,
@@ -2820,30 +2922,30 @@
             "objectID": "sap+42078445"
         }
     ],
-    "nbHits": 71,
+    "nbHits": 69,
     "page": 0,
     "nbPages": 3,
     "hitsPerPage": 24,
     "facets": {
         "contractTypes": {
             "permanent": 48,
-            "spontaneousApplications": 22,
+            "spontaneousApplications": 20,
             "freelance": 1
         },
         "details.professionId": {
-            "-Mx3kkb13fZejNbGASKP": 17,
+            "-Mx3kkb13fZejNbGASKP": 16,
             "-Mx44QoDU81SRDJrb13z": 6,
             "-NKn5LxIRWG_hKLi5-Zd": 3,
             "-Mx3jlcS4yb7nXcwFhhO": 2,
+            "-N7_LTn2haBVtoRGuZa_": 2,
             "-Mx3kNKTkaE7pzppmXYb": 1,
             "-Mx3nY3Y5dDJioqUodBq": 1,
             "-Mx3nwjAHr0AL-gIMoju": 1,
             "-Mx43U1M8a1mAI9SIRbY": 1,
-            "-Mx447GYgWz14mDORUW0": 1,
-            "-Mx4L4RdziBVnZfcBiYQ": 1
+            "-Mx447GYgWz14mDORUW0": 1
         },
         "details.salary.maxPerYear": {
-            "0": 5,
+            "0": 6,
             "40": 1,
             "41": 6,
             "45": 3,
@@ -2856,7 +2958,7 @@
         },
         "details.remotePolicy.frequency": {
             "hybrid": 51,
-            "no": 13,
+            "no": 12,
             "fullTime": 2
         }
     },
@@ -2864,7 +2966,7 @@
         "details.salary.maxPerYear": {
             "min": 0,
             "max": 75,
-            "avg": 45,
+            "avg": 44,
             "sum": 1736
         }
     },
@@ -2879,10 +2981,10 @@
     "query": "Data",
     "params": "aroundPrecision=20000&facets=%5B%22contractTypes%22%2C%22details.professionId%22%2C%22details.remotePolicy.frequency%22%2C%22details.requiredExperience%22%2C%22details.salary.maxPerYear%22%5D&highlightPostTag=__%2Fais-highlight__&highlightPreTag=__ais-highlight__&hitsPerPage=24&maxValuesPerFacet=10&page=0&query=Data&tagFilters=",
     "index": "public_jobs",
-    "processingTimeMS": 3,
+    "processingTimeMS": 2,
     "processingTimingsMS": {
         "_request": {
-            "roundTrip": 6
+            "roundTrip": 7
         },
         "afterFetch": {
             "format": {
@@ -2890,13 +2992,7 @@
             },
             "total": 1
         },
-        "getIdx": {
-            "load": {
-                "total": 1
-            },
-            "total": 1
-        },
-        "total": 3
+        "total": 2
     },
-    "serverTimeMS": 4
+    "serverTimeMS": 3
 }

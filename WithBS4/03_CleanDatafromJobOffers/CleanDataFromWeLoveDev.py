@@ -1,87 +1,162 @@
 import json
 import pandas as pd
+import numpy as np
+import re
+import nltk
 from datetime import datetime
 import pyarrow.parquet as pq
-
-import nltk
-from nltk.tokenize import word_tokenize
-from nltk.corpus import stopwords
-from nltk.stem import WordNetLemmatizer
-from nltk import ne_chunk
-from nltk.tokenize import word_tokenize
-from nltk.tag import pos_tag
-
+from sklearn.feature_extraction.text import TfidfVectorizer
+from scipy.sparse.linalg import svds
 import spacy
 
+# Constants
+JSON_FILE_PATH = "./results/we_love_dev-parsed_data.json"
+OUTPUT_PARQUET_FILE_PATH = "./results/we_love_dev-cleaned_data.parquet"
+OUTPUT_CSV_FILE_PATH = "./results/we_love_dev-cleaned_data.csv"
 
-nltk.download('punkt')
-nltk.download('stopwords')
-nltk.download('wordnet')
-nltk.download('maxent_ne_chunker')
-nltk.download('words')
-nltk.download('averaged_perceptron_tagger')
+# Load French stopwords for text normalization
+stop_words = nltk.corpus.stopwords.words('french')
 
-# Load the English language model
-nlp = spacy.load('fr_core_news_sm') 
 
-def convert_timestamp(timestamp_ms):
-    if timestamp_ms:
-        return datetime.fromtimestamp(int(timestamp_ms) / 1000).strftime('%Y-%m-%d %H:%M:%S')
+def convert_timestamp(timestamp_ms: int) -> str:
+    """
+    Convert timestamp in milliseconds to human-readable format.
+    
+    Args:
+        timestamp_ms (int): Timestamp in milliseconds.
+        
+    Returns:
+        str: Human-readable timestamp.
+    """
+    try:
+        if timestamp_ms:
+            return datetime.fromtimestamp(int(timestamp_ms) / 1000).strftime('%Y-%m-%d %H:%M:%S')
+    except ValueError:
+        pass
     return None
 
-def preprocess_text(text):
-    if text :
-        # Tokenize text
-        tokens = word_tokenize(text)
-        # Remove punctuation and lowercase
-        tokens = [word.lower() for word in tokens if word.isalnum()]
-        # Remove stopwords
-        stop_words = set(stopwords.words('english'))
-        tokens = [word for word in tokens if not word in stop_words]
-        # Lemmatization
-        lemmatizer = WordNetLemmatizer()
-        tokens = [lemmatizer.lemmatize(word) for word in tokens]
-        return ' '.join(tokens)
-    else :
-        return ''
 
-def extract_named_entities(text):
+def normalize_text(text: str) -> str:
+    """
+    Normalize text by removing special characters, whitespaces, and stopwords.
+    
+    Args:
+        text (str): Input text.
+        
+    Returns:
+        str: Normalized text.
+    """
+    text = re.sub(r'[^a-zA-Z\s]', '', text, re.I | re.A).lower().strip()
+    tokens = nltk.word_tokenize(text)
+    filtered_tokens = [token for token in tokens if token not in stop_words]
+    return ' '.join(filtered_tokens)
+
+
+def create_vocab_matrix(normalized_sentences: list) -> np.ndarray:
+    """
+    Create a TF-IDF vocabulary matrix from a list of normalized sentences.
+    
+    Args:
+        normalized_sentences (list): List of normalized sentences.
+        
+    Returns:
+        np.ndarray: TF-IDF vocabulary matrix.
+    """
+    tv = TfidfVectorizer(min_df=0., max_df=1., use_idf=True)
+    dt_matrix = tv.fit_transform(normalized_sentences)
+    dt_matrix = dt_matrix.toarray()
+    td_matrix = dt_matrix.T
+    return td_matrix
+
+
+def low_rank_svd(matrix: np.ndarray, singular_count: int = 2) -> tuple:
+    """
+    Perform low-rank SVD on a matrix.
+    
+    Args:
+        matrix (np.ndarray): Input matrix.
+        singular_count (int): Number of singular values to retain.
+        
+    Returns:
+        tuple: Tuple containing U, S, and V^T matrices.
+    """
+    u, s, vt = svds(matrix, k=singular_count)
+    return u, s, vt
+
+
+def summarize_text(text: str) -> str:
+    """
+    Summarize text by extracting top salient sentences using TF-IDF and SVD.
+    
+    Args:
+        text (str): Input text.
+        
+    Returns:
+        str: Summarized text.
+    """
     if text:
-        # Process the text with spaCy
-        doc = nlp(text)
-        # Extract named entities
-        named_entities = [ent.text for ent in doc.ents if ent.label_ in ['ORG', 'DATE', 'GPE', 'EVENT', 'PERSON']]
-        return named_entities
+        apply_normalization = np.vectorize(normalize_text)
+        sentences = nltk.sent_tokenize(text)
+
+        if len(sentences) > 2:
+            normalized_sentences = apply_normalization(sentences)
+            td_matrix = create_vocab_matrix(normalized_sentences)
+            num_sentences = 2
+            num_topics = 2
+            u, s, vt = low_rank_svd(td_matrix, singular_count=num_topics)
+            salience_scores = np.sqrt(np.dot(np.square(s), np.square(vt)))
+            top_sentence_indices = (-salience_scores).argsort()[:num_sentences]
+            top_sentence_indices.sort()
+            return '\n'.join(np.array(sentences)[top_sentence_indices])
+        else:
+            return None
     else:
-        return []
-
-# Function to add named entities to DataFrame
-def add_named_entities(text):
-    named_entities = extract_named_entities(text)
-    return ', '.join(named_entities)
+        return None
 
 
-def parse_skill_list(skill_list):
+def parse_skill_list(skill_list: list) -> str:
+    """
+    Parse and format skill list into a string.
+    
+    Args:
+        skill_list (list): List of skill dictionaries.
+        
+    Returns:
+        str: Formatted skill string.
+    """
     if skill_list:
-        # Sort the skill list by value in descending order
         sorted_skills = sorted(skill_list, key=lambda x: x['value'], reverse=True)
-        
-        # Extract skill names
         skill_names = [skill['name'] for skill in sorted_skills]
-        
-        # Construct the string by joining skill names
-        skills_string = '/'.join(skill_names)
-        
-        return skills_string
+        return '/'.join(skill_names)
     return None
 
-def parse_location(location):
+
+def parse_location(location: list) -> dict:
+    """
+    Parse location information into a dictionary.
+    
+    Args:
+        location (list): Location information.
+        
+    Returns:
+        dict: Dictionary containing city and country information.
+    """
     if location:
         city, country = location[0].split(", ")
         return {"city": city, "country": country}
     return {"city": None, "country": None}
 
-def categorize_experience(experience):
+
+def categorize_experience(experience: int) -> str:
+    """
+    Categorize years of experience into predefined categories.
+    
+    Args:
+        experience (int): Years of experience.
+        
+    Returns:
+        str: Experience category.
+    """
     if experience <= 3:
         return '[0-3]'
     elif experience <= 7:
@@ -89,7 +164,17 @@ def categorize_experience(experience):
     else:
         return '[+7]'
 
-def clean_data(parsed_data_list):
+
+def clean_data(parsed_data_list: list) -> list:
+    """
+    Clean parsed data and format it into a list of dictionaries.
+    
+    Args:
+        parsed_data_list (list): List of parsed data dictionaries.
+        
+    Returns:
+        list: List of cleaned data dictionaries.
+    """
     cleaned_data_list = []
     for parsed_data in parsed_data_list:
         location_data = parse_location(parsed_data.get("location"))
@@ -99,19 +184,20 @@ def clean_data(parsed_data_list):
             "job_offer_title": parsed_data.get("job_offer_title"),
             "profession_title": parsed_data.get("profession_title"),
             "description": parsed_data.get("description"),
+            "description_summarized": summarize_text(parsed_data.get("description")),
             "salary_max": parsed_data["salary_info"].get("max"),
-            "salary_avg": (parsed_data["salary_info"].get("max", 0) + parsed_data["salary_info"].get("min", 0)) / 2,
+            "salary_avg": ((parsed_data["salary_info"].get("max", 0) + parsed_data["salary_info"].get("min", 0)) / 2),
             "salary_min": parsed_data["salary_info"].get("min"),
             "remote_quantity": parsed_data["remote_policy"].get("daysPerWeek"),
             "job_format": parsed_data["remote_policy"].get("frequency"),
             "required_experience": int(parsed_data.get("required_experience")),
-            "required_experience_category":categorize_experience(int(parsed_data.get("required_experience"))),
+            "required_experience_category": categorize_experience(int(parsed_data.get("required_experience"))),
             "team_management_description": parsed_data["team_description"].get("management"),
-            "team_management_description_processed": preprocess_text(parsed_data["team_description"].get("management")),
-            "team_management_description_entities": add_named_entities(preprocess_text(parsed_data["team_description"].get("management"))),
+            "team_management_description_summarized": summarize_text(
+                parsed_data["team_description"].get("management")),
             "team_technical_description": parsed_data["team_description"].get("technical"),
-            "team_technical_description_processed": preprocess_text(parsed_data["team_description"].get("technical")),
-            "team_technical_description_entities": add_named_entities(preprocess_text(parsed_data["team_description"].get("technical"))),
+            "team_technical_description_summarized": summarize_text(
+                parsed_data["team_description"].get("technical")),
             **location_data,
             "created_timestamp": convert_timestamp(parsed_data.get("created_timestamp")),
             "skills": parse_skill_list(parsed_data.get("skill_list")),
@@ -119,12 +205,12 @@ def clean_data(parsed_data_list):
         }
 
         cleaned_data_list.append(cleaned_data)
-    
+
     return cleaned_data_list
 
+
 # Read JSON data from file
-file_path = "./results/we_love_dev-parsed_data.json"
-with open(file_path, 'r', encoding='utf-8') as file:
+with open(JSON_FILE_PATH, 'r', encoding='utf-8') as file:
     json_data = file.read()
 
 # Parse JSON data
@@ -139,14 +225,10 @@ df = pd.DataFrame(cleaned_data_list)
 # Filter DataFrame to select rows where profession_title is not an empty dictionary
 filtered_df = df[df['profession_title'] != {}]
 
-# print('Job Offers DataFrame : ',filtered_df.head(5))
-print('Description Full : ',filtered_df.iloc[1]['team_management_description'])
-print('Description Processed : ',filtered_df.iloc[1]['team_management_description_processed'])
-print('Description Entity : ',filtered_df.iloc[1]['team_management_description_entities'])
-# print('Job Offers DataFrame : ',filtered_df.iloc[1]['team_technical_description'])
+# Print some columns for validation
+print('Description : ', filtered_df.iloc[1]['description'])
+print('Description summarized : ', filtered_df.iloc[1]['description_summarized'])
 
-# Write DataFrame to Parquet file
-output_parquet_file_path = "./results/we_love_dev-cleaned_data.parquet"
-output_csv_file_path = "./results/we_love_dev-cleaned_data.csv"
-filtered_df.to_parquet(output_parquet_file_path, engine='pyarrow', index=False)
-filtered_df.to_csv(output_csv_file_path, index=False)
+# Write DataFrame to Parquet and CSV files
+filtered_df.to_parquet(OUTPUT_PARQUET_FILE_PATH, engine='pyarrow', index=False)
+filtered_df.to_csv(OUTPUT_CSV_FILE_PATH, index=False)

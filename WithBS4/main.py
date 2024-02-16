@@ -1,7 +1,7 @@
 import os
 
 # Define the directory names
-directories = ['01_GetDataFromJobOffersWithBS4', '02_ParseDataFromJobOffers', '03_CleanDataFromJobOffers']
+directories = ['01_GetDataFromJobOffersWithBS4', '02_ParseDataFromJobOffers', '03_Clean&TransformDataFromJobOffers']
 
 # Loop through each directory
 for directory in directories:

@@ -1,5 +1,4 @@
 import json
-import pandas as pd
 import os
 
 # Specify the folder containing the JSON files

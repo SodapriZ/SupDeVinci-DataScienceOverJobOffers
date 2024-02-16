@@ -14,7 +14,7 @@ def clean_string(text):
     return clean_text
 
 # URL of the webpage
-url = "https://welovedevs.com/app/fr/jobs?query=Data"
+url = "https://welovedevs.com/app/fr/jobs"
 
 # Fetch the HTML content of the webpage
 response = requests.get(url)

@@ -7,7 +7,6 @@ from datetime import datetime
 import pyarrow.parquet as pq
 from sklearn.feature_extraction.text import TfidfVectorizer
 from scipy.sparse.linalg import svds
-import spacy
 
 # Constants
 JSON_FILE_PATH = "./results/we_love_dev-parsed_data.json"
@@ -16,7 +15,6 @@ OUTPUT_CSV_FILE_PATH = "./results/we_love_dev-cleaned_data.csv"
 
 # Load French stopwords for text normalization
 stop_words = nltk.corpus.stopwords.words('french')
-
 
 def convert_timestamp(timestamp_ms: int) -> str:
     """
@@ -35,6 +33,19 @@ def convert_timestamp(timestamp_ms: int) -> str:
         pass
     return None
 
+def remove_stopwords_from_text(text: str) -> str:
+    """
+    Remove stopwords from a given text.
+    
+    Args:
+        text (str): Input text.
+        
+    Returns:
+        str: Text with stopwords removed.
+    """
+    tokens = nltk.word_tokenize(text)
+    filtered_tokens = [token for token in tokens if token.lower() not in stop_words]
+    return ' '.join(filtered_tokens)
 
 def normalize_text(text: str) -> str:
     """
@@ -107,7 +118,8 @@ def summarize_text(text: str) -> str:
             salience_scores = np.sqrt(np.dot(np.square(s), np.square(vt)))
             top_sentence_indices = (-salience_scores).argsort()[:num_sentences]
             top_sentence_indices.sort()
-            return '\n'.join(np.array(sentences)[top_sentence_indices])
+            summarized_text = '\n'.join(np.array(sentences)[top_sentence_indices])
+            return remove_stopwords_from_text(summarized_text)
         else:
             return None
     else:
@@ -225,6 +237,15 @@ df = pd.DataFrame(cleaned_data_list)
 # Filter DataFrame to select rows where profession_title is not an empty dictionary
 filtered_df = df[df['profession_title'] != {}]
 
+# Assuming you have a DataFrame df with skills data
+# Split the skills column by '/' and stack the results into a Series
+skills_series = filtered_df['skills'].str.split('/').apply(pd.Series).stack()
+# Count the occurrences of each skill
+skill_counts = skills_series.value_counts()
+# Create a new DataFrame from the skill_counts Series
+skill_counts_df = pd.DataFrame({'skill_name': skill_counts.index, 'skill_count': skill_counts.values})
+
+
 # Print some columns for validation
 print('Description : ', filtered_df.iloc[1]['description'])
 print('Description summarized : ', filtered_df.iloc[1]['description_summarized'])
@@ -232,3 +253,5 @@ print('Description summarized : ', filtered_df.iloc[1]['description_summarized']
 # Write DataFrame to Parquet and CSV files
 filtered_df.to_parquet(OUTPUT_PARQUET_FILE_PATH, engine='pyarrow', index=False)
 filtered_df.to_csv(OUTPUT_CSV_FILE_PATH, index=False)
+# Export the DataFrame to a CSV file
+skill_counts_df.to_csv('./results/skill_counts.csv', index=False)

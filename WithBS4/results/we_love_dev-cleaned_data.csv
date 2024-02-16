@@ -1,324 +1,61 @@
 company_name,job_offer_title,profession_title,description,description_summarized,salary_max,salary_avg,salary_min,remote_quantity,job_format,required_experience,required_experience_category,team_management_description,team_management_description_summarized,team_technical_description,team_technical_description_summarized,city,country,created_timestamp,skills,cdi
-KHI PORTAGE,Data Engineer,Data engineer,"Quelle sera l étendu de vos extraordinaires missions :
+Macif,Tech Lead API management (F/H),Fullstack developer,"**L'offre**
 
-* Initier et développer des outils d infrastructure à la hauteur de Stark Industries dans l objectif de façonner et transformer les données.
-* Agir tel(le) un(e) allié(e) des Data Scientists, pour industrialiser leurs algorithmes et flux de données.
-* Être un(e) acteur(rice) de choix dans l architecture big data afin de répondre aux différents cas métiers.
-* Protéger et garantir l intégrité des données en assurant leur sécurité et leur accessibilités
-* Mettre en œuvre des pratiques de sécurité redoutables pour protéger les données les plus confidentielles et sensibles, tel(le) un(e) gardien(ne) des joyaux de l univers
-* Travailler en collaboration avec les équipes techniques dans l ingestion des données.
 
-Quels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?
-
-* Maitriser des technologies Big Data tel(le) un(e) expert(e) des mystères technologiques ainsi que les environnements Google Cloud platform, Amazon Web Services et/ou Microsoft Azure
-* Connaitre les langages SQL et Python
-* Des bases solides en architecture data (notamment informatique décisionnelle et big data)
-* Une force de proposition sans faille sur la mise en œuvre et l utilisation des solutions Big Data
-* Être un(e) protecteur(rice) tel Captain America et donc connaitre les principes de sécurité et bonnes pratiques.
-
-Ce qui vous attend chez KHI PORTAGE :
-
-* Une équipe d’expert(e)s soudé(e)s, toujours prêt(e)s à s’entraider afin de faire front à toute problématique.
-* Des projets variés, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
-* De l’autonomie et des responsabilités dans vos missions.
-* Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs (confiance ; transparence , humain ; passion ; éco responsabilité )
-* L’opportunité de participer à des afterworks, événements et sessions sportives régulières afin de célébrer nos succès en équipe","* Être un(e) acteur(rice) de choix dans l architecture big data afin de répondre aux différents cas métiers.
-* Maitriser des technologies Big Data tel(le) un(e) expert(e) des mystères technologiques ainsi que les environnements Google Cloud platform, Amazon Web Services et/ou Microsoft Azure
-* Connaitre les langages SQL et Python
-* Des bases solides en architecture data (notamment informatique décisionnelle et big data)
-* Une force de proposition sans faille sur la mise en œuvre et l utilisation des solutions Big Data
-* Être un(e) protecteur(rice) tel Captain America et donc connaitre les principes de sécurité et bonnes pratiques.",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,Tourcoing,France,2024-02-12 16:48:07,Power BI/Python/SQL/Azure/Google Cloud/Amazon Web Services,True
-Groupe Creative ,Data Engineer (H/F/X),Data engineer,"Envie d’un challenge sur la région lilloise ? Super ! Notre équipe d'ingénieurs Data, cherche leur futur(e ) collaborateur(trice) ! 
+Venez rejoindre la Direction du Digital et Systèmes d'Information du Groupe Macif en intégrant le Département Architecture Intégration & Sécurité, au sein de l'entité socle de fabrication et couche d'échanges, pour y assurer les missions Tech Lead en API management. 
  
-Voilà le type de missions qui pourront vous être confiées :
-
-* Implémenter des algorithmes d’analyse de données pour l'industrialisation ou l'exploration R&D.
-* Collecter, consolider et modéliser de gros volumes de données (Big Data, Data Warehouses, Data Lakes).
-* Développer et automatiser les flux de données et leurs visualisations en dashboards, reporting.
-* S'assurer de la scalabilité, la sécurité, la stabilité et la disponibilité des données de la plateforme.
-* Analyser des données web pour répondre aux questions métiers et participer à la construction de l’architecture Big Data
-
-**Voici quelques exemples d’outils utilisés chez CREATIVE et nos clients :**
-
-* Python, Go, R….
-* Spark Scala
-* Data Mining, Data Warehouse, NoSQL, Parallel Programming
-* Git, Linux, Django, REST, bash
-
-**Votre profil :**
-Vous avez déjà mené à bien un projet significatif en environnement Big Data. Vous avez au minimum 3 ans d’expérience sur un poste similaire et souhaitez conforter vos acquis.
-Vous voulez rejoindre un collectif où vous pourrez aussi bien apporter votre expertise que vous nourrir de celle des autres.
-Au-delà de la mission, vous recherchez une structure qui saura reconnaître vos compétences et vous accompagner dans vos souhaits d’évolution.
-Vous êtes disponible dès maintenant ou nous pouvons convenir d’une date de démarrage si vous avez une période de préavis à respecter.
+Dans ce cadre, vous intégrerez une équipe d'une dizaine de collaborateurs, qui intervient essentiellement sur les plateformes d'échanges et les solutions DevSecops. Équipe spécialisée dans les APIs, elle a noué des partenariats fort avec AXWAY et TIBCO. 
  
-**Conditions de travail :**
-· Poste à pourvoir en CDI.
-· Temps de travail : 36h30/semaine
-· Télétravail : *Hybride*
-· Rémunération : 40 à 50 K 
+Votre cadre de travail sera donc axé sur les plateformes d'échanges : 
+\- Suite API management AXWAY 
+\- Bus d'entreprise Kafka et EMS 
+\- Suite TIBCO 6 BWCE 
+ 
+Vous interviendrez sur plusieurs projets de déploiements pour répondre aux exigences de composabilité et de flexibilité de notre SI ainsi que son ouverture vers nos clients internes, externes et nos partenaires. 
+ 
+Après un accompagnement interne et éventuellement des formations éditeurs, vous serez amené à : 
+ 
+\- Définir et proposer des solutions techniques pour répondre aux exigences de réalisation, d'intégration et d'automatisation 
+\- Prendre en main et paramétrer la plateforme en fonction des spécifications et des besoins (intégration des APIs, développement de policy, mapping, ...) 
+\- Développer et maintenir les frameworks 
+\- Apporter et diffuser une Expertise et un leadership technologique 
+\- Assurer l'exploitation, la supervision et le suivi en production des plateformes 
+\- Participer à l'élaboration, la promotion et le contrôle des bonnes pratiques, des normes et des standards 
+\- Participer à l'élaboration des architectures et des RoadMap 
+\- Être en veille sur les nouvelles solutions du marché
+
+
+**L'entreprise**
+
+
+Entreprise de l'Économie Sociale, la Macif n'appartient ni à des actionnaires, ni à l'État, mais à ses sociétaires. Chaque jour, près de 10 000 salariés se mobilisent pour apporter la meilleure qualité de service à nos 5,6 millions de sociétaires et adhérents en assurances dommages, santé-prévoyance et finance-épargne. 
+ 
+Rejoindre la Macif, c'est s'engager dans une entreprise qui innove et qui développe ses expertises sur le marché globalisé des services, notamment ceux de demain. C'est aussi s'engager dans une entreprise mutualiste, qui place les femmes et les hommes au coeur de sa stratégie de développement, notamment grâce à notre politique de ressources humaines axée sur le développement et le renforcement des compétences de nos salariés. 
+ 
+En lien avec sa démarche de ""bien vivre ensemble au travail"", la Macif est un employeur inclusif et respectueux de toutes les singularités. L'ensemble de nos offres d'emploi sont accessibles aux personnes en situation de handicap. 
+ 
+Reconnue Top Employer 2024 pour ses pratiques RH, la Macif s'engage à promouvoir la diversité et à garantir l'égalité de traitement pour tous.
+
+
+**Votre profil**
+
+
+\- Issue d'une formation supérieure (Bac + 5 ou expérience équivalente), vous bénéficiez idéalement, d'une première expérience dans l'intégration et le paramétrage d'une solution d'API management (Axway, Mulesoft, Apigee, WSO2, ...) et/ou d'une solution d'intégration/ESB (Tibco, Mulesoft, WSO2, ....) 
+ 
+\- Les technologies DevSecOps, kubernetess, ansible, CI/CD vous animent 
+ 
+\- Vous avez, avant tout, le sens du service et de la satisfaction client 
+ 
+\- Vous disposez d'une bonne aisance relationnelle avec un fort sens de la communication et du travail en équipe 
  
  
+Les + : 
  
-**Avantages sociaux :**
-o Prime de vacances
-o Titres restaurant de 10 euros par jour
-o Avantages liés aux déplacements quotidiens
-o Prime d’intéressement et/ou de participation
-o 10 jours de RTT
-o Activités et avantages du CSE
-o Prime de cooptation
- 
-**Description de l’entreprise :**
-Notre agence lilloise est située à Lille Europe. En nous rejoignant, vous trouverez une proximité avec les équipes managériales, commerciales et RH, *que ce soit lors d’évènements techniques ou conviviaux (en journée ou en soirée).*
-Rejoindre Créative c'est :
-· L’assurance de se voir confier des projets techniquement challengeant, depuis nos locaux ou ceux de nos clients
-· Une relation de confiance durable avec chacun de nos collaborateurs et de nos clients
-· La garantie d’une montée en compétences et d’une évolution de carrière.
- 
-L’une des forces de Créative, ce n’est pas juste vous trouver une mission. C’est également échanger avec vous au quotidien et participer ensemble aux évènements techniques internes ou locaux (DevFest, Bdx IO, Agile Tour, PO DOJO, BBL…) et conviviaux.
- 
-**Suite du processus :**
-A la suite d’un court échange téléphonique avec Lisa, vous pourrez la rencontrer lors d’un entretien RH. Vous serez ensuite amené à échanger avec un ***collaborateur*** avant un dernier point avec Marie et/ou Nicolas, pour la partie commerciale.
- 
-Groupe Créative offre à tous ses candidats les mêmes opportunités d’accès à l’emploi sans distinction de genre, d’ethnicité, de religion, d’orientation sexuelle, de statut social, de handicap et d’âge.
- 
-**Et pour finir :**
-Quelques mots de notre fondateur, Raphaël DOYEN, qui vous partage sa vision de l’entreprise : [https://www.youtube.com/watch?v=EoIVkVDvuoc](https://www.youtube.com/watch?v=EoIVkVDvuoc)","* Collecter, consolider et modéliser de gros volumes de données (Big Data, Data Warehouses, Data Lakes).
-**Suite du processus :**
-A la suite d’un court échange téléphonique avec Lisa, vous pourrez la rencontrer lors d’un entretien RH.",50.0,45.0,40.0,2.0,hybrid,3,[0-3],"
-🤝 Entretien de carrière et entretien professionnel annuel
-
-🕵‍♂ Suivi de mission tous les 3 mois 
-
-👨‍🎓 Formations CREATIVE ACADEMY
-
-👨‍🔬 Cellule Innovation pour développer des projets en interne
-
-🎫 Participation à des événements numériques
-
-🎤 Animation de conférences
-
-👨‍🏫 Déjeuners techniques, Organisation de meetups
-
-🎉 Soirées d’agence, Séminaires Groupe
-
-🌱 Politique RSE",,"Nos équipes sont aussi variées que nos agences ! 🌈
-
-Traditionnellement basé à Rennes, le Groupe Créative se veut 100% pur beurre mais pas seulement 😉 Nantes 🐘, Bordeaux 🍷, Lille ⚜, Paris ♥ Lyon 🦁 Toulouse qui sont venues étendre nos horizons pour toujours plus de proximité avec nos clients et avec vous !
-
-Chez Créative nous aimons les profils innovants, qui ont le cerveau en ébullition, des idées plein la tête et surtout qui possèdent le potentiel de faire de leur rêves… une réalité ! De vrais Cré-acteurs en somme ! 
-
-Notre point commun à tous ? La créativité et le besoin d'innover en permanence ! ✨","Nos équipes sont aussi variées que nos agences !
-🌈
-
-Traditionnellement basé à Rennes, le Groupe Créative se veut 100% pur beurre mais pas seulement 😉 Nantes 🐘, Bordeaux 🍷, Lille ⚜, Paris ♥ Lyon 🦁 Toulouse qui sont venues étendre nos horizons pour toujours plus de proximité avec nos clients et avec vous !",Lille,France,2023-06-13 15:11:07,Agile/Power BI/Python/SQL,True
-Full Data Management,Data Engineer,Data engineer,"**Descriptif du poste**
-
-Descriptif du poste
-Full Data Management cherche son nouveau talent!
-Vous souhaitez intégrer une entreprise jeune et dynamique?
-Une entreprise qui met l'accent sur l'humain et qui a pour ambition de devenir leader de la Data dans les Hauts-de-France d'ici 5 ans, alors cette superbe opportunité est faite pour vous !
-
-
-🎯 VOTRE MISSION
-Vous êtes le/la premier.e référent.e du Lead of Data est à ce titre vous agissez sur 2 axes :
-
-
-Architecture - Conception - Réalisation
-
-
-* Conception et Réalisation d'une plateforme permettant de traiter des volumes importants de données.
-* Cadrage des outils nécessaires, à la réalisation de visualisation, d'intelligence artificielle, du bon fonctionnement du socle data de l'entreprise
-* Prise en compte de la gestion de la sécurité de ses données
-* Concevoir et développer les futures fonctionnalités de la plateforme Big Data sous Google Cloud Platform,
-* Concevoir les flux d’alimentation et les tables (structure de donnée),
-* Automatiser et industrialiser les flux,
-* Assurer le run applicatif, le cas échéant.
-
-Animation - Sensibilisation
-
-
-* Animation de la gouvernance data sur les produits cibles de l'entreprise en collaboration avec l’équipe Data de la plateforme
-* Sensibilisation à l’approche Data Driven
-* Animation de la communauté
-* Mise à disposition d'outils
-* Veille techno, partage de bonnes pratiques, partage d'expériences...
-
-*Les activités de la mission sont très variées et larges. C’est ce qui en fait tout son intérêt mais également toute sa complexité.*
-
-
-🎯 VOTRE PROFIL
-
-
-Vous maitrisez l'écosystème de développement et monitoring de flux (cloud, applications); d'outils de flux (AirFlow,) de dictionnaire de données (Collibra) et utilisez des outils de monitoring (Datadog)
-
-
-Technique : Expert cloud Provider (AWS / GCP) .
-Méthodologie : Agilité
-Langue : Anglais/Français
-
-
-Connaissances impératives :
-
-
-* Google BigQuery, GCS, GCP, GKE, Kafka, python, SQL et commandes Linux
-* SQL, CI/CD
-* Les outils devops : Kafka, AirFlow, Docker, Kubernetes, terraform..
-* Un ETL (Stambia, Talend, ODI, etc..),
-* Un langage de programmation (Java / Scala / Spark R / Pig / Python / Py Spark),
-* Les environnements Cloud (GCP, AWS, Azure)
-* Les environnements HADOOP (Cloudera, HDFS, Yarn, Hive, Impala, Spark)
-
-Connaissances fortement appréciées:
-
-
-* Méthodes agiles
-* Machine learning / AI
-* API
-* Git
-* MLOps
-
-Soft Skills :
-
-
-Nous cherchons une personne qui aime travailler en équipe, travailler dans la joie et la bonne humeur, qui est passionnée/curieux(se)/ fidèle/optimiste, qui est fier(e) de l'entreprise pour laquelle il/elle travaille.
-
-
-Donc si tu as envie de grandir professionnellement et humainement rejoins-nous !","* Cadrage des outils nécessaires, à la réalisation de visualisation, d'intelligence artificielle, du bon fonctionnement du socle data de l'entreprise
-* Prise en compte de la gestion de la sécurité de ses données
-* Concevoir et développer les futures fonctionnalités de la plateforme Big Data sous Google Cloud Platform,
-* Concevoir les flux d’alimentation et les tables (structure de donnée),
-* Automatiser et industrialiser les flux,
-* Assurer le run applicatif, le cas échéant.
-*
-
-
-🎯 VOTRE PROFIL
-
-
-Vous maitrisez l'écosystème de développement et monitoring de flux (cloud, applications); d'outils de flux (AirFlow,) de dictionnaire de données (Collibra) et utilisez des outils de monitoring (Datadog)
-
-
-Technique : Expert cloud Provider (AWS / GCP) .",50.0,40.0,30.0,2.0,hybrid,4,[3-7],,,,,Wasquehal,France,2024-01-22 11:18:18,Docker/Git/Java/Python/Azure/SQL/Kubernetes/Talend/Google Cloud/Stambia/Machine Learning/Amazon Web Services/Apache Airflow/Terraform/MongoDB/Snowflake/Mysql/PostgreSQL,True
-KHI PORTAGE,DATA Analyst ( H/F) ,Data Analyst,"Quels seront l étendu de vos extraordinaires missions :
-
-* Analyser les problématiques métier et les synthétiser tel Tony Stark
-* A l'image de Scarlet Witch : manipuler la donnée, l'exploiter et l'interpréter pour en dégager des observations business utiles
-* Créer des dashboards et rapports afin d'obtenir des éléments de décision
-* Mettre en place des KPIs de performances permettant de donner une vision cohérente des résultats aux différentes équipes métiers
-* Devenir un(e) référent(e) technique sur l'outil de reporting Power BI
-* Prendre part au développement de la startup avec tes idées innovantes
-
-Quels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?
-
-* Maitrise du SQL
-* Connaissance analytiques et statistiques
-* Une bonne maitrise de Power BI
-* Connaissance du Cloud
-* Une bonne connaissance d'un ou plusieurs outils d'analyse de données ( SAS, R, etc..)
-* Une connaissance de Python serait un plus ainsi que la connaissance d'autres outils de reporting
-
-Ce qui vous attend chez KHI PORTAGE :
-\- Une équipe d’experts soudées\, toujours prêts à s’entraider afin de faire front à toute problématique\.
-\- Des projets variés\, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
-\- De l’autonomie et des responsabilités dans vos missions\.
-\- Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs \(confiance ; transparence \, humain ; passion ; eco responsabilité \)
-\- L’opportunité de participer à des afterworks\, événements et sessions sportives régulières afin de célébrer nos succès en équipe","Quels seront l étendu de vos extraordinaires missions :
-
-* Analyser les problématiques métier et les synthétiser tel Tony Stark
-* A l'image de Scarlet Witch : manipuler la donnée, l'exploiter et l'interpréter pour en dégager des observations business utiles
-* Créer des dashboards et rapports afin d'obtenir des éléments de décision
-* Mettre en place des KPIs de performances permettant de donner une vision cohérente des résultats aux différentes équipes métiers
-* Devenir un(e) référent(e) technique sur l'outil de reporting Power BI
-* Prendre part au développement de la startup avec tes idées innovantes
-
-Quels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?
-\- Des projets variés\, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
-\- De l’autonomie et des responsabilités dans vos missions\.",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,Tourcoing,France,2024-02-12 17:00:28,Power BI/SQL,True
-Oak,Product Owner (PO) - Spécialisé en Data et Intelligence Artificielle,Product Owner,"Qui sommes nous ?
-Le projet de OAK se concentre sur le développement d'un produit révolutionnaire d'aide à la mobilité interne et destiné aux entreprises de taille moyenne. Ce produit intègre intensivement la data science et l'intelligence artificielle, offrant ainsi des solutions sur mesure à nos clients.
-
-
-
-
-Pour développer son équipe de 7 personnes, OAK recherche un Product Owner (PO) dynamique et expérimenté pour rejoindre une équipe innovante.
-
-
-
-
-Ça t’intéresse ? Tes missions seront :
-\- Traduire et rédiger les besoins en documents techniques \(spécifications fonctionnelles\, scénarios de tests\, cahier des charges…\)\.
-\- Définir les spécifications produits et superviser leurs mises en œuvre\.
-\- Collaborer étroitement avec les clients pour intégrer leurs besoins et retours dans le développement du produit\.
-\- Élaborer la vision du produit\, la stratégie et la feuille de route\, en partenariat avec l'équipe de direction et les clients\.
-\- Coordonner la gestion du produit et assurer la communication entre les équipes de Conception\, Marketing\, IT et Data Science\.
-\- Évaluer la faisabilité des nouvelles fonctionnalités en collaboration avec les équipes IT et Data Science\.
-\- Gérer les priorités de développement et veiller au respect des délais\.
-\- Tester les nouvelles fonctionnalités\, surveiller les performances du produit et garantir la conformité aux normes de qualité\.
-
-
-
-
-Nous recherchons un profil : 
-Qui a une expérience confirmée en gestion de produit, idéalement dans un environnement de startup technologique ET une expertise dans la gestion de produits intégrant la data science et l'IA.
-
-
-Pour répondre à notre besoin, tu devras avoir : 
-\- Des connaissances solides en data science pour évaluer la faisabilité des demandes clients\.
-\- D’excellentes aptitudes en communication et gestion de projet\.
-\- De fortes compétences en résolution de problèmes et prise de décision\.
-\- Une capacité à gérer plusieurs tâches simultanément et à respecter les échéances\.
-\- Une maîtrise des méthodes agiles de développement de produit\.
-
-
-Ces petits plus pourraient également faire toute la différence :
-\- Aisance avec le Quality Assurance \(QA\) pour maintenir la qualité du produit en ligne avec les attentes des clients et la stratégie établie\.
-\- Expérience en leadership technique et en gestion d'équipes interdisciplinaires\.
-
-
-
-
-Nous te proposons un poste basé sur un 39h hebdomadaire avec du télétravail et des horaires flexibles.
-Nous avons mis en place le birthday off et une 6ème semaine de congés payés.
-Nous t’offrons un environnement de travail dynamique et stimulant, où l'innovation et la créativité sont valorisées. 
-
-
-Tu souhaites nous rejoindre pour contribuer au développement d'un produit révolutionnaire qui transformera la mobilité en entreprise ? Rien de plus simple : Envoie ton CV et ta lettre de motivation à XXXXX@oak-rh.com.
-Nous sommes impatients de découvrir comment ton expertise en gestion de produit, data science et IA peut contribuer à notre succès.","\- Coordonner la gestion du produit et assurer la communication entre les équipes de Conception\, Marketing\, IT et Data Science\.
-Tu souhaites nous rejoindre pour contribuer au développement d'un produit révolutionnaire qui transformera la mobilité en entreprise ?",45.0,42.5,40.0,3.0,hybrid,3,[0-3],Dans une petite équipe de 7 personnes le management est collaboratif ! ,,"Le projet de OAK se concentre sur le développement d'un produit révolutionnaire d'aide à la mobilité interne et destiné aux entreprises de taille moyenne. Ce produit intègre intensivement la data science et l'intelligence artificielle, offrant ainsi des solutions sur mesure à nos clients.",,Talence,France,2024-01-22 11:09:00,Python/Confluence/Jira/NLP (Natural language processing)/React/Typescript/Numpy/Database/Selenium,True
-Full Data Management,Développeurs .net /Angular,Développeur.euse Full stack,"Nous recherchons ASAP :
-→4 développeurs Full Stack expérimenté (3 ans d'XP en plus de l'alternance)
-→.NET (obligatoire)
-→Angular (obligatoire)
-
-
-Localisation : LILLE
-
-
-Poste à pourvoir en CDI démarrage au 1er février 2024
-
-
-Alors si tu souhaites rejoindre une équipe soudée où règne la joie et la bonne humeur, où le partage et l'humain son mis en avant.
-
-
-Si tu souhaites partager tes connaissances, et tu souhaites intégrer la belle famille Full Data Management alors contacte nous !
-
-
-* Nous serons ravis de t'en dire plus sur cette très belle opportunité !","Nous recherchons ASAP :
-→4 développeurs Full Stack expérimenté (3 ans d'XP en plus de l'alternance)
-→.NET (obligatoire)
-→Angular (obligatoire)
-
-
-Localisation : LILLE
-
-
-Poste à pourvoir en CDI démarrage au 1er février 2024
-
-
-Alors si tu souhaites rejoindre une équipe soudée où règne la joie et la bonne humeur, où le partage et l'humain son mis en avant.
-* Nous serons ravis de t'en dire plus sur cette très belle opportunité !",50.0,39.0,28.0,3.0,no,3,[0-3],,,,,Wasquehal,France,2024-01-22 11:04:36,.NET core/Angular/C#/Google Cloud,True
-MAIF,Développeurs Fullstack F/H,Développeur.euse Full stack,"Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.
+\- Des parcours professionnels diversifiés et une offre de formation élargie 
+\- Forfait de 100 jours annuel de télétravail 
+\- Forfait annuel de 203 jours travaillés 
+\- Intéressement et participation Macif","Rejoindre Macif , c'est s'engager entreprise innove développe expertises marché globalisé services , notamment ceux demain . C'est aussi s'engager entreprise mutualiste , place femmes hommes coeur stratégie développement , notamment grâce politique ressources humaines axée développement renforcement compétences salariés .",,0.0,,,hybrid,1,[0-3],,,,,Niort,France,2024-02-15 15:30:06,Management/Mulesoft/Ansible/Kafka,True
+MAIF,Développeurs Fullstack F/H,Fullstack developer,"Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.
 
 **Pourquoi nous rejoindre ?**
 Nous avons créé la Guilde Développement MAIF, qui constitue un collectif tourné vers le partage, l'entraide et un objectif commun : être un espace d'échange, de partage de connaissance pour faire vivre et progresser le métier de développeur.
@@ -348,17 +85,746 @@ Concrètement, nous te proposons :
 Le recrutement se déroule en deux étapes :
 
 * Un entretien de qualification technique
-* Un entretien avec ta future équipe RH et ton management","Depuis plusieurs années, la MAIF accentue l'importance du métier de développeur et renforce ses équipes avec des développeuses et des développeurs backend, frontend et fullstack Java/JavaScript.
-**Notre stack technique**
+* Un entretien avec ta future équipe RH et ton management","Depuis plusieurs années , MAIF accentue l'importance métier développeur renforce équipes développeuses développeurs backend , frontend fullstack Java/JavaScript . * * stack technique * * * Backend : Java 11+ , Spring boot ( Data , Security , Batch ) , PostgreSQL , Maven , Junit , Cucumber , Kafka , ElasticSearch .",52.0,44.5,37.0,3.0,hybrid,1,[0-3],,,,,Niort,France,2022-12-13 01:00:00,Java/Javascript/Maven/Spring/Cucumber/Docker/Elasticsearch/Git/Github/Go/Grafana/Jira/JUnit/Kafka/Kotlin/Kubernetes/NodeJS/PostgreSQL/Python/React/Sass/Scala/Spring Boot/Typescript,True
+JYV' Consulting,Développeur mobile iOS (F/H),Mobile developer,"**Mission**
 
-* Backend: Java 11+, Spring boot (Data, Security, Batch), PostgreSQL, Maven, Junit, Cucumber, Kafka, ElasticSearch.",52.0,44.5,37.0,3.0,hybrid,1,[0-3],,,,,Niort,France,2022-12-13 01:00:00,Java/Javascript/Maven/Spring/Cucumber/Docker/Elasticsearch/Git/Github/Go/Grafana/Jira/JUnit/Kafka/Kotlin/Kubernetes/NodeJS/PostgreSQL/Python/React/Sass/Scala/Spring Boot/Typescript,True
+Ta mission, si tu l'acceptes, sera de réaliser les développements d'applications mobiles IOS en t'adaptant au contexte du client final. Entre autre tu seras amené à **:**
+
+* analyser et concevoir une solution informatique
+* rédiger la documentation technique et fonctionnelle associée
+* écrire et réaliser les test unitaires / d'interface pendant et suite aux développements
+* travailler en collaboration avec les autres membres du projet
+
+L'ensemble de cette mission sera réalisé pour le compte des clients de JYV’ Consulting.
+ 
+**Profil recherché**
+
+De formation BAC+5 dans le domaine de l'informatique,
+
+Tu as développé principalement dans l'écosystème suivant :
+Langage : Objective-C, Swift
+Méthodes / outils : Xcode, GIT (Gitflow), fastlane, cocoapods, JIRA ou autre outil de ticketing, Confluence ou autre outil de gestion documentaire
+Méthodes : SCRUM / Kanban
+
+Tu aimes développer des applications de qualité, rester à la pointe des connaissances métier.
+Tu as des connaissances ou un intérêt pour les architectures logicielles actuelles (Clean Architecture, MVVM, Viper…).
+Tu es organisé et rigoureux dans ton travail.
+Tu aimes travailler en équipe et fais preuve d'engagement dans ton quotidien.
+L'informatique est avant tout une passion pour toi et tu as envie de la transmettre.
+
+Tu te reconnais dans ce descriptif ? Alors, toi aussi dis-toi ""J'y V"" !
+ 
+**Processus de recrutement**
+
+1. Tu es arrivé jusqu’au bout de l’annonce et te dis « JY V » !
+ Une fois que tu auras déposé ta candidature (et on te remercie pour l’intérêt que tu nous portes), nous prendrons le temps de prendre connaissance de ton profil et te ferons ensuite un retour qu’il soit positif en te proposant un premier échange ou négatif si on est d’avis qu’on n’est pas en mesure de t’accueillir dans les meilleures conditions.
+2. On fixe ensemble un échange avec notre RH, Florence - 1h/1h30 :
+ \- Présentation JYV' Consulting et échange autour de ton parcours
+ \- Débriefing sur l'échange
+ \- Présentation du processus de recrutement
+ On prend le temps d'apprendre à se connaitre, de discuter de tes centres d'intérêts et de s’assurer de l’adéquation entre ton mindset et notre culture de société.
+3. Un deuxième échange sera rapidement organisé, cette fois-ci avec notre fondateur et Florence - 1h/1h30
+ \- Présentation de la vision et les valeurs de JYV' Consulting
+ \- Échange de fond sur ton expérience\, sur tes motivations et tes aspirations techniques\.
+ On prend le temps d'approfondir ton parcours professionnel sur le volet technique et de s'assurer qu'on partage la même volonté d’expertise pour que ton expérience chez nous soit une réussite.","Alors , aussi dis-toi `` ' V '' ! fixe ensemble échange RH , Florence - 1h/1h30 : \- Présentation JYV ' Consulting échange autour parcours \- Débriefing l'échange \- Présentation processus recrutement prend temps d'apprendre connaitre , discuter centres d'intérêts ’ assurer ’ adéquation entre mindset culture société .",55.0,48.0,41.0,2.0,hybrid,3,[0-3],"Ouvert et disponibles, nous sommes à l'écoute de la situation de chacun et cherchons à maximiser le bien-être grâce à un suivi régulier.",,"Nous sommes une équipe de 9 personnes, des profils de qualité avec une expérience reconnue capables de soutenir les nouveaux arrivants.",,Lille,France,2023-09-07 11:10:41,SCRUM/Kanban/Git/Swift/Objective C/IOS/Jira,True
+JYV' Consulting,Développeur Mobile Android (F/H),Mobile developer,"**Mission**
+
+Ta mission, si tu l'acceptes, sera de réaliser les développements d'applications mobiles Android en t'adaptant au contexte du client final. Entre autre tu seras amené à **:**
+
+* analyser et concevoir une solution informatique
+* rédiger la documentation technique et fonctionnelle associée
+* écrire et réaliser les test unitaires / d'interface pendant et suite aux développements
+* travailler en collaboration avec les autres membres du projet
+
+L'ensemble de cette mission sera réalisé pour le compte des clients de JYV’ Consulting.
+ 
+**Profil recherché**
+
+De formation BAC+5 dans le domaine de l'informatique,
+
+Tu as développé principalement dans l'écosystème suivant :
+Langage : Java , Kotlin , RxJava
+Méthodes / outils : Android Studio, Firebase, Mockito, Git (gitflow), JIRA, Confluence
+Méthodes : SCRUM / Kanban
+
+Tu aimes développer des applications de qualité, rester à la pointe des connaissances métier.
+Tu as des connaissances ou tu t'intéresses aux architectures MVP ou MVVM, ou à des sujets comme Material design.
+Tu es organisé et rigoureux dans ton travail.
+Tu aimes travailler en équipe et fais preuve d'engagement dans ton quotidien.
+L'informatique est avant tout une passion pour toi et tu as envie de la transmettre.
+
+Tu te reconnais dans ce descriptif ? Alors, toi aussi dis-toi ""J'y V"" !
+ 
+**Processus de recrutement**
+
+1. Tu es arrivé jusqu’au bout de l’annonce et te dis « JY V » !
+ Une fois que tu auras déposé ta candidature (et on te remercie pour l’intérêt que tu nous portes), nous prendrons le temps de prendre connaissance de ton profil et te ferons ensuite un retour qu’il soit positif en te proposant un premier échange ou négatif si on est d’avis qu’on n’est pas en mesure de t’accueillir dans les meilleures conditions.
+2. On fixe ensemble un échange avec notre RH, Florence - 1h/1h30 :
+ \- Présentation JYV' Consulting et échange autour de ton parcours
+ \- Débriefing sur l'échange
+ \- Présentation du processus de recrutement
+ On prend le temps d'apprendre à se connaitre, de discuter de tes centres d'intérêts et de s’assurer de l’adéquation entre ton mindset et notre culture de société.
+ 
+ 3) Un deuxième échange sera rapidement organisé, cette fois-ci avec notre fondateur et Florence - 1h/1h30
+ \- Présentation de la vision et les valeurs de JYV' Consulting
+ \- Échange de fond sur ton expérience\, sur tes motivations et tes aspirations techniques\.
+ On prend le temps d'approfondir ton parcours professionnel sur le volet technique et de s'assurer qu'on partage la même volonté d’expertise pour que ton expérience chez nous soit une réussite.","Alors , aussi dis-toi `` ' V '' ! fixe ensemble échange RH , Florence - 1h/1h30 : \- Présentation JYV ' Consulting échange autour parcours \- Débriefing l'échange \- Présentation processus recrutement prend temps d'apprendre connaitre , discuter centres d'intérêts ’ assurer ’ adéquation entre mindset culture société .",55.0,48.0,41.0,2.0,hybrid,3,[0-3],"Ouvert et disponibles, nous sommes à l'écoute de la situation de chacun et cherchons à maximiser le bien-être grâce à un suivi régulier.",,"Nous sommes une équipe de 9 personnes, des profils de qualité avec une expérience reconnue capables de soutenir les nouveaux arrivants.",,Lille,France,2023-09-07 11:06:50,SCRUM/Kanban/Android/Java/RxJava/Kotlin/Git/Firebase,True
+UNIS,⭐ Développeur.se Back-end JAVA - Paris 9ème,Back-end developer,"⭐ **Développeur.se Back-end JAVA**
+
+Tu cherches une boite avec des valeurs fortes et à taille humaine, tu es passionné(e) par le développement Back et tu as 5 ans d’expérience.
+
+**Tu veux faire ça dès demain ?**
+
+Intégrer une équipe chez un client, ou à l’agence, pour participer à nos projets engagement, apporter ton **expertise technique** et ta **passion** en développement Back-End / Java.
+Suivant une **méthode agile**, tu travailleras sur un seul projet à la fois, à plein temps, et tu rejoindras la **communauté Back** dont l’envie est d’allier utilité et qualité dans leur code.
+
+**Ce qui pourrait être ton quotidien c’est :**
+
+· Participer aux études techniques (faisabilité, chiffrage et spécifications)
+· Contribuer à la définition des évolutions fonctionnelles et analyses détaillées
+· Prendre en charge les développements en garantissant la qualité du code
+· Optimiser l’ergonomie (on a même des UX qui pourront te conseiller !) et proposer du Refactoring de code
+· Mettre en place et réaliser des tests ou corrections
+· Rédiger de la documentation technique (je sais, ce n’est pas le plus fun…)
+· Participer à la mise en production
+· Aider et former les utilisateurs sur la machine de guerre que tu auras développé
+
+**Quelques exemples de projets concrets où tu pourras exprimer ton potentiel :**
+
+1. Accompagnement sur la digitalisation des outils métiers pour les magasins d’un grand groupe du retail français : préparation des commandes, gestion des stocks (Back en Java et Front en flutter) ;
+2. Développements d’un portail de gestion des fournisseurs d’un groupe du retail dédié au monde du bricolage (Back en Java / Front en Angular);
+3. Développement, maintenance de l’application de paiement 3 x / 4x d’une banque (Back en Java et Front en Angular).
+
+**Tu penses avoir les cartes en main ?**
+
+Pour se lancer dans la partie, ton **état d'esprit agile** tourné vers l'amélioration continue et l'intelligence collective et tes 5 années d’expérience, te permettront de nous parler de tes différents projets.
+Et si tu sais nous proposer une suite avec les cartes : Autonomie / Service / Esprit d’équipe / Agilité et un joker, alors tu as toutes les chances d’avoir TA place au sein de l’équipe !
+
+**Toi + nous = 🚀**
+
+Tu cherches une boîte à **taille humaine**, qui **prend soin de toi** et de ta carrière, contacte-nous !
+Et si tu rêves d’être entouré de gens passionnés et sympas comme toi, des pros de la techno qui pourront t’apprendre un max, ou des plus juniors que tu aideras à grandir, alors tu n’as vraiment plus d’excuse !
+
+**Nos valeurs ?**
+
+Humaines avant tout ! Nous nous démarquons par la **proximité** que nous entretenons avec nos 265 collaborateurs et la recherche de leur **épanouissement tant sur le plan personnel que professionnel.** Ici, je ne suis pas un numéro, je suis quelqu’un et pas n’importe qui !
+Mais qui de mieux que nos collab’ pour t’en parler ? [https://youtu.be/Uy-gBUaAbl4](https://youtu.be/Uy-gBUaAbl4)
+
+**Nos petits plus !**
+
+👨‍🎓 Montée en compétences (diversité de projets, langages et technologies)
+👨‍🏫 Formations internes et externes
+🗣️ Esprit communautaire et entraide (communautés métier)
+💻 Télétravail
+⚖️ Respect de l’équilibre de vie « pro / perso »
+🎟 Autres : mutuelle avantageuse, carte resto & CE, et matériel mis à ta disposition
+
+Prêt à nous rejoindre ? 
+Envoie-nous ta candidature sans tarder à 👉 [recrutement@unis.fr](mailto:recrutement@acssi.fr)
+
+**Processus de recrutement :**
+
+Un 1er entretien avec notre Delphine, Recruteuse sympa 
+Un 2nd entretien avec notre Jean-Yves, Expert Technique !
+Enfin, un 3ème et dernier entretien avec Fabien, pour parler des opportunités de missions clients et des possibles ensemble !","⭐ * * Développeur.se Back-end JAVA * * cherches boite valeurs fortes taille humaine , passionné ( e ) développement Back 5 ans ’ expérience . Développements ’ portail gestion fournisseurs ’ groupe retail dédié monde bricolage ( Back Java / Front Angular ) ; 3 .",56.0,52.5,49.0,2.0,hybrid,5,[3-7],"Le management de proximité est la clé de notre succès ! 
+Nos Managers seront à ton écoute pour te proposer des missions qui te plaisent et un plan de carrière personnalisé !
+De plus, des formations seront mises à ta disposition pour te permettre de monter en compétences.","Managers écoute proposer missions plaisent plan carrière personnalisé ! plus , formations mises disposition permettre monter compétences .","Pour nous, travail rime avec plaisir !
+Nos développeurs, experts techniques et coach agiles sont des gens passionnés, curieux, qui aiment les défis techniques et surtout qui aiment travailler en équipe !
+",,Paris,France,2023-10-04 10:40:13,Java/Spring/JUnit/Jenkins/Docker/NoSQL/Agile,True
+UNIS,⭐ Développeur.euse Full Stack J2EE - Paris,Développeur.euse Full stack,"Tu cherches une boite avec des valeurs fortes et à taille humaine, tu es passionné(e) par le dev Front & Back, et tu as 4 ans d’expérience ? Alors lis un peu ça !
+ 
+**Tu veux faire ça dès demain ?**
+ 
+Intégrer une équipe chez un client, ou à l’agence, pour participer à nos projets engagement, apporter ton expertise technique et ta passion en **développement Full-stack / J2EE.** 
+ 
+Suivant une méthode agile, tu travailleras sur un seul projet à la fois, à plein temps, tu seras épaulé(e) par un(e) mentor technique qui sera responsable de ta progression technique et du bon déroulé du projet.
+Tu feras partie de notre **communauté technique** que l’on veut faire grandir, dont l’envie est d’allier utilité et qualité dans leur code et de fédérer autour d’un métier.
+ 
+ 
+**Ce qui pourrait être ton quotidien c’est :**
+ 
+· Participer aux études techniques (architecture, faisabilité, chiffrage et spécifications)
+· Contribuer à la définition des évolutions fonctionnelles et analyses détaillées
+· Prendre en charge les développements en garantissant la qualité du code
+· Intégrer des pages html responsive design, mobile first et accessibles
+· Optimiser l’ergonomie (on a même des UX qui pourront te conseiller !) et proposer du Refactoring de code
+· Mettre en place et réaliser des tests ou corrections
+· Rédiger de la documentation technique (je sais, ce n’est pas le plus fun…)
+· Participer à la mise en production
+· Aider et former les utilisateurs sur la machine de guerre que tu auras développé
+ 
+ 
+**Quelques exemples de projets concrets où tu pourras exprimer ton potentiel :**
+ · Accompagnement sur la digitalisation des outils métiers pour les magasins d’un grand groupe du retail français : préparation des commandes, gestion des stocks (back en java et front en flutter) ;
+· Développements d’un portail de gestion des fournisseurs d’un groupe du retail dédié au monde du bricolage (back en Java J2EE / front en Angular);
+· Développement, maintenance de l’application de paiement 3 x / 4x d’une banque (back en java et front en Angular)
+ 
+**Tu penses avoir les cartes en main ?**
+ 
+Pour se lancer dans la partie, ta passion pour le dev, tant sur la partie Back que sur la partie Front, tes 4 années d’expérience sur différents projets réussis en développement full-stack, te permettront de nous convaincre de tes compétences en intégration Docker, Jenkins, Kubernetes, et sur les technos Java J2EE, JavaScript, avec les frameworks associés Spring, ReactJS, Angular, VueJS.
+Et si tu sais nous proposer une suite avec les cartes : Autonomie / Service / Esprit d’équipe / Agilité et un joker, alors tu as TA place au sein de l’équipe !
+
+
+**Toi + nous = 🚀**
+
+Tu cherches une boîte à taille humaine, qui prend soin de toi et de ta carrière, contacte-nous ! 
+Et si tu rêves d’être entouré de gens passionnés et sympas comme toi, des pros de la techno qui pourront t’apprendre un max, ou des plus juniors que tu aideras à grandir, alors tu n’as vraiment plus d’excuse !
+ 
+**Nos valeurs ?**
+Humaines avant tout ! Nous nous démarquons par la proximité que nous entretenons avec nos 265 collaborateurs et la recherche de leur épanouissement tant sur le plan personnel que professionnel. Ici, je ne suis pas un numéro, je suis quelqu’un et pas n’importe qui !
+ 
+Mais qui de mieux que nos collab’ pour t’en parler ? [https://youtu.be/Uy-gBUaAbl4](https://youtu.be/Uy-gBUaAbl4)
+ 
+**Nos petits plus !**
+👨‍🎓 Montée en compétences (diversité de projets, langages et technologies)
+👨‍🏫 Formations internes et externes
+🗣️ Esprit communautaire et entraide (communautés métier)
+💻 Télétravail de 2 jours semaine + indemnité de 2€ / jour télétravaillé
+⚖️ Respect de l’équilibre de vie « pro / perso »
+🎟 Autres : mutuelle familiale CGRM, carte tickets resto (60% pris en charge par UNIS) & CE, et possibilité d’une prime vélo de 0,25cts/km.
+ 
+ 
+**Prêt(e) à nous rejoindre ?** Envoie nous ta candidature sans tarder !
+
+
+**Processus de recrutement :** 
+ 
+Un 1er entretien avec [Delphine, ](https://www.linkedin.com/in/delphcarlier/)notre Recruteuse sympa 
+Un 2nd entretien avec [Jean-Yves, ](https://www.linkedin.com/in/jean-yves-mar%C3%A9caux-88938212a/)notre Expert Technique !
+Enfin, un 3ème et dernier entretien avec [Fabien](https://www.linkedin.com/in/fran%C3%A7ois-grumiaux/)[,](https://www.linkedin.com/in/julien-lejeune-9ba51875/) pour parler des opportunités de missions clients et des possibles ensemble !","cherches boite valeurs fortes taille humaine , passionné ( e ) dev Front & Back , 4 ans ’ expérience ? * * lancer partie , passion dev , tant partie Back partie Front , 4 années ’ expérience différents projets réussis développement full-stack , permettront convaincre compétences intégration Docker , Jenkins , Kubernetes , technos Java J2EE , JavaScript , frameworks associés Spring , ReactJS , Angular , VueJS .",54.0,51.0,48.0,2.0,hybrid,4,[3-7],"Le management de proximité est la clé de notre succès ! 
+Nos Managers seront à ton écoute pour te proposer des missions qui te plaisent et un plan de carrière personnalisé !
+De plus, des formations seront mises à ta disposition pour te permettre de monter en compétences.","management proximité clé succès ! plus , formations mises disposition permettre monter compétences .","Pour nous, travail rime avec plaisir !
+Nos développeurs, experts techniques et coach agiles sont des gens passionnés, curieux, qui aiment les défis techniques et surtout qui aiment travailler en équipe !
+",,Paris,France,2023-09-28 11:11:12,Agile/Java JEE/React/AngularJS/Docker/JUnit/Git/Jenkins/Spring/vueJS/Kubernetes,True
+ACTON,Développeur Full Stack H/F,Développeur.euse Full stack,"Act-On Technology (AOT), filiale du Groupe Act-on, est un acteur en HumanTech.
+Créée il y a 3 ans, AOT a pour objectif de porter l’Architecture Technique et l’Expertise au coeur de la transformation digitale. La philosophie « AsCode » d’AOT, c’est la conviction que la maîtrise du code et la puissance qu’il octroie sont essentiels pour répondre aux enjeux d’aujourd’hui.
+Il compte aujourd’hui une trentaine de personnes et fonctionne en mode start-up.
+Nos collaborateurs (des Développeurs, Architectes Techniques …) interviennent sur différents sujets :
+• les développements spécifiques open source, agiles, à l’état de l’art, nouveaux langages et paradigmes associés.
+• l’automatisation, DevOps, CI/CD, Cloud
+• la gestion des Performances applicatives, de bout en bout
+• l’accompagnement en Architecture et Expertise technique.
+
+**Description du poste**
+
+Intégré(e) eu sein d’une équipe projet et en tant que Développeur Full-Stack H/F, votre rôle consistera à :
+• effectuer les développements applicatifs (front et/ou back)
+• rédiger les documents techniques (spécifications techniques, documentation utilisateur, participation au dossier d’architecture technique, au guide d’exploitation et au guide d’installation)
+• participer aux échanges avec le client, l’équipe métier et avec les référents Act-On (techniques et métier).
+• effectuer une veille technologique régulière, pour monter en compétence sur les sujets connexes (performance applicative, cloud public, automatisation et DevOps, tests de bout en bout).
+ 
+L’environnement technique sera le suivant :
+• Java / Spring / Spring Boot / écosystème Spring.IO / Python / NodeJS
+• Langage alternatif : Groovy / NodeJS / Python
+• Stack Front Javascript : AngularJS – ReactJS -VueJS - HTML5 / CSS3 / BootStrap.
+• Compétences minimales en shell Unix / Linux / Outils systèmes.
+• Design Patterns et bonnes pratiques de développement.
+• Bases de données SQL (PostGreSQL, MySql, Oracle) et noSQL (MongoDB, ElasticSearch).
+• Outils DevOps / Agile / CI / CD / Docker / k8s
+
+**Qualifications**
+
+Issu(e) d'une formation de bac+2 à Bac+ 5, vous avez au moins 2 ans d’expérience dans le développement orienté Java et souhaitez rejoindre un groupe à taille humaine en pleine expansion.
+Passionné(e) de code, vous êtes polyvalent(e), débrouillard(e) et suivez les évolutions du marché.
+Vous maîtrisez le développement en Java/Spring et idéalement en Python, Groovy et/ou NodeJS.
+Vous connaissez un ou plusieurs des outils et frameworks suivants :
+• Spring Boot / écosystème Spring.IO / NodeJS / Python
+• Stack Front Javascript : AngularJS – ReactJS -VueJS - HTML5 / CSS3 / BootStrap.
+• Compétences minimales en shell Unix / Linux / Outils systèmes.
+• Design Patterns et bonnes pratiques de développement.
+• Bases de données SQL (PostGreSQL, MySql, Oracle) et noSQL (MongoDB, ElasticSearch).
+• Outils DevOps / Agile / CI / CD / Docker
+
+
+",• Design Patterns bonnes pratiques développement . • Design Patterns bonnes pratiques développement .,55.0,45.0,35.0,3.0,hybrid,2,[0-3],,,,,Courbevoie,France,2023-01-24 14:10:27,AngularJS/Bootstrap/CSS3/Docker/HTML5/Java/Javascript/MongoDB/Mysql/NodeJS/PostgreSQL/Python/SQL/NoSQL/Elasticsearch/Spring/Spring Boot/Oracle/Groovy/Agile/Angular/React/Ansible,True
 Jetdev,Développeur Java / Spring,Back-end developer,"“Jetdev c’est tout ce que vous m’aviez vendu”, “La co-construction et le bien-être des collabs ce n’est pas du bullshit”, “On est une famille”, “Quand on est Jetdev et qu’on arrive chez un client, on a l’impression d’être un super-héros” … Et ce n’est qu’une infime partie des retours des JetDevelopers ! Beaucoup d’ESN vont vous vendre “une boite à taille humaine” qui met “le collaborateur au coeur de ses enjeux” où “règne le bien-être”. Chez Jetdev on a eu un départ en 6 ans.
 
 Tu fais partie de ceux qui pensent que le JDK 8 a tout changé ? Es-tu capable d'expliquer l'IoC sans sourciller ? Connais-tu tous les composants de Spring, de Spring Security à Spring Data, comme si c'étaient tes meilleurs potes ? Tu es content de lire craftsmanship dans cette annonce et tu te demandes à partir de quand je vais parler de clean code ou de clean architecture ? Pour toi, un bon code c’est un code simple, compréhensible et sécurisé ? Si en plus de ça tu as le mindset Agile, c’est bien toi qu’on recherche. Si certains de ces concepts te sont inconnus, tu auras l’occasion de te former chez nous dans une équipe de n°10.
 Mais avant tout, tu dois pouvoir devenir un membre à part entière de la famille Jetdev. Ça veut dire aimer passer du bon temps avec ses collègues. Il faut aussi avoir une grande conscience professionnelle et être un team player.
 
-Tu seras l’image et le porte parole de Jetdev chez nos clients à travers tes missions de développeurs. Tu apporteras ton expertise afin de conseiller au mieux nos clients dans le développement de leurs solutions. Tu sauras lui dire “Non” quand il le faudra, tu sauras donner de ta personne dans les moments difficiles mais aussi et surtout, tu distribueras ta bonne humeur et ton savoir vivre afin de rendre leurs journées meilleures.","Chez Jetdev on a eu un départ en 6 ans.
-Pour toi, un bon code c’est un code simple, compréhensible et sécurisé ?",55.0,45.5,36.0,3.0,hybrid,2,[0-3],,,,,Villeneuve-d'Ascq,France,2023-02-22 11:26:58,Spring/Spring Boot/Java/PostgreSQL/MongoDB/Google Cloud/Git,True
+Tu seras l’image et le porte parole de Jetdev chez nos clients à travers tes missions de développeurs. Tu apporteras ton expertise afin de conseiller au mieux nos clients dans le développement de leurs solutions. Tu sauras lui dire “Non” quand il le faudra, tu sauras donner de ta personne dans les moments difficiles mais aussi et surtout, tu distribueras ta bonne humeur et ton savoir vivre afin de rendre leurs journées meilleures.","Chez Jetdev a départ 6 ans . , bon code ’ code simple , compréhensible sécurisé ?",55.0,45.5,36.0,3.0,hybrid,2,[0-3],,,,,Villeneuve-d'Ascq,France,2023-02-22 11:26:58,Spring/Spring Boot/Java/PostgreSQL/MongoDB/Google Cloud/Git,True
+KHI PORTAGE,DATA Analyst ( H/F) ,Data Analyst,"Quels seront l étendu de vos extraordinaires missions :
+
+* Analyser les problématiques métier et les synthétiser tel Tony Stark
+* A l'image de Scarlet Witch : manipuler la donnée, l'exploiter et l'interpréter pour en dégager des observations business utiles
+* Créer des dashboards et rapports afin d'obtenir des éléments de décision
+* Mettre en place des KPIs de performances permettant de donner une vision cohérente des résultats aux différentes équipes métiers
+* Devenir un(e) référent(e) technique sur l'outil de reporting Power BI
+* Prendre part au développement de la startup avec tes idées innovantes
+
+Quels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?
+
+* Maitrise du SQL
+* Connaissance analytiques et statistiques
+* Une bonne maitrise de Power BI
+* Connaissance du Cloud
+* Une bonne connaissance d'un ou plusieurs outils d'analyse de données ( SAS, R, etc..)
+* Une connaissance de Python serait un plus ainsi que la connaissance d'autres outils de reporting
+
+Ce qui vous attend chez KHI PORTAGE :
+\- Une équipe d’experts soudées\, toujours prêts à s’entraider afin de faire front à toute problématique\.
+\- Des projets variés\, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
+\- De l’autonomie et des responsabilités dans vos missions\.
+\- Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs \(confiance ; transparence \, humain ; passion ; eco responsabilité \)
+\- L’opportunité de participer à des afterworks\, événements et sessions sportives régulières afin de célébrer nos succès en équipe","Quels étendu extraordinaires missions : * Analyser problématiques métier synthétiser tel Tony Stark * A l'image Scarlet Witch : manipuler donnée , l'exploiter l'interpréter dégager observations business utiles * Créer dashboards rapports afin d'obtenir éléments décision * Mettre place KPIs performances permettant donner vision cohérente résultats différentes équipes métiers * Devenir ( e ) référent ( e ) technique l'outil reporting Power BI * Prendre part développement startup idées innovantes Quels armes super pouvoirs nécessaires mener bien cette mission ? \- projets variés\ , pourrez laisser empreinte grâce considération importante idées \- ’ autonomie responsabilités missions\ .",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,Tourcoing,France,2024-02-12 17:00:28,Power BI/SQL,True
+KHI PORTAGE,Data Engineer,Data engineer,"Quelle sera l étendu de vos extraordinaires missions :
+
+* Initier et développer des outils d infrastructure à la hauteur de Stark Industries dans l objectif de façonner et transformer les données.
+* Agir tel(le) un(e) allié(e) des Data Scientists, pour industrialiser leurs algorithmes et flux de données.
+* Être un(e) acteur(rice) de choix dans l architecture big data afin de répondre aux différents cas métiers.
+* Protéger et garantir l intégrité des données en assurant leur sécurité et leur accessibilités
+* Mettre en œuvre des pratiques de sécurité redoutables pour protéger les données les plus confidentielles et sensibles, tel(le) un(e) gardien(ne) des joyaux de l univers
+* Travailler en collaboration avec les équipes techniques dans l ingestion des données.
+
+Quels sont les armes et super pouvoirs nécessaires pour mener à bien cette mission ?
+
+* Maitriser des technologies Big Data tel(le) un(e) expert(e) des mystères technologiques ainsi que les environnements Google Cloud platform, Amazon Web Services et/ou Microsoft Azure
+* Connaitre les langages SQL et Python
+* Des bases solides en architecture data (notamment informatique décisionnelle et big data)
+* Une force de proposition sans faille sur la mise en œuvre et l utilisation des solutions Big Data
+* Être un(e) protecteur(rice) tel Captain America et donc connaitre les principes de sécurité et bonnes pratiques.
+
+Ce qui vous attend chez KHI PORTAGE :
+
+* Une équipe d’expert(e)s soudé(e)s, toujours prêt(e)s à s’entraider afin de faire front à toute problématique.
+* Des projets variés, ou vous pourrez laisser votre empreinte grâce à une considération importante de vos idées
+* De l’autonomie et des responsabilités dans vos missions.
+* Des valeurs fortes incarnées au quotidien et ressentis par nos collaborateurs (confiance ; transparence , humain ; passion ; éco responsabilité )
+* L’opportunité de participer à des afterworks, événements et sessions sportives régulières afin de célébrer nos succès en équipe","* Être ( e ) acteur ( rice ) choix architecture big data afin répondre différents cas métiers . * Maitriser technologies Big Data tel ( ) ( e ) expert ( e ) mystères technologiques ainsi environnements Google Cloud platform , Amazon Web Services et/ou Microsoft Azure * Connaitre langages SQL Python * bases solides architecture data ( notamment informatique décisionnelle big data ) * force proposition sans faille mise œuvre utilisation solutions Big Data * Être ( e ) protecteur ( rice ) tel Captain America donc connaitre principes sécurité bonnes pratiques .",55.0,45.0,35.0,2.0,hybrid,3,[0-3],,,,,Tourcoing,France,2024-02-12 16:48:07,Power BI/Python/SQL/Azure/Google Cloud/Amazon Web Services,True
+Jaji,Développeur Full Stack Senior Paris H/F,Développeur.euse Full stack,"Jaji est la **Neo-mutuelle engagée** qui veut réinventer l’expérience de la complémentaire santé d’entreprise à travers une démarche 100 % solidaire et digitale.
+
+Nous pensons que l'histoire et les valeurs de la mutuelle sont en adéquation avec la quête de sens des jeunes générations et plus largement avec les aspirations sociétales actuelles.
+
+C’est pourquoi depuis plusieurs mois, nos équipes travaillent d’arrache-pied pour proposer une plateforme de **protection santé des salariés nouvelle génération** reposant sur un **modèle mutualiste.**
+
+Il est temps pour nous de passer à la phase suivante : la construction d’une équipe de développeurs composée de jeunes talents ambitieux, motivés et désireux de rejoindre un projet ayant un **impact positif sur la société**.
+
+**Pourquoi les techs sont heureux dans votre entreprise ou pourquoi vous rejoindre**
+
+Nous sommes une **entreprise à mission** engagée en faveur d'un modèle de protection sociale efficace, transparent et pérenne qui contribue activement à la **qualité de vie pour tous**, et agit concrètement en faveur d’**une société plus solidaire et inclusive**.
+
+Nous pensons que la santé est **un bien commun** et non un bien de consommation. Dans ce cadre, nous défendons un modèle vertueux fondé sur les **solidarités collectives** qui s’émancipent des logiques individualistes et culpabilisantes de notre époque. Nous mettons **la transparence, la pédagogie et la confiance** au cœur de notre promesse envers nos adhérents, nos partenaires, la société civile ainsi qu’envers **nos salariés** !
+
+Alors si tu souhaites rejoindre **une opportunité rare** à un stade très excitant de son histoire et lancer **un projet ambitieux et humain** from scratch sur des sujets sociétaux gigantesques, alors ce poste est fait pour toi !
+
+**👋*Ce poste est fait pour toi si :***
+· Tu as la curiosité et la volonté d'apprendre.
+· Tu es doté d'une autonomie et tu es force de proposition.
+· Tu as un bon sens du code propre et optimisé.
+· Tu as de l’affinité pour les frameworks propres (DDD, Clean architecture…).
+· Tu as des principes SOLID, il y en a dans la littérature, mais surtout dans votre code.
+· Tu as une bonne affinité pour l’expérience utilisateur UX/UI.
+· Tu as un mindset Agile
+· Tu as cette envie de partager ton savoir
+· Tu disposes d'un fort niveau d'exigence personnelle
+· Tu te réveille le matin avec l'envie de rendre le monde meilleur
+
+**Missions, contexte** 
+Tu es développeur informatique, tu as déjà effectué une ou des missions/projets en entreprise, tu es à la recherche d'une opportunité de travailler sur un projet prometteur, avec beaucoup de challenge technique, dans un contexte formateur et à la pointe de la technologie, alors tu es le/la bienvenu(e) chez Jaji.
+
+Tu participes à la construction des solutions Web Front, en Vue.js 3 et/ou des applications mobiles en React Native.
+· Tu participes à la construction de la solution Web API BACK architecturé en micro-services, via .NET 6 avec le pattern CQRS en Domain-driven design.
+· Tu es partie prenante dans l’étude des solutions de la plateforme.
+· Tu intègres une Feature Team d’un projet conduit dans un cadre 100% Agile, avec des outils issus des Framework SCRUM et SAFe.
+· Et tu t'appuyeras sur des outils avancés de conduite de tests et de contrôle de qualité.
+· Tu assures un haut niveau de qualité de code (clean code, couverture de tests, maintenabilité, évolutivité)
+
+***Le processus de recrutement sera décliné de la manière suivante :***
+
+Ces points peuvent être condensés sur 2 rendez-vous.
+
+* ***Premier échange :*** Tu auras un entretien téléphonique😉
+* ***Deuxième échange :*** Tu seras amené (e) à passer un entretien technique
+* ***Troisième échange :*** Tu rencontreras nos équipes afin de déclencher le match parfait🥳","· bon sens code propre optimisé . · assures haut niveau qualité code ( clean code , couverture tests , maintenabilité , évolutivité ) * * * processus recrutement décliné manière suivante : * * * points peuvent être condensés 2 rendez-vous .",65.0,60.0,55.0,3.0,hybrid,7,[3-7],,,,,Paris,France,2023-10-19 15:33:13,C#/.NET core/PostgreSQL/Agile/HTML5/Typescript/Javascript/SQL/Angular/SCRUM/React/Amazon Web Services,True
+Jaji,Sénior QA Automaticien H/F,Software tester (QA),"Jaji, c’est la nouvelle mutuelle engagée qui modernise l’expérience de la complémentaire santé d’entreprise à travers une démarche 100 % responsable et digitale. 
+Nous pensons que l'histoire et les valeurs de la mutuelle sont en adéquation avec la quête de sens des jeunes générations et plus largement avec les aspirations sociétales actuelles. C’est pour cela que nous avons créé notre propre plateforme de **protection santé des salariés** reposant sur un **modèle mutualiste.**
+
+Il est temps pour nous d’accélérer en renforçant nos équipes avec des talents ambitieux, motivés et désireux de rejoindre un projet ayant un **impact positif sur la société**
+
+**Pourquoi les techs sont heureux dans votre entreprise ou pourquoi vous rejoindre**
+
+Nous sommes une **entreprise à mission** engagée en faveur d'un modèle de protection sociale efficace, transparent et pérenne qui contribue activement à la **qualité de vie pour tous**, et agit concrètement en faveur d’**une société plus solidaire et inclusive.** 
+Nous pensons que la santé est **un bien commun** et non un bien de consommation. Dans ce cadre, nous défendons un modèle vertueux fondé sur les **solidarités collectives** qui s’émancipent des logiques individualistes et culpabilisantes de notre époque. Nous mettons **la transparence, la pédagogie et la confiance** au cœur de notre promesse envers nos adhérents, nos partenaires, la société civile ainsi qu’envers **nos salariés** !
+
+Alors si tu souhaites rejoindre **une opportunité rare** à un stade très excitant de son histoire, ce poste est fait pour toi !
+
+**👋*Ce poste est fait pour toi si :***
+
+* Tu as une expérience d'ingénieur QA manuel et automatique, vous justifiez d'une première expérience dans le domaine des tests automatisés
+* Tu as des connaissances Git, Jenkins, Selenium, Squash et un langage de programmation (Python, Java, c#, …) permettant d’automatiser
+* Tu as l'habitude de travaillé avec la méthodologie agile
+* Tu es force de propositions pour améliorer les process
+* Tu es très communiquant(e), rigoureux(euse) et organisé(e)
+* Tu as la certification ISTQB, c'est un plus
+* Tu as des connaissances du secteur Assurance santé serait un plus (terminologie et parcours santé)
+
+**Missions, contexte**
+
+En étant **que QA Automaticien chez Jaji,** tu seras emmené à :
+
+* En étant **que QA Automaticien chez Jaji,** tu seras emmené à :
+
+ * Réaliser la stratégie de tests automatiques
+ * Concevoir et lancer des campagnes de tests automatisés, suivi et traçabilité des procédures de tests fonctionnels et techniques
+ * Vérifier de la conformité de la solution au regard des spécifications avec analyse des résultats
+ * Gérer des reportings
+
+***Le processus de recrutement sera décliné de la manière suivante :***
+
+Ces points peuvent être condensés sur 2 rendez-vous.
+
+* ***Premier échange :*** Tu auras un entretien téléphonique😉
+* ***Deuxième échange :*** Tu seras amené (e) à passer un entretien technique
+* ***Troisième échange :*** Tu rencontreras nos équipes afin de déclencher le match parfait🥳
+
+
+","Jaji , ’ nouvelle mutuelle engagée modernise ’ expérience complémentaire santé ’ entreprise travers démarche 100 % responsable digitale . * * temps ’ accélérer renforçant équipes talents ambitieux , motivés désireux rejoindre projet * * impact positif société * * * * Pourquoi techs heureux entreprise pourquoi rejoindre * * * * entreprise mission * * engagée faveur d'un modèle protection sociale efficace , transparent pérenne contribue activement * * qualité vie tous * * , agit concrètement faveur ’ * * société plus solidaire inclusive .",60.0,55.0,50.0,3.0,hybrid,6,[3-7],,,,,Paris,France,2023-10-19 15:53:45,Selenium/Squash Test/Azure Devops/C#/Git/Github/Java/Python/SQL/Jenkins/Agile,True
+Dr. Jonquille & Mr. Ail,💻 Développeur.se Fullstack Ruby /React-JS - Nantes 🌻,Développeur.euse Full stack,"Dr. Jonquille & Mr. Ail est le spécialiste en ligne de l’accompagnement au potager. Notre projet est animé par un rêve un peu fou : démocratiser le jardinage auprès de tous !
+
+Nous commercialisons via notre site e-commerce et des marketplaces, des semences bio et reproductibles, des kits de jardinage, des outils, et autres produits de jardinage. Nous développons également une application mobile qui permet à des dizaines de milliers de jardiniers en France d’en apprendre davantage sur le jardinage et de les aider dans leur pratique du jardinage.
+
+Notre ambition ? Devenir l’application de jardinage N°1 dans l’accompagnement au potager.
+
+**Vos missions**
+Intégré(e) à l’équipe projet Application, et sous la responsabilité de Théo (co-fondateur et responsable tech), vous serez en charge du développement de la partie back-office de l’application mobile.
+
+* Élaborer le modèle de données, l’architecture et mettre en place les solutions techniques
+* Développer les nouvelles fonctionnalités du back-office et tester ces fonctionnalités avec la mise en place de tests automatisés
+* Réaliser la maintenance de l’application (Corrections de bugs et évolutions)
+
+Mais aussi
+
+* Participer à la montée en compétences de l'équipe : partager les bonnes pratiques et retours d'expériences, faire du feedback, code review
+* Collaborer avec les parties prenantes du projet et participer au Daily Scrum Meeting, Sprint Revue, Rétro de Sprint et Planning Poker
+* Effectuer une veille technologique régulière afin de rester à jour sur les dernières innovations technologiques, nouveautés…
+
+**Votre profil** 
+Vous êtes titulaire d'un bac +3 minimum en informatique et justifiez d'une expérience réussie en développement dans les technologies **Ruby**, **React.js**, **GraphQL** ou d’une partie de ces technologies.
+
+Vous avez des compétences dans la gestion de base de données comme MySQL et vous êtes capable d’effectuer des requêtes complexes en vue d’optimiser les performances.
+
+Vous avez une sensibilité pour la qualité des développements. Vous avez des connaissances dans l’écriture de tests automatisés et vous avez la capacité à améliorer de façon continue la base de code pour la rendre plus maintenable.
+
+Vous avez l’habitude d’utiliser des outils de gestion de version tel que git, Gitlab pour gérer le code source.
+
+Vous êtes autonome, mais vous savez également travailler en équipe, avec toutes les parties prenantes du projet, afin de créer un produit performant.
+
+Vous êtes organisé(e) et faites preuve de rigueur afin d'assurer des développements de qualité dans les temps.
+Vous êtes capable d’anticiper, d’être source de proposition.
+
+Vous avez une sensibilité esthétique et vous être capable de développer des interfaces utilisateurs conviviales et répondant aux besoins des utilisateurs.
+
+Vous êtes curieux(se) et passionné(e) par les nouvelles tendances et les avancées technologiques du monde du dev et vous vous tenez régulièrement informé des évolutions technologiques.
+
+Vous êtes motivé(e) pour rejoindre une jeune structure en forte croissance, une équipe tech qui s’agrandit, et motivé(e) pour apporter votre contribution au projet et à l’application mobile plus particulièrement.
+
+Et si, en plus, vous avez un intérêt pour le jardin, la botanique et l’écologie.
+
+**Processus de recrutement**
+Étape 1 : Entretien téléphonique avec Théo (co-fondateur et responsable tech) (30-45’)
+Étape 2 : Test technique (si nécessaire)
+Étape 3 : Entretien avec les 4 fondateurs dans nos locaux sur l’île de Nantes (30-45’)",sensibilité qualité développements . organisé ( e ) faites preuve rigueur afin d'assurer développements qualité temps .,35.0,32.5,30.0,1.0,hybrid,2,[0-3],"Chez Dr. Jonquille & Mr. Ail vous intégrez un projet palpitant autour du jardinage responsable. Chez nous pas de hiérarchie pesante, notre structure vous permet de prendre part au processus de décision et de découvrir tous les sujets qui animent une jeune entreprise. Rejoignez l’aventure !",Chez Dr. Jonquille & Mr. Ail intégrez projet palpitant autour jardinage responsable . Rejoignez ’ aventure !,"Nous sommes une équipe technique composé de :
+1 Lead tech, 1 développeur en charge de l'application mobile et 1 développeur en alternance en charge du site e-commerce.
+Nous recherchons un dev full-stack pour le développement du back-office de l'application mobile.",,Nantes,France,2024-01-16 15:01:19,Ruby/React/GraphQL/Git/Gitlab/SCRUM/Mysql,True
+SEMERU - Partenaire de vos ambitions digitales,Lead Tech Full-Stack H/F,Lead developer,"SEMERU poursuit son développement et recrute un Lead Tech Full-Stack H/F basé à Lyon.
+
+
+Rattaché au Chef de projet, vous intervenez sur les différents projets de développement de l'entreprise.
+Votre mission consistera à :
+
+* Encadrer l'équipe technique de développement
+* Proposer des solutions techniques et des architectures adaptées aux besoins fonctionnels
+* Définir les orientations technologiques en partenariat avec un architecte
+* Développer des applications distribuées basées sur des technologies web et cloud
+* Participer à la structuration des données relationnelles et/ou NoSQL
+* Piloter la mise en place d'environnements conteneurisés
+* Piloter la mise en place de la ci/cd
+* Réaliser les tests techniques et corriger les anomalies
+* Participer à la rédaction de la documentation technique
+
+De formation supérieure (Ecole d'informatique, Ingénieur, Master Informatique) vous avez une expérience de 3 ans à 5 ans minimum sur un poste similaire.
+Vous êtes un expert dans le domaine du back end : expert NODE ou JAVA
+Expert en front : ANGULAR ou REACT
+Vous disposez d'un bon sens d'analyse, de l'écoute et du dialogue.
+Vous avez un bon relationnel, une bonne capacité d'adaptation.
+Vous faites preuve de bonnes qualités en leadership et management d'équipe.
+
+**N'hésitez plus et Rejoignez une équipe dynamique, des projets innovants et éco-responsables !**","Rattaché Chef projet , intervenez différents projets développement l'entreprise . expert domaine back end : expert NODE JAVA Expert front : ANGULAR REACT disposez d'un bon sens d'analyse , l'écoute dialogue .",60.0,47.5,35.0,2.0,hybrid,3,[0-3],,,,,Genas,France,2023-06-10 19:54:35,Java/Angular/React/NoSQL,True
+SEMERU - Partenaire de vos ambitions digitales,Développeur informatique,Développeur.euse Full stack,"SEMERU poursuit son développement et recrute un Développeur Informatique H/F.
+
+Rattaché au d'un chef de projet, vous réalisez des études d'installations, de développement de systèmes industriels automatisés.
+
+Dans le cadre de votre mission, vous réalisez les tâches suivantes :
+
+• Réaliser des architectures matérielles et logicielles.
+• Développer des applications informatiques.
+• Effectuer des réglages, les mises en service d'installations complexes.
+
+**Profil recherché**
+
+Tu penses être apte à réaliser la mission ? Tu es la personne que l'on recherche !
+De formation supérieure (Master, école d'informatique) équivalent, vous justifiez d'une expérience réussie de 3 à 5 ans sur un poste similaire.
+Vous avez une bonne appétence dans le domaine informatique, vous disposez d'une bonne pratique des logiciels en base de données (SQL Server, Oracle) et différents langages informatiques dont C#, JavaScript, Angular, HTML5.
+N'hésitez plus et Rejoignez une équipe dynamique, des projets innovants et éco-responsables!","cadre mission , réalisez tâches suivantes : • Réaliser architectures matérielles logicielles . * * Profil recherché * * penses être apte réaliser mission ?",50.0,47.5,45.0,2.0,hybrid,5,[3-7],,,,,Rungis,France,2023-05-17 14:17:54,Java/NoSQL/Angular/React/C#/HTML5/SQL/Oracle/Javascript,True
+Vaduo,Développeur.se Back-end Java,Back-end developer,"**L’ADN de Vaduo**
+
+Vaduo est une ESN **conviviale** et **participative** créée en 2016. Centré sur l’Humain, notre **système collaboratif et bienveillant** permet à chacun de **s’exprimer** et **d’être écouté** pour faire grandir la société. Nous accompagnons les grands comptes de la région lilloise sur leurs **problématiques techniques et organisationnelles**. Nous pouvons donc te proposer plusieurs choix de missions en fonction de tes appétences.
+
+**Le succès de Vaduo ? La diversité des profils et la richesse des parcours de chacun de nos collaborateurs.**
+
+
+
+**Descriptif du poste**
+
+Ce poste est en **CDI** ! Localisée à **Lille** dans le quartier **Euratechnologies**, Vaduo propose à ses collaborateurs des missions en mode **hybride** dans la région lilloise. D’ailleurs, ton quotidien pourrait être rythmé par :
+
+Des **missions externes** à forte valeur ajoutée chez nos clients :
+
+* Adopter l’esprit Software Craftsmanship en appliquant les bonnes pratiques techniques définies (clean code, clean programming…)
+* Participer à la conception et au développement en équipe
+* Participer à des échanges réguliers avec les Product Owner/Product Manager/Chefs de projets pour se synchroniser et recueillir le besoin fonctionnel du client
+* Participer à la revue de code pour s'améliorer ensemble et produire des livrables de meilleure qualité
+* Participer au run (monitoring, analyse et correction de bugs)
+* Documenter ses features
+
+Et aussi en **interne** :
+
+* Partager de fortes valeurs : Adaptabilité, Convivialité, Transparence, Epanouissement, Savoir-faire
+* Co-construire la stratégie d’une entreprise participative
+* Participer à des communautés internes dynamiques
+* Vivre une vraie vie d’équipe avec de nombreux évènements internes chaque mois
+* Participer à des évènement locaux (DevFest, BBL, Meet up...)
+
+**Profil recherché**
+
+Tu as, a minima, **3 ans d’expérience** en développement back-end. Tu maîtrises et tu as de l’appétence pour **Java**. Tu es curieux.se et tu pratiques de la veille pour rester à jour dans ton domaine d’expertise. Tu sais être **force de proposition**, tu as un **esprit d’équipe**, un excellent **relationnel** et un bon **sens de l’humour** ? Alors nous sommes faits pour nous entendre 🍻
+Plus que ton diplôme, c’est **ta personnalité** et ton envie de nous rejoindre qui fera la différence.
+
+
+
+**Déroulement des entretiens**
+
+Chez Vaduo, nous ne faisons pas passer des “entretiens”, nous organisons des **échanges** entre les candidats et les collaborateurs de Vaduo autour d’un verre ou d’un déjeuner. Tu peux ainsi rencontrer directement tes futurs collègues pour découvrir Vaduo de l’intérieur et ce, dans un cadre convivial.
+En ce sens, le processus de recrutement se déroule selon les étapes suivantes :
+
+* **Prise de contact téléphonique** avec Valentin ou Juliette, pour partager sur les envies et besoins de chacun
+* Premier **moment d’échange** avec 2 collaborateurs de chez Vaduo
+* Deuxième **moment échange** avec 2 autres collaborateurs autour d’un déjeuner ou d’un verre 😋
+
+N’hésite pas à nous suivre sur **LinkedIn** pour en apprendre un peu plus sur Vaduo et l’ensemble de nos collaborateurs. D’ailleurs, tu peux y retrouver les profils de nos recruteurs Juliette et Valentin, ils ne mordent pas 😉 [https://www.linkedin.com/compagny/vaduo](https://www.linkedin.com/compagny/vaduo)
+
+
+","diversité profils richesse parcours chacun collaborateurs . sens , processus recrutement déroule selon étapes suivantes : * * * Prise contact téléphonique * * Valentin Juliette , partager envies besoins chacun * Premier * * moment ’ échange * * 2 collaborateurs chez Vaduo * Deuxième * * moment échange * * 2 autres collaborateurs autour ’ déjeuner ’ verre 😋 ’ hésite suivre * * LinkedIn * * apprendre peu plus Vaduo ’ ensemble collaborateurs .",70.0,55.0,40.0,3.0,hybrid,3,[0-3],"Notre plus grande valeur, c'est nos collaborateurs, alors on en prend soin ! Accompagnement personnalisé, journées de veille, événements, avantages divers,... Partage, communication et convivialité font partie de notre ADN. Nous sommes adeptes des méthodologies Agiles et DevOps, et chacun est encouragé à prendre part au développement de Vaduo. Nous construisons ensemble notre futur !","plus grande valeur , c'est collaborateurs , alors prend soin ! Accompagnement personnalisé , journées veille , événements , avantages divers , ... Partage , communication convivialité font partie ADN .","Notre équipe continue de grandir ! Elle est aujourd'hui composée de profils variés : Leader Technique, Développeurs, Coach agile, Chefs de projets, Scrum Master, Product Owner...
+
+A vous de venir la compléter !
+",,Lille,France,2023-11-15 14:26:39,Java/Spring Boot/Spring,True
+Vaduo,Développeur.se Fullstack Java - JavaScript,Fullstack developer,"**L’ADN de Vaduo**
+
+Vaduo est une ESN **conviviale** et **participative** créée en 2016. Centré sur l’Humain, notre **système collaboratif et bienveillant** permet à chacun de **s’exprimer** et **d’être écouté** pour faire grandir la société. Nous accompagnons les grands comptes de la région lilloise sur leurs **problématiques techniques et organisationnelles**. Nous pouvons donc te proposer plusieurs choix de missions en fonction de tes appétences.
+
+**Le succès de Vaduo ? La diversité des profils et la richesse des parcours de chacun de nos collaborateurs.**
+
+
+
+**Descriptif du poste**
+
+Ce poste est en **CDI** ! Localisée à **Lille** dans le quartier **Euratechnologies**, Vaduo propose à ses collaborateurs des missions en mode **hybride** dans la région lilloise. D’ailleurs, ton quotidien pourrait être rythmé par :
+ 
+Des **missions externes** à forte valeur ajoutée chez nos clients :
+
+* Adopter l’esprit Software Craftsmanship en appliquant les bonnes pratiques techniques définies (clean code, clean programming…)
+* Participer à la conception et au développement en équipe
+* Participer à des échanges réguliers avec les Product Owner/Product Manager/Chefs de projets pour se synchroniser et recueillir le besoin fonctionnel du client
+* Participer à la revue de code pour s'améliorer ensemble et produire des livrables de meilleure qualité
+* Participer au run (monitoring, analyse et correction de bugs)
+* Documenter ses features
+
+Et aussi en **interne** :
+
+* Partager de fortes valeurs : Adaptabilité, Convivialité, Transparence, Epanouissement, Savoir-faire
+* Co-construire la stratégie d’une entreprise participative
+* Participer à des communautés internes dynamiques
+* Vivre une vraie vie d’équipe avec de nombreux évènements internes chaque mois
+* Participer à des évènement locaux (DevFest, BBL, Meet up...)
+
+**Profil recherché**
+
+Tu as, a minima, **3 ans d’expérience** en développement. Tu maîtrises et tu as de l’appétence pour les technologies suivantes : **Java**, **JavaScript et leurs différents frameworks** (Spring Boot ; React, Vue.js ou encore Angular). Tu es curieux.se et tu pratiques de la veille pour rester à jour dans ton domaine d’expertise. Tu sais être **force de proposition**, tu as un **esprit d’équipe**, un excellent **relationnel** et un bon **sens de l’humour** ? Alors nous sommes faits pour nous entendre 🍻
+
+Plus que ton diplôme, c’est **ta personnalité** et ton envie de nous rejoindre qui fera la différence.
+
+
+
+**Déroulement des entretiens**
+
+Chez Vaduo, nous ne faisons pas passer des “entretiens”, nous organisons des **échanges** entre les candidats et les collaborateurs de Vaduo autour d’un verre ou d’un déjeuner. Tu peux ainsi rencontrer directement tes futurs collègues pour découvrir Vaduo de l’intérieur et ce, dans un cadre convivial.
+
+En ce sens, le processus de recrutement se déroule selon les étapes suivantes :
+
+* **Prise de contact téléphonique** avec Valentin ou Juliette, pour partager sur les envies et besoins de chacun
+* Premier **moment d’échange** avec 2 collaborateurs de chez Vaduo
+* Deuxième **moment échange** avec 2 autres collaborateurs autour d’un déjeuner ou d’un verre 😋
+
+N’hésite pas à nous suivre sur **LinkedIn** pour en apprendre un peu plus sur Vaduo et l’ensemble de nos collaborateurs. D’ailleurs, tu peux y retrouver les profils de nos recruteurs Juliette et Valentin, ils ne mordent pas 😉 [https://www.linkedin.com/company/vaduo](https://www.linkedin.com/company/vaduo)
+
+
+","diversité profils richesse parcours chacun collaborateurs . sens , processus recrutement déroule selon étapes suivantes : * * * Prise contact téléphonique * * Valentin Juliette , partager envies besoins chacun * Premier * * moment ’ échange * * 2 collaborateurs chez Vaduo * Deuxième * * moment échange * * 2 autres collaborateurs autour ’ déjeuner ’ verre 😋 ’ hésite suivre * * LinkedIn * * apprendre peu plus Vaduo ’ ensemble collaborateurs .",70.0,55.0,40.0,3.0,hybrid,3,[0-3],"Notre plus grande valeur, c'est nos collaborateurs, alors on en prend soin !
+Accompagnement personnalisé, journées de veille, événements, avantages divers,... Partage, communication et convivialité font partie de notre ADN.
+
+Nous sommes adeptes des méthodologies Agiles et DevOps, et chacun est encouragé à prendre part au développement de Vaduo.
+
+Nous construisons ensemble notre futur !","plus grande valeur , c'est collaborateurs , alors prend soin ! Accompagnement personnalisé , journées veille , événements , avantages divers , ... Partage , communication convivialité font partie ADN .","Notre équipe continue de grandir ! Elle est aujourd'hui composée de profils variés : Leader Technique, Développeurs, Coach agile, Chefs de projets, Scrum Master, Product Owner... 
+
+A vous de venir la compléter ! ",,Lille,France,2023-11-15 14:30:27,Java/Javascript/React/VueJS/Angular/Spring Boot,True
+Vaduo,Développeur.se Fullstack JavaScript,Fullstack developer,"**L’ADN de Vaduo**
+
+Vaduo est une ESN **conviviale** et **participative** créée en 2016. Centré sur l’Humain, notre **système collaboratif et bienveillant** permet à chacun de **s’exprimer** et **d’être écouté** pour faire grandir la société. Nous accompagnons les grands comptes de la région lilloise sur leurs **problématiques techniques et organisationnelles**. Nous pouvons donc te proposer plusieurs choix de missions en fonction de tes appétences.
+**Le succès de Vaduo ? La diversité des profils et la richesse des parcours de chacun de nos collaborateurs.**
+
+
+**Descriptif du poste**
+
+Ce poste est en **CDI** ! Localisée à **Lille** dans le quartier **Euratechnologies**, Vaduo propose à ses collaborateurs des missions en mode **hybride** dans la région lilloise. D’ailleurs, ton quotidien pourrait être rythmé par :
+ 
+Des **missions externes** à forte valeur ajoutée chez nos clients :
+
+* Adopter l’esprit Software Craftsmanship en appliquant les bonnes pratiques techniques définies (clean code, clean programming…)
+* Participer à la conception et au développement en équipe
+* Participer à des échanges réguliers avec les Product Owner/Product Manager/Chefs de projets pour se synchroniser et recueillir le besoin fonctionnel du client
+* Participer à la revue de code pour s'améliorer ensemble et produire des livrables de meilleure qualité
+* Participer au run (monitoring, analyse et correction de bugs)
+* Documenter ses features
+
+
+Et aussi en **interne** :
+
+* Partager de fortes valeurs : Adaptabilité, Convivialité, Transparence, Epanouissement, Savoir-faire
+* Co-construire la stratégie d’une entreprise participative
+* Participer à des communautés internes dynamiques
+* Vivre une vraie vie d’équipe avec de nombreux évènements internes chaque mois
+* Participer à des évènement locaux (DevFest, BBL, Meet up...)
+
+
+
+
+**Profil recherché**
+
+Tu as, a minima, **3 ans d’expérience** en développement. Tu maîtrises et tu as de l’appétence pour **JavaScript et ses différents frameworks** (Node.js, React, Vue.js ou encore Angular). Tu es curieux.se et tu pratiques de la veille pour rester à jour dans ton domaine d’expertise. Tu sais être **force de proposition**, tu as un **esprit d’équipe**, un excellent **relationnel** et un bon **sens de l’humour** ? Alors nous sommes faits pour nous entendre 🍻
+
+Plus que ton diplôme, c’est **ta personnalité** et ton envie de nous rejoindre qui fera la différence.
+
+
+**Déroulement des entretiens**
+
+Chez Vaduo, nous ne faisons pas passer des “entretiens”, nous organisons des **échanges** entre les candidats et les collaborateurs de Vaduo autour d’un verre ou d’un déjeuner. Tu peux ainsi rencontrer directement tes futurs collègues pour découvrir Vaduo de l’intérieur et ce, dans un cadre convivial.
+
+En ce sens, le processus de recrutement se déroule selon les étapes suivantes :
+
+* **Prise de contact téléphonique** avec Valentin ou Juliette, pour partager sur les envies et besoins de chacun
+* Premier **moment d’échange** avec 2 collaborateurs de chez Vaduo
+* Deuxième **moment échange** avec 2 autres collaborateurs autour d’un déjeuner ou d’un verre 😋
+
+
+N’hésite pas à nous suivre sur **LinkedIn** pour en apprendre un peu plus sur Vaduo et l’ensemble de nos collaborateurs. D’ailleurs, tu peux y retrouver les profils de nos recruteurs Juliette et Valentin, ils ne mordent pas 😉 [https://www.linkedin.com/company/vaduo](https://www.linkedin.com/company/vaduo)","diversité profils richesse parcours chacun collaborateurs . sens , processus recrutement déroule selon étapes suivantes : * * * Prise contact téléphonique * * Valentin Juliette , partager envies besoins chacun * Premier * * moment ’ échange * * 2 collaborateurs chez Vaduo * Deuxième * * moment échange * * 2 autres collaborateurs autour ’ déjeuner ’ verre 😋 ’ hésite suivre * * LinkedIn * * apprendre peu plus Vaduo ’ ensemble collaborateurs .",70.0,55.0,40.0,3.0,hybrid,3,[0-3],"Notre plus grande valeur, c'est nos collaborateurs, alors on en prend soin !
+Accompagnement personnalisé, journées de veille, événements, avantages divers,... Partage, communication et convivialité font partie de notre ADN.
+
+Nous sommes adeptes des méthodologies Agiles et DevOps, et chacun est encouragé à prendre part au développement de Vaduo.
+
+Nous construisons ensemble notre futur !","plus grande valeur , c'est collaborateurs , alors prend soin ! construisons ensemble futur !","Notre équipe continue de grandir ! Elle est aujourd'hui composée de profils variés : Leader Technique, Développeurs, Coach agile, Chefs de projets, Scrum Master, Product Owner... 
+
+A vous de venir la compléter ! ",,Lille,France,2023-11-15 14:36:34,Javascript/NodeJS/React/VueJS/Angular,True
+JYV' Consulting,Développeur Full Stack (F/H) - Lille,Développeur.euse Full stack,"**Mission**
+
+Ta mission, si tu l'acceptes, sera de réaliser les développements d'applications fonctionnelles en t'adaptant au contexte du client final. Entre autre tu seras amené à **:**
+
+* analyser et concevoir une solution informatique
+* rédiger la documentation technique et fonctionnelle associée
+* écrire et réaliser les test unitaires / d'interface pendant et suite aux développements
+* de travailler en collaboration avec les autres membres du projet
+
+L'ensemble de cette mission sera réalisé pour le compte d'un client de JYV' Consulting.
+
+**Profil recherché**
+
+De formation BAC+5 dans le domaine de l'informatique,
+
+Tu as développé principalement dans l'écosystème suivant :
+
+* Langage : JAVA (Spring, Springboot)
+* Méthodes / outils : connaissance de Git, de Gitflow
+* Méthodes : SCRUM / Kanban
+* Base de données : relationnelle (Postgres / Mysql, ..) ou documentaire (MongoDB)
+
+Tu aimes développer des applications de qualité, rester à la pointe des connaissances métier.
+
+Tu es organisé et rigoureux dans ton travail.
+
+Tu aimes travailler en équipe et fais preuve d'engagement dans ton quotidien.
+
+L'informatique est avant tout une passion pour toi et tu as envie de la transmettre.
+
+Tu te reconnais dans ce descriptif ? Alors, toi aussi dis toi ""J'y V""
+
+**Processus de recrutement**
+
+1\. Tu as lu l'annonce et te dis « **J'Y V** » ! 
+Une fois que tu auras déposé ta candidature (et on te remercie pour l’intérêt que tu nous portes), nous prendrons le temps de prendre connaissance de ton profil et te ferons ensuite un retour qu’il soit positif en te proposant un premier échange ou négatif si on est d’avis qu’on n’est pas en mesure de t’accueillir dans les meilleures conditions.
+
+2\. On fixe ensemble un échange avec notre RH\, Florence \- 1h/1h30 : 
+\- Présentation JYV' Consulting et échange autour de ton parcours 
+\- Débriefing sur l'échange 
+\- Présentation du processus de recrutement 
+On prend le temps d'apprendre à se connaitre, de discuter de tes centres d'intérêts et de s’assurer de l’adéquation entre ton mindset et notre culture de société.
+
+3\. Un deuxième échange sera rapidement organisé\, cette fois\-ci avec notre fondateur et Florence \- 1h/1h30 
+\- Présentation de la vision et les valeurs de JYV' Consulting 
+\- Échange de fond sur ton expérience\, sur tes motivations et tes aspirations techniques\. 
+On prend le temps d'approfondir ton parcours professionnel sur le volet technique et de s'assurer qu'on partage la même volonté d’expertise pour que ton expérience chez nous soit une réussite.","Alors , aussi dis `` ' V '' * * Processus recrutement * * 1\ . lu l'annonce dis « * * ' V * * » !",55.0,48.0,41.0,2.0,hybrid,3,[0-3],"Ouvert et disponibles, nous sommes à l'écoute de la situation de chacun et cherchons à maximiser le bien-être grâce à un suivi régulier.",,"Nous sommes une équipe de 9 personnes, des profils de qualité avec une expérience reconnue capables de soutenir les nouveaux arrivants.",,Armentières,France,2022-09-15 19:05:28,Java JEE/Git/MongoDB/Angular/JUnit/Mysql,True
+Eleven Labs,Développeur/se JavaScript fullstack,Développeur.euse Full stack,"**Es-tu notre nouveau Dév Javascript Fullstack ?** 
+
+Nous recherchons une personne qui **maîtrise le langage JavaScript** en lui-même, et idéalement **Typescript** aussi. 
+
+Côté librairies ou frameworks, **une solide maîtrise de React et de NodeJS** côté serveur est indispensable. Selon tes affinités, des connaissances en Vue.js, Svelte ou Next.js côté front seront grandement appréciées, et il en va de même pour Nest.js ou Express.js côté back !
+
+Pour finir, on cherche aussi quelqu’un qui soit **capable de développer et consommer des APIs** Rest ou avec GraphQL via ApolloJS par exemple, tout en étant **sensible à la qualité de code** : adepte des tests, du standard Ecmascript, des outils d'analyse de code, des design patterns, des principes Solid...
+
+
+**Qu’est-ce que l’on propose ?**
+
+👌 Des missions aux petits oignons.
+Nos missions, avant d’être proposées à nos consultants astronautes, sont d’abord **sélectionnées avec soin**. D’une durée moyenne d’un an et demi, l’objectif c’est qu’elles proposent des stacks techniques attirantes (NodeJS, React/Svelte, GraphQL…), des environnements à forts enjeux (performance, sécurité, trafic), le tout dans un cadre Agile.
+
+🎓 Un parcours qui te plaise et une évolution à la carte.
+On fait tout pour que **chacun puisse s’épanouir,** et que ceux qui le souhaitent puissent élargir leur champ de compétences, passer des certifications, ou même changer de techno et d’expertise.
+
+
+**Ok, mais pourquoi nous rejoindre NOUS ?**
+
+👂 Parce qu’on est à l’écoute des envies de chacun. 
+**Tu choisis ton projet**. No bullshit. On préfère quelqu’un qui aime le projet sur lequel il travaille et qui soit content de se lever le matin pour aller rejoindre son équipe.
+
+Tu as envie de **partager ton expertise** via des **articles de blog,** ou en étant **speaker** sur une conf ?
+Ça tombe bien. **On a un blog technique** et on t’accompagne si tu le souhaites pour tes premières rédactions. Pareil pour la création de ton talk. Tu veux te faire la main sur une techno inconnue ou te perfectionner ? **Nos projets internes** sont là pour ça.
+
+🤝 Parce que tu peux échanger avec d’autres profils expérimentés.
+On a une grosse communauté JS dans la boîte. Les occasions d’échanger sont nombreuses car on se retrouve tous fréquemment pour **des meetups ou des workshops**, et on a une vie interne très fournie. Tu peux aussi devenir **mentor** pour un profil plus junior, et participer aux entretiens techniques de recrutement.
+
+
+**Si je suis intéressé.e, comment ça se passe ?**
+
+Si les lignes que tu viens de lire te parlent, qu’en plus tu es fan de Gif de chats et que du coup tu postules, alors voici la **suite des évènements** :
+🗨️ Tout commence par un entretien d’introduction en Visio
+Tu t’entretiendras avec Camille, Marion, ou Samira, et c’est cette interlocutrice qui te suivra **tout le long de ton parcours chez nous**. Vous parlerez de tes attentes, de ton vernis technique, et elle te présentera Eleven Labs. 
+👋 Ensuite il y a un entretien Visio sur la Technique
+On te propose une rencontre avec un ou deux pairs afin de comprendre comment **tu appréhendes les sujets techniques**, et quelle est **ta vision du développement et du poste**.
+🏠 On conclut par une visite des locaux
+On t’invite dans les locaux ! Tu pourras y rencontrer d’autres dévs Javascript pour échanger sur leurs parcours et le tien, et Mika ou Elsa, pour échanger sur l**a stratégie et la vision de l’entreprise** !
+
+D’ici là, on reste à ta disposition pour toute question, donc n’hésite pas :)
+
+
+","🤝 Parce peux échanger ’ autres profils expérimentés . pourras rencontrer ’ autres dévs Javascript échanger leurs parcours tien , Mika Elsa , échanger * * a stratégie vision ’ entreprise * * !",60.0,50.0,40.0,3.0,hybrid,3,[0-3],"Basés sur un management collaboratif, nous sommes adeptes de l'agilité (au sein de nos équipes tech mais aussi pour nos équipes non-tech)",,"Plus de 20 personnes travaillent au sein de notre studio au HQ (CDG Etoile) : Senior Dev (Symfony/React/Angular), Lead Dev, PO, Scrum, DevOps, Archi
+Le reste des effectifs (50 pers. environ) travaille au sein des équipes techniques de nos clients basés à Paris.",,Paris,France,2023-07-04 12:06:11,NodeJS/GraphQL/Typescript/Next JS/Jest/Svelte/Express/Nest/Javascript/React,True
 Optimal Ways,Consultant(e) technique en Digital Analytics / Développement Front H/F,Front-end developer,"Vous avez déjà une expérience en développement front JS ? Vous souhaitez vous spécialiser dans la data avec une agence experte ? Le poste Consultant(e) technique en Digital Analytics H/F est fait pour vous !
 
 **Description du poste**
@@ -401,752 +867,67 @@ Nos bureaux sont idéalement situés au cœur de la métropole lilloise, assuran
 
 Pour plus d'informations sur Optimal Ways et ce que nous représentons, veuillez visiter notre site Web à l'adresse : https://www.optimalways.com/fr/
 
-Si vous avez envie de vous développer dans un environnement favorable et êtes engagé(e) à avoir un impact positif, nous vous invitons à rejoindre notre équipe. Optimal Ways est l'endroit où vos compétences, vos connaissances et vos valeurs convergent pour une carrière épanouissante.","Le poste Consultant(e) technique en Digital Analytics H/F est fait pour vous !
-**Description du poste**
-
-En tant que Consultant(e) technique en Digital Analytics H/F chez Optimal Ways, vous avancerez dans votre carrière en travaillant en étroite collaboration avec une équipe experte, compétente et bienveillante.",40.0,37.5,35.0,1.0,hybrid,1,[0-3],"L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada). Nicolas est également impliqué depuis l'origine dans MeasureCamp, le réseau de conférences le plus important de Digital Analytics au niveau mondial. Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).","L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada).
-Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).","Nous sommes une agence spécialisée dans le Digital Analytics et avons pour mission d’accompagner et former les équipes ecommerce à prendre des décisions éclairées avec une démarche durable et responsable. Nous travaillons principalement avec des grandes marques retail & ecommerce et leurs filiales dans le monde entier (Brady Seton, Cultura, Cyrillus, Decathlon, GiFi, Midas, Somfy, …).",,Wasquehal,France,2023-12-22 09:36:08,Javascript/CSS3/HTML5/NodeJS/Python/Angular/Actionscript/Gestion de projet/jQuery/SQL/Google Apps Script/Google Cloud/Firebase,True
-Listen Too,Développeur.euse Mobile iOS / Android / Flutter,Mobile developer,"**📢 Imaginez un lieu où votre voix compte autant que vos compétences…**
-
-Chez Listen too, nous sommes convaincus que l’écoute est indissociable du progrès. Cultivée au quotidien, elle devient un catalyseur de croissance et de réussite, tant pour l’entreprise que pour ses collaborateur·rice·s.
-
-Listen too est une agence conseil spécialisée depuis 2013 dans la digitalisation de la Relation Client & Collaborateur. Grâce à la justesse de l’accompagnement offert à nos clients comme à nos consultant.e.s, nous nous sommes construits au fil des ans sur notre marché une réputation de véritables « horlogers du conseil ».
-
-**Nos domaines d’expertise ?**
-
-🎯 Le Product Management : pour porter la vision Produit et maximiser la création de valeur.
-🎨 Le Product Design : pour une conception Produit centrée utilisateur.
-🔧 Le Product TechOps : pour déployer les meilleures solutions digitales.
-📢 Le Product Marketing : pour maximiser le succès d’un produit/service sur son marché.
-📊 Le Product Data : pour mettre la donnée au cœur de la stratégie de nos clients.
-🤝 La Gouvernance projet : pour optimiser le mode de management et le cadre organisationnel de nos clients.
-
-Être listenien·ne, c’est être au cœur d’une entreprise qui valorise votre voix, votre parcours, et votre évolution. Ici, nous appliquons les principes du design thinking à votre carrière, co-construisant avec vous une trajectoire où vos passions, vos aspirations, et vos forces sont au premier plan (si vous voulez en savoir plus, c’est par ici !).
-
-**💪 Tes futures missions**
-
-Pour accompagner nos partenaires Français et internationaux, nous recherchons des Développeurs.ses Mobile sur des projets à forte valeur ajoutée technologique en IT & Digital.
-
-**Concrètement, tu auras l’opportunité d’intervenir sur :**
-
-* L’ensemble du cycle de vie des projets depuis les phases amont de conseil/conception, jusqu’à la mise en service des solutions.
-* La compréhension des besoins métier et l’analyse fonctionnelle.
-* La conception, le développement et l’intégration des applications.
-* Le test de l’application et le traitement des dysfonctionnements éventuels.
-* Le respect des méthodologies et des processus de développement.
-* La mise en place des bonnes pratiques d’utilisation et de développement.
-* La formation de l’utilisateur pour la prise en main de l’application.
-
-**Stacks Techniques :**
-Android : Java / Kotlin iOS : Swift / Objective-C / MacOSX / XCode Dart : Flutter
-
-**😎 Ta vie de listenien·ne**
-
-*Ce qu’on te propose ?*
-
-🤜 Être membre d’une communauté : partager et enrichir tes compétences au sein d’une équipe soudée.
-🤝 Être accompagné.e : dans ta progression professionnelle et ton quotidien par ton Consultant.e Manager, ton Business Manager et notre Responsable Expérience collaborateur.rice.
-🎓 Être formé.e en continu : grâce à un plan de développement des compétences co-construit et nourri par nos solutions d’e-learning, les formations de la Listen too Academy et nos formations externes.
-🚀 Être intrapreneur.e : encouragé à innover, échanger, entreprendre et ainsi contribuer à l’épanouissement du cabinet.
-☘️ Être engagé.e : à nos côtés dans une démarche sociétale et environnementale responsable et durable.
-🤗 Être « bien » ! : parce que le bien-être physique et mental de nos collaborateur.rice.s est au cœur de notre réussite (nous sommes fier.es d’être de nouveau labellisés Great Place to Work).
-
-*Concrètement ?*
-
-🎉 De multiples occasions de passer de bons moments avec notamment notre fameux sémineige, des afterworks et des teambuildings.
-🏋️‍♂️ Du bien-être et de la santé avec des évènements sportifs, nos partenaires Gymlib, Zenride, Moka.care et le programme Vitality.
-😎 Du confort avec du télétravail indémnisé
-🤗 Toujours plus liens avec un onboarding aux petits oignons, notre programme de parrainage, notre appli interne Mylistentoo, nos newsletters, nos podcasts et nos webinaires
-👍 De nombreux avantages avec notre CSE, des tickets restaurant, une prime vacances, des primes de cooptation, de participation, de développement…
-
-**💎 Profil recherché**
-
-* Passionné.e par le développement, l’architecture et les nouvelles technologies, tu souhaites faire partie d’une organisation ayant un vrai impact dans la révolution numérique.
-* Titulaire d’un diplôme d’ingénieur ou universitaire équivalent (BAC+5), tu justifies d’une expérience significative dans le développement des applications mobiles Android, IOS ou encore Flutter.
-* Tu aimes relever des challenges au quotidien, tu sais travailler en autonomie et être force de proposition auprès de tes interlocuteurs afin d’apporter une valeur ajoutée à tes projets.
-* Ton sens de relationnel et ton goût du contact client sont des qualités essentielles pour réussir à ce poste. De plus, tu souhaites t’impliquer dans le développement d’une société en pleine expansion.
-
-
-**Déroulement des entretiens**
-
-🙋‍♀️ Un premier entretien téléphonique ou en visio avec un de nos chargés de recrutement Inès ou Alexis pour voir si ça colle entre nous !
-💁🏻‍♀️ Un deuxième en visio avec Yohan, notre Directeur de Lille, pour valider notre première impression.
-🙋🏻‍♂️ Un éventuel dernier échange sur mesure avec Florent, Co-fondateur du cabinet, pour confirmer ce que nous savions déjà ! 😉
-
-Tu l’auras compris, cette phase de recrutement est avant tout l’occasion de s’écouter et d’échanger.
-Chez Listen too, nous célébrons la diversité et l’inclusion, convaincus que chaque talent, quelle que soit son origine ou son parcours, est une richesse pour notre équipe et contribue à notre réussite commune.","🎨 Le Product Design : pour une conception Produit centrée utilisateur.
-Être listenien·ne, c’est être au cœur d’une entreprise qui valorise votre voix, votre parcours, et votre évolution.",50.0,44.0,38.0,2.0,hybrid,3,[0-3],"L'accompagnement est mis en place au travers de : 
-- Formation chaque année
-- Veille (Participation au salon, forum, ...) chaque année
-- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",,"Equipe composé de 20 développeurs sur des environnements :
-Back-end : Node / Nuxt.JS
-Front-End : Vue.JS; React.JS; Angular
-Mobile : Android; iOS; Flutter",,Lille,France,2023-12-11 14:27:29,Android/Kotlin/Swift/IOS/RxKotlin/Flutter/SwiftUI,True
-Winamax,Développeur Back-End Senior (H/F) - Team Poker,Back-end developer,"**A PROPOS DU POSTE**
-
-Au sein de la team Poker, tu participeras activement à la conception, à l’implémentation et à la supervision des micro services de la plateforme de poker.
-
-\- Conception de l’architecture de la plateforme
-\- Développement de micro services hautement disponibles et scalables
-\- Développement des APIs et des modèles de données
-\- Écriture de tests unitaires\, end to end et réalisation de scenarii en conditions réelles
-\- Participation aux code reviews de l’équipe
-\- Déploiement des applications sur AWS
-\- Supervision et optimisation de la plateforme de poker
-\- Documentation de l’architecture et des services de poker
-\- Collaboration avec les équipes Front\-End\, Data\, Infrastructure\, Sécurité et les chefs de projets
-
-
-Exemples de projets : 
-
-\- Création d’une gateway poker avec authentification\, rate limiting\, routing\, pub/sub \(10K\+ msg/s\)
-\- Implémentation d’un micro service d’inscription \(1000 inscriptions/s\)
-\- Ajout de nouveaux types de jeux et d’opérations spéciales sur le moteur de jeu de poker
-
-
-**PROFIL RECHERCHÉ**
-
-\- Expérience significative dans le développement de services Back\-End sur une plateforme à fort trafic \(10K\+ req/s\)
-\- Expérience significative sur des problématiques de load balancing\, high availability\, scaling\, caching\, database et storage
-\- Maîtrise des architectures distribuées Event\-Driven
-\- Maîtrise de Redis ou Kafka \(structures de données\, pub/sub\, streams\, pipelines\)
-\- Maîtrise d’une base de données relationnelle \(MySQL ou PostgreSQL\)\, modélisation\, optimisation\, transactions\, locks
-\- La connaissance du langage JavaScript et de l’écosystème Node\.js est souhaitable \(les micro services reposent sur Node\.js\)
-\- Connaissance de l’environnement cloud
-\- Culture DevOps \(CI/CD\, Docker\, Observability\)
-
-
-**MODALITÉS ASSOCIÉES AU POSTE**
-
-\- Poste à pourvoir en CDI temps plein \(35h/semaine\) exclusivement
-\- Lieu de travail : Paris intra\-muros
-\- Date de démarrage : ASAP
-\- Rémunération selon le profil
-\- Modalités de travail exclues : mi\-temps\, freelance\, job étudiant\, contrat en alternance
-
-
-**PROCESS DE RECRUTEMENT**
-
-\- Screening RH \(30 min\)
-\- Entretien Tech Lead en visio \(30 min\)
-\- Entretien technique en visio \- software design et live coding \(2h\)
-\- Entretien Head of Engineering en présentiel \(1h\)
-
-Afin de garantir une expérience candidat optimale, les processus de recrutement chez Winamax durent, en moyenne, entre 2 et 4 semaines.
-
-
-**POURQUOI NOUS REJOINDRE ?**
-
-\- Un esprit startup avec des équipes jeunes et dynamiques
-\- Un cadre de travail unique et convivial\, en plein cœur de Paris \(salle de sport\, salle de jeux vidéo\, terrain de pétanque\, barbecue\, boissons offertes…\)
-\- Le choix de son ordinateur portable \(Macbook pro ou Windows\) pour travailler efficacement
-\- Un salaire compétitif
-\- Un intéressement et une participation attractifs
-\- Une excellente mutuelle
-\- 6 semaines de congés
-\- Restaurant d’entreprise
-\- Participation à des conférences techniques
-
-Du fun : soirées organisées régulièrement par notre CSE (poker, gaming, jeux de plateau, soirée raclette…)","\- Conception de l’architecture de la plateforme
-\- Développement de micro services hautement disponibles et scalables
-\- Développement des APIs et des modèles de données
-\- Écriture de tests unitaires\, end to end et réalisation de scenarii en conditions réelles
-\- Participation aux code reviews de l’équipe
-\- Déploiement des applications sur AWS
-\- Supervision et optimisation de la plateforme de poker
-\- Documentation de l’architecture et des services de poker
-\- Collaboration avec les équipes Front\-End\, Data\, Infrastructure\, Sécurité et les chefs de projets
-
-
-Exemples de projets : 
-
-\- Création d’une gateway poker avec authentification\, rate limiting\, routing\, pub/sub \(10K\+ msg/s\)
-\- Implémentation d’un micro service d’inscription \(1000 inscriptions/s\)
-\- Ajout de nouveaux types de jeux et d’opérations spéciales sur le moteur de jeu de poker
-
-
-**PROFIL RECHERCHÉ**
-
-\- Expérience significative dans le développement de services Back\-End sur une plateforme à fort trafic \(10K\+ req/s\)
-\- Expérience significative sur des problématiques de load balancing\, high availability\, scaling\, caching\, database et storage
-\- Maîtrise des architectures distribuées Event\-Driven
-\- Maîtrise de Redis ou Kafka \(structures de données\, pub/sub\, streams\, pipelines\)
-\- Maîtrise d’une base de données relationnelle \(MySQL ou PostgreSQL\)\, modélisation\, optimisation\, transactions\, locks
-\- La connaissance du langage JavaScript et de l’écosystème Node\.js est souhaitable \(les micro services reposent sur Node\.js\)
-\- Connaissance de l’environnement cloud
-\- Culture DevOps \(CI/CD\, Docker\, Observability\)
-
-
-**MODALITÉS ASSOCIÉES AU POSTE**
-
-\- Poste à pourvoir en CDI temps plein \(35h/semaine\) exclusivement
-\- Lieu de travail : Paris intra\-muros
-\- Date de démarrage : ASAP
-\- Rémunération selon le profil
-\- Modalités de travail exclues : mi\-temps\, freelance\, job étudiant\, contrat en alternance
-
-
-**PROCESS DE RECRUTEMENT**
-
-\- Screening RH \(30 min\)
-\- Entretien Tech Lead en visio \(30 min\)
-\- Entretien technique en visio \- software design et live coding \(2h\)
-\- Entretien Head of Engineering en présentiel \(1h\)
-
-Afin de garantir une expérience candidat optimale, les processus de recrutement chez Winamax durent, en moyenne, entre 2 et 4 semaines.
-**POURQUOI NOUS REJOINDRE ?",60.0,55.0,50.0,2.0,hybrid,4,[3-7],,,,,Paris,France,2024-02-08 15:43:17,NodeJS/Amazon Web Services,True
-HoppR,Consultant.e Fullstack / Craft,Développeur.euse Full stack,"**Qui sommes-nous ?🐱‍🏍**
-
-**Ce qui nous anime**
-Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech. Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.
-Pour cela, nous nous efforçons d'embaucher les meilleurs développeurs et développeuses : volontaires dans le collectif, ouvert.es d'esprit, passionné.es et leur proposons un contexte propice à l’épanouissement et les terrains de jeux pour exprimer leurs talents.
-Si ces premières lignes vous parlent alors la suite devrait vous intéresser
-
-**Votre rôle ⭐**
-
-Les équipes HoppR développent des logiciels de tous types : nouveau parcours client BtoB, création d’une offre de 2nd main, nouvelle brique de fidélité, refonte vers une architecture évènementielle, application de gestion que ce soit dans le retail, l’industrie, les fintech, les services et aussi bien pour des startups que pour des grandes entreprises.
-Vous intervenez au sein d’équipe projet (agile) en contribuant au développement de nouvelles fonctionnalités et en faisant évoluer le produit. Vous vous occupez de la base de code depuis les premières lignes de code jusqu'à la production avec l’envie de travailler sur des domaines variés : composants d'interface utilisateur, API, bases de données, déploiement, Infrastructure as Code… Bref, vous faites parler vos talents en développement.
-
-**Votre mission si vous l’acceptez 💪🏼**
-En tant que consultant.e, vous apportez votre expérience et vos compétences de développement à nos projets et à ceux de nos clients en intervenant sur des sujets de développement, de qualité logicielle et culture Craft, d’automatisation, de CI/CD ou d’évangélisation DevOps. Vous serez amené.e à :
-
-* Coder (et oui !) au sein d’une équipe projet en apportant votre expertise technique, mais vous serez un fervent ambassadeur ou une fervente ambassadrice de la qualité logicielle (Testing, TDD, revues de code, pair/mob programming, refactoring…)
-* Contribuer à la vision et conception technique (architecture applicative et/ou pratiques de développement et/ou méthodo…)
-* Maintenir et améliorer la qualité sur l’ensemble de la pile technique. Il est important de rester à jour et
-* Avec un peu d’expérience et selon vos appétences, vous travaillerez avec les équipes connexes au projet : Designs pour la faisabilité technique et la création de composant ou bien Ops sur des sujets de CI/CD et d’automatisation. Naturellement, vous deviendrez un.e référent.e sur ces sujets au sein de l’équipe
-* Pour les plus aguerri.es, vous serez amené.es à prendre la casquette de Lead pour apporter votre expérience et bienveillance auprès de l’équipe de Dev tout en étant un interlocuteur ou une interlocutrice clef avec le métier et les managers pour faciliter le delivery et les rituels de l’équipe
-* En tant que HoppR, vous acculturerez les clients, les équipes à nos pratiques au travers de mentoring, de formation ou de Coaching (TDD, BDD, Clean Code…)
-
-Les missions et projet HoppR sont l’occasion de découvrir un nouvel environnement de travail et écosystème technique qui vous permet de cultiver de nouvelles compétences, enrichir vos expériences, toujours dans un contexte épanouissant
-
-**Cette offre est faite pour vous vous si…. 🦄**
-
-✅ Vous maitrisez un ou plusieurs des langages suivants : Java, JavaScript/TypeScript et les frameworks associés comme Spring, NodeJs, ReactJS, Vue.js, Svelte …
-✅ Vous avez une bonne maitrise et connaissance des outils de build
-✅ Vous avez les basiques sur les patterns et différents types d’architectures (monolithes, microservices, hexagonale…)
-✅ Vous êtes à l’aise avec au moins un outil de CI/CD (GitLab CI, Jenkins, GitHub Actions…)
-✅ Idéalement de bonne connaissance en Docker serait un plus !
-✅ Vous savez collaborer avec des équipes Ops, data, Métiers et apprécier le travail en équipe
-✅ Bonus : Une culture Software Craftsmanship, et une appétence naturelle pour la qualité de code
-🎓 Que vous soyez junior, avec plusieurs années d’expériences, en reconversion, ce qui nous intéressera sera votre background, la curiosité et intérêt pour ces sujets et la Tech en général et l’envie de découvrir, partager avec vos collègues.
-
-**Ce que nous proposons ❤️**
-
-🌍 Remote Friendly politique avec l'accès à nos différents locaux - On peut tout faire en télétravail même si un restaurant ou un verre entre collègue reste toujours sympa
-💻PC ou MacBook à ton arrivée
-⚙️ 240 € de budget pour son équipement WFH
-🚲 500€ par an pour la mobilité
-🌈 1 jour par an dédié au volontariat pour une association
-🍖 Ticket restaurant (20 x 9€ mois)
-💟 Mutuelle 100%
-👶 Congé maternité étendu à 20 semaines et 4 semaines + 5 jours pour le co-parent
-**Mais surtout :**
-💰 Une grille de salaire transparente et travaillé
-⚖️ Un système de partage et redistributif
-💪 Une Communauté soudée avec Slack Technique pour avoir un support et de l’entraide entre collègues, partager des découvertes tech et des formats de veille et partage organisés par ton Tech Community Leader
-
-**Le process recrutement ⚙️**
-
-1️⃣ Un échange téléphonique ou visio avec Emma, RH de talents
-2️⃣ Un échange téléphonique ou visio avec Nicolas, président d'HoppR
-3️⃣ Un entretien technique avec l’équipe Tech, exercice de pair programming, échange sur ton parcours
-4️⃣ Un dernier échange (optionel) durant un évènement HoppR pour rencontrer tes futurs collègues et découvrir l’ambiance chez HoppR
-💙 **Envie d’avancer avec nous ? Alors contacte hello@hoppr.tech !**","**Qui sommes-nous ?🐱‍🏍**
-
-**Ce qui nous anime**
-Chez HoppR, nous avons pour mission d'accompagner nos clients dans le développement de logiciels de qualité et la culture Tech.
-Les logiciels et le numérique ont un impact sur nos vies à chaque instant, nous pensons que les logiciels que nous construisons aujourd'hui seront le reflet de la société future.",56.0,46.5,37.0,3.0,hybrid,1,[0-3],"Nous avons une approche organisationnelle horizontale avec peu de strates hiérarchiques
-Notre vision du management se rapproche plus du mentoring. 
-
-Avec des grilles de salaires transparentes, c'est à l'équipe de management de s'assurer que tout le monde se sente bien, progresse et révèle son potentiel. ",,"Nos projets sont orientés sur des phases de Build et de l'accompagnement sous forme de Coaching, formation ou mission de Conseil 
-
-Nous assumons une culture & ADN Tech et investissons donc énormément en formation, mentoring, ou après des communautés pour toujours progresser
-
-Le partage est dont très important pour nous et tu pourras compter sur tes collègues pour échanger, faire de la veille techno et participer à la construction et évolution de HoppR ",,Lyon,France,2024-01-19 10:44:51,Spring/Java/Svelte/Docker/Github/Gitlab/NodeJS/React/Cucumber/PostgreSQL/Kafka/MongoDB/VueJS/Jenkins/Agile,True
-LUCCA,Senior Back-end Software Engineer .NET,Back-end developer,"🎓 Bac+5
-💼 5 ans minimum d'expérience requis
-📍 Nantes
-🏠 Présentiel ou hybride (2-3 jours de télétravail par semaine)
-💰 Salaire prévu entre 50 et 65K €fixes bruts par an, variable selon l'expérience
-🌍 Lucca is getting global ! For this job, the level required in English is B1(reading)
-
-
-Chez Lucca, nos équipes sont réparties de la manière suivante : la moitié est dédiée au Business, 40% au Produit/R&D et 10% dédiés aux fonctions support.
-
-**Et les devs, on les retrouve où ?** Ils font partie prenante de la R&D et sont répartis dans différentes Business Unit. De manière simplifiée, voici les 3 grandes entités tech chez Lucca :
-
-* **La direction Produit** : composée de 5 familles produits (Timmi, Cleemy, Poplee, Pagga et Socle RH) ;
-* **La Product Tech** qui regroupe l’ensemble des produits et applications permettant le bon fonctionnement des autres produits Lucca et l’intégration des clients ;
-* **La Business Tech** : en charge de concevoir, développer et administrer des solutions pour les collaborateurs de Lucca et pour nos partenaires.
-
-**La R&D chez Lucca**
-
-En quoi nos produits sont-ils différents ?
-
-Voici quelques principes de conception pour vous éclairer :
-\- Des logiciels conçus pour ceux qui les utilisent et non pas ceux qui les achètent ;
-\- Des solutions simples pour des besoins précis ;
-\- Un logiciel de gestion n’est pas nécessairement gris\, moche et triste\.
-
-
-À quoi ressemble une équipe produit ?
-
-Vous ferez partie d'une équipe composée d’une dizaine de membres, comprenant (jusqu’à) 5 développeurs, un intégrateur et vous serez sous la responsabilité d’un Lead developer. Vous collaborerez également avec un Product Manager, un Product Designer, un Product Marketing Manager, et le Head Of Product.
-
-
-Et pour l’organisation au quotidien, les rituels ?
-
-Dans notre organisation inspirée de ShapeUp, vous pourrez dire adieu aux tickets abscons assénés toutes les deux semaines par un PO : nous travaillons en petites équipes auto-organisées sur des projets que nous arbitrons tous les deux mois.
-
-
-En plus de votre équipe produit, vous pourrez faire partie d’une Guilde transverse (back, front, Design, etc.) avec un temps de travail dédié dans ta semaine afin d’échanger avec des pairs des autres équipes sur des sujets divers et variés !
-
-Enfin, les mardis c’est le DevTalk, 30min de partage de bonnes pratiques/veille technologique.
-Les mercredis c’est le CoTech, temps crucial pour les prises de décision technique stratégiques.
-Et chaque trimestre, la R&D se regroupe une journée pour travailler sur des sujets communs et favoriser le partage de compétences.
-
-
-Votre terrain de jeux :
-
-\- C\#/ \.Net8
-\- Angular16 / TypeScript
-\- Notre infra : 350 VMs / 100 To de data / 7 clusters de prod et les classiques Sql Server / Redis / RabbitMq / Haproxy / IIS / Nginx
-\- Nous sommes à plus de 10 000 builds de CI chaque mois\, et plus de 10 déploiements chaque jour
-
-
-**Être développeur back-end chez Lucca**
-
-Vos missions
-
-En tant que développeur back-end, vous collaborerez étroitement avec les équipes front-end et infrastructure. Votre mission consistera à développer des APIs fiables, sécurisées et performantes. Votre expertise en gestion de bases de données et en logique métier sera essentielle pour assurer le bon fonctionnement de nos systèmes.
-
-Mais aussi :
-\- Développer nos applis avec agilité\, S\.O\.L\.I\.D\.ité
-\- Participer aux spécifications fonctionnelles avec le Product Manager
-\- Contribuer aux spécifications techniques avec le Lead Developer
-\- Donner de la vision et accompagner les choix techniques et architecturaux de l’équipe
-\- Participer à la montée en compétences de l’équipe : partager les bonnes pratiques et retours d’expérience\, faire des feedbacks et des code reviews
-\- Créer des solutions que vous ferez perdurer et évoluer dans le temps \(et que vous serez fier\(e\) de montrer à vos petits enfants\)\.
-
-
-Le quotidien d’un développeur, il ressemble à quoi ?
-
-Votre quotidien pourrait ressembler à celui de [Mathieu](https://blog.lucca.io/2022/11/25/mathieu-beginnings-as-developer-in-pay-team/), Senior Software Engineer devenu Lead Developer au bout d’un an demi :
-
-Voici quelques moments types de son quotidien :
-\- Commencer par le fameux DM de 9h30 \(suivi d'un café\) ;
-\- Passer en revue quelques pull requests et\, si nécessaire\, planifier une revue en mob ;
-\- Affiner les user stories du backlog avec un Product Manager et l'ensemble de l'équipe ;
-\- Faire une session d'exploration avec un Product Manager et un UX designer pour préparer la prochaine fonctionnalité ;
-\- Rédiger une v0 des spécifications techniques et itérer avec l'équipe pour converger vers une version qui fait l'unanimité ;
-\- Optimiser les performances d'une requête SQL remontée sur l'APM de Datadog ;
-\- Faire un atelier avec l'équipe transverse DevOps pour améliorer une étape de notre CI\.
-
-
-De temps en temps, j'ai l'occasion de faire d'autres choses que j'apprécie également : 
-\- Présenter un DevTalk à l'ensemble des Luccasiens pour partager un sujet tech qui ne concerne pas forcément mon quotidien ;
-\- Effectuer une interview utilisateur avec un UX designer\.
-
-
-**Le profil recherché**
-
-Ce poste est fait pour vous si :
-
-❏ Vous êtes diplômé(e) d’une école d’ingénieur généraliste ou avec une spécialisation informatique ;
-❏ Vous avez au moins 5 ans d’expérience dans le développement d’applications web ;
-❏ Vous avez une expertise forte en C#/.NET, nous avons des défis à votre hauteur ;
-❏ Vous appréciez la critique constructive et cherchez toujours à challenger vos idées et celles des autres (Code Review, Pair Programming) ;
-❏ Vous avez une sensibilité sur la qualité des développements (DDD, TDD, Specflow) ;
-❏ Vous cherchez un poste qui vous permettra d’acquérir un large spectre de connaissances et avez envie de relever de nombreux défis techniques ;
-❏ Vous souhaitez rejoindre une équipe soudée et agile, et voir le produit grandir avec votre contribution ;
-❏ Comme un bon Lannister, vous payez toujours vos dettes, surtout lorsqu’elles sont techniques.
-
-
-
-**Process de recrutement :**
-
-
-Étape 1 : Entretien téléphonique avec le / la talent acquisition manager (45')
-Étape 2 : Test technique en live ou en asynchrone
-Étape 3 : Petit oral avec une (bonne) partie de votre probable future équipe (60')
-Étape 4 : Grand oral (45')","À quoi ressemble une équipe produit ?
-Le quotidien d’un développeur, il ressemble à quoi ?",65.0,57.5,50.0,3.0,hybrid,5,[3-7],Le management est horizontal et participatif ! ,,"Notre pôle R&D est aujourd'hui composé de 180 personnes.
-Chaque produit dispose de sa propre équipe, une composition type ; Head of product, Lead PM, Engineer manager, Lead, Software developer back, front, fullstack, Intégrateur, UI/UX ....",,Nantes,France,2023-11-07 16:56:28,.NET core/C#/Microsoft SQL Server/Angular/Typescript/VMware vSphere/Prometheus/Github/Notion,True
-Capgemini,Cloud Engineer (F/H) Paris,Développeur.euse Full stack,"**L'offre**
-
-
-Présentation de l'entreprise
-
-Capgemini recherche pour sa practice C&amp;CA, une/un Cloud Engineer pour rejoindre ses SQUADs projet. Rejoindre C&amp;CA c’est intervenir au cœur du métier d’intégrateur de Capgemini, contribuer au développement de systèmes et programmes critiques dans le cadre des transformations Agiles, Digitales et Data de nos clients.
-Être Cloud Engineer c’est être à la pointe des services pour industrialiser le développement et le déploiement de Cloud native Application dans un model “As a service”. C’est aussi être passionné pour développer des applications à base de Microservices Serverless, des Front End de type SPA (angular, react), et construire des plateformes de données streamées et performantes. Être Cloud Engineer, c’est enfin réécrire l’informatique de nos clients pour une IT plus durable et responsable vis-à-vis de l’environnement.
-Nous rejoindre c’est bénéficier de l’appui de nos partenaires Cloud (AWS, Azure, GCP) dans le développement de votre savoir-faire et de votre réseau.
-
-
-En tant que Cloud Engineer votre rôle sera :
-
- * Être Leader quant au choix et développement des enablers et POC en tant que garant de la cohérence technique et fonctionnelle de l'application
- * Développer des applications modernes serverless ou à base de container an tirant parti des services managés de : AWS – Azure - GCP
- * Participer activement à la démarche Finops et Sécurité du projet
- * Accompagner le développement commercial via l’innovation : #LowCode, #IOT, #Event, #IA
- * Organiser, prioriser et suivre l'exécution des taches de l'équipe : Agile, Squad, Devsecops
- * Participer aux évènements partenaires Capgemini : AWS- GCP- Azure
- * Evangéliser les collaborateurs plus jeunes au Cloud
-
-
-**L'entreprise**
-
-
-Capgemini est un leader mondial, responsable et multiculturel, regroupant 360 000 personnes dans plus de 50 pays. Partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie, le Groupe est guidé au quotidien par sa raison d’être : libérer les énergies humaines par la technologie pour un avenir inclusif et durable. Fort de 55 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes. Le Groupe a réalisé un chiffre d’affaires de 22 milliards d’euros en 2022. 
-Get The Future You Want* http://www.capgemini.com/﻿
-
-
-**Votre profil**
-
-
-* Vous avez une expérience en conception et mise en œuvre de plateformes dans le Cloud
- * Vous avez construit une compétence autour des services managés Cloud
- * Vous êtes certifié(e) Cloud DevOps, Cloud Developer ou Cloud Architect
- * Vous êtes orienté(e) service client, avec une très bonne communication et une envie de progresser
- * Vous êtes « Team Player Agile » pour assurer une cohésion et un travail collaboratif dans son équipe","Rejoindre C&amp;CA c’est intervenir au cœur du métier d’intégrateur de Capgemini, contribuer au développement de systèmes et programmes critiques dans le cadre des transformations Agiles, Digitales et Data de nos clients.
-Être Cloud Engineer c’est être à la pointe des services pour industrialiser le développement et le déploiement de Cloud native Application dans un model “As a service”.",,0.0,,,no,4,[3-7],,,,,Issy-les-Moulineaux,France,2023-11-28 05:30:13,Azure/Agile/Serverless/Angular/IoT/Management/React/Réseau,True
-Capgemini,Tech Lead Mulesoft (F/H) Paris,CTO,"**L'offre**
-
-
-Être Développeur / Tech lead Data Intégration Mulesoft c’est ;
-
- * Participation au recueil des besoins auprès de nos clients
- * Participation à la conception, l’architecture et l’intégration de la solution d’intégration retenue
- * Déployer et optimiser au quotidien des pipelines de données dans le Cloud,
- * Développer des nouveaux flux/API,
- * Apporter une Expertise et un Leadership Technologique
- * Apporter / Diffuser une Expertise et un Leadership Technologique au sein de sa squad
- * Assurer la scalabilité, la modularité et la modernité des plateformes Interfaces
- * Collaborer avec les partenaires de projet, d'intégration et d'exploitation pour faciliter la mise en œuvre des nouveaux flux
- * Etre en veille sur les nouvelles solutions du marché
-
-
-Environnement technique :
-- ESB / ETL / IPAAS ( Mulesoft, Boomi, Talend, Tibco, Webmethods, WSO2,…)
-- API Gateway / API Management (Apigee, APIM, Axway, kong, Mulesoft, Boomi,...)
-- API Rest / Json / Swagger / openAPI / RAML
-- Kafka / Solace / ActiveMQ / RabbitMQ / TIBCO EMS / IBM MQ / JMS
-- Javascript / Groovy / Python / Java
-- Cloud (AWS/Azure/GCP)
-
-
-**L'entreprise**
-
-
-Capgemini est un leader mondial du conseil, de la transformation numérique, des services technologiques et d’ingénierie. Nous comptons aujourd’hui 360 000 collaborateurs présents dans près de 50 pays et avons réalisé un chiffre d’affaires, en 2022, de 22 milliards d’euros.
-
-
-**Votre profil**
-
-
-Qui êtes-vous ?
-Vous avez construit des compétences sur un ou plusieurs des environnements cités plus haut et/ou similaire,
-Vous avez une sensibilité particulière sur la façon dont les données circulent au sein d’un SI et comment elles sont transformées et utilisées par les différentes applications (cloud &amp; legacies)
-Vous êtes orienté service client, avec une très bonne communication et une envie de progresser dans ce domaine d’expertise et d’excellence.
-Vous êtes un Team Player Agile pour assurer une cohésion et un travail collaboratif dans son équipe","Vous avez construit des compétences sur un ou plusieurs des environnements cités plus haut et/ou similaire,
-Vous avez une sensibilité particulière sur la façon dont les données circulent au sein d’un SI et comment elles sont transformées et utilisées par les différentes applications (cloud &amp; legacies)
-Vous êtes orienté service client, avec une très bonne communication et une envie de progresser dans ce domaine d’expertise et d’excellence.
-Vous êtes un Team Player Agile pour assurer une cohésion et un travail collaboratif dans son équipe",,0.0,,,no,5,[3-7],,,,,Issy-les-Moulineaux,France,2023-10-24 05:30:05,Mulesoft/Agile/API REST/Groovy/Java/Javascript/Kafka/Kong/Management/Python/RabbitMQ/Talend/WebMethods,True
-Listen Too,Développeur Java (H/F),Web developer,"**📢 Imaginez un lieu où votre voix compte autant que vos compétences…**
-
-Chez Listen too, nous sommes convaincus que l’écoute est indissociable du progrès. Cultivée au quotidien, elle devient un catalyseur de croissance et de réussite, tant pour l’entreprise que pour ses collaborateur·rice·s.
-
-Listen too est une agence conseil spécialisée depuis 2013 dans la digitalisation de la Relation Client & Collaborateur. Grâce à la justesse de l’accompagnement offert à nos clients comme à nos consultant.e.s, nous nous sommes construits au fil des ans sur notre marché une réputation de véritables « horlogers du conseil ».
-
-**Nos domaines d’expertise ?**
-
-🎯 Le Product Management : pour porter la vision Produit et maximiser la création de valeur.
-🎨 Le Product Design : pour une conception Produit centrée utilisateur.
-🔧 Le Product TechOps : pour déployer les meilleures solutions digitales.
-📢 Le Product Marketing : pour maximiser le succès d’un produit/service sur son marché.
-📊 Le Product Data : pour mettre la donnée au cœur de la stratégie de nos clients.
-🤝 La Gouvernance projet : pour optimiser le mode de management et le cadre organisationnel de nos clients.
-
-Être listenien·ne, c’est être au cœur d’une entreprise qui valorise votre voix, votre parcours, et votre évolution. Ici, nous appliquons les principes du design thinking à votre carrière, co-construisant avec vous une trajectoire où vos passions, vos aspirations, et vos forces sont au premier plan (si vous voulez en savoir plus, c’est par ici !).
-
-**💪 Tes futures missions**
-
-Pour accompagner notre équipe Lilloise de choc, nous recherchons des développeurs FullStack confirmés pour des projets à forte valeur ajoutée en IT & Digital.
-Au sein de ton équipe tu participeras à l’ensemble du cycle de vie des projets depuis les phases amont de conseil/conception, jusqu’à la mise en service des solutions :
-
-* Compréhension des besoins métier et l’analyse fonctionnelle
-* Développement des API sur les nouvelles fonctionnalités (AWS) ainsi que sur l’évolution de l’existant (Ancienne stack) autour de la prise de réservation.
-* Réalisation les tests unitaires sous la méthodologie TDD afin d’assurer le fonctionnement des produits.
-* Amélioration continue des applications (performances / QoS, entretien en condition opérationnel / qualité de code), et vous faites les corrections des bugs en production tout en respectant les bonnes pratiques de développement et les engagements du Delivery.
-* Test de l’application et le traitement des dysfonctionnements éventuels
-* Respect des méthodologies et des processus de développement
-* Mise en place des bonnes pratiques d’utilisation et de développement
-* Formation de l’utilisateur pour la prise en main de l’application
-
-**Stacks Techniques :**
-Java 11-17 / Spring Boot / Agile / AWS (ECS, Lambda, IAM, Dynamo, ...)
-
-**😎 Ta vie de listenien·ne**
-
-*Ce qu’on te propose ?*
-
-🤜 Être membre d’une communauté : partager et enrichir tes compétences au sein d’une équipe soudée.
-🤝 Être accompagné.e : dans ta progression professionnelle et ton quotidien par ton Consultant.e Manager, ton Business Manager et notre Responsable Expérience collaborateur.rice.
-🎓 Être formé.e en continu : grâce à un plan de développement des compétences co-construit et nourri par nos solutions d’e-learning, les formations de la Listen too Academy et nos formations externes.
-🚀 Être intrapreneur.e : encouragé à innover, échanger, entreprendre et ainsi contribuer à l’épanouissement du cabinet.
-☘️ Être engagé.e : à nos côtés dans une démarche sociétale et environnementale responsable et durable.
-🤗 Être « bien » ! : parce que le bien-être physique et mental de nos collaborateur.rice.s est au cœur de notre réussite (nous sommes fier.es d’être de nouveau labellisés Great Place to Work).
-
-*Concrètement ?*
-
-🎉 De multiples occasions de passer de bons moments avec notamment notre fameux sémineige, des afterworks et des teambuildings.
-🏋️‍♂️ Du bien-être et de la santé avec des évènements sportifs, nos partenaires Gymlib, Zenride, Moka.care et le programme Vitality.
-😎 Du confort avec du télétravail indémnisé
-🤗 Toujours plus liens avec un onboarding aux petits oignons, notre programme de parrainage, notre appli interne Mylistentoo, nos newsletters, nos podcasts et nos webinaires
-👍 De nombreux avantages avec notre CSE, des tickets restaurant, une prime vacances, des primes de cooptation, de participation, de développement…
-
-
-**💎 Profil recherché**
-
-* Tu maîtrises et te passionnes pour les technos parmi lesquels Java / Springboot
-* Tu es créatif et aimes proposer des solutions constructives
-* Tu es curieux, tu aimes tester et innover, tu as une vraie culture de l’apprentissage
-* Tu es familier des bonnes pratiques et des « codes » du métier de développeur ;-)
-* Tu as envie de progresser et d'évoluer au sein d'une société à taille humaine sur une expertise ou des responsabilités managériales
-* Tu rêves de t’investir au sein d’une communauté soudée et passionnée
-* En bonus : tu n’as pas peur de mettre une gamelle à tes collègues au baby-foot et/ou au ping pong
-
-Si oui, rejoins-nous pour renforcer la communauté #TECH de Listen Too Lille !
-
-**Déroulement des entretiens**
-
-🙋‍♀️ Un premier entretien téléphonique ou en visio avec un de nos chargés de recrutement Inès ou Alexis pour voir si ça colle entre nous !
-💁🏻‍♀️ Un deuxième en visio avec Yohan, notre Directeur de Lille, pour valider notre première impression.
-🙋🏻‍♂️ Un éventuel dernier échange sur mesure avec Florent, Co-fondateur du cabinet, pour confirmer ce que nous savions déjà ! 😉
-
-Tu l’auras compris, cette phase de recrutement est avant tout l’occasion de s’écouter et d’échanger.
-Chez Listen too, nous célébrons la diversité et l’inclusion, convaincus que chaque talent, quelle que soit son origine ou son parcours, est une richesse pour notre équipe et contribue à notre réussite commune.","**
-
-🎯 Le Product Management : pour porter la vision Produit et maximiser la création de valeur.
-Être listenien·ne, c’est être au cœur d’une entreprise qui valorise votre voix, votre parcours, et votre évolution.",50.0,42.5,35.0,3.0,hybrid,3,[0-3],"L'accompagnement est mis en place au travers de : 
-- Formation chaque année
-- Veille (Participation au salon, forum, ...) chaque année
-- Prise en hauteur (Allouer du temps pour diffuser la bonne parole)",,"Equipe composé de 20 développeurs sur des environnements :
-Back-end : Node / Nuxt.JS
-Front-End : Vue.JS; React.JS; Angular
-Mobile : Android; iOS; Flutter",,Lille,France,2023-11-28 15:35:00,Amazon Web Services/Tomcat/Agile/Spring Boot/Java/Javascript,True
-Sogeti,Sogeti Consultant(e) Chef(ffe) de projet IT H/F,Développeur.euse Full stack,"**L'offre**
-
-
-Vous intégrez notre équipe à Belfort dans le département IT d’un de nos clients.
-
-Vous travaillerez sur toutes les phases des projets stratégiques pour nos clients.
-Votre mission :
-♠ Assurer le pilotage des projets
-♠ Animer les ateliers de travail
-♠ Animer les comités de suivi et de pilotage
-♠ Préparer les présentations et rédiger les comptes-rendus
-♠ Assurer le suivi des tâches des différentes équipes
-♠ Coordonner les intervenants sur le projet
-♠ Réaliser le reporting au top management
-
-
-**L'entreprise**
-
-
-Capgemini est un leader mondial, responsable et multiculturel, regroupant 350 000 personnes dans près de 50 pays ; partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie.
-Fort de plus de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes.
-
-
-**Votre profil**
-
-
-Issu.e d’une formation supérieure en informatique (Bac+5 type école d'Ingénieur ou Master Universitaire), vous justifiez d'une expérience de minimum 6 ans sur un poste similaire
-
-Capgemini promeut une culture inclusive dans un cadre multiculturel et créateur de valeur, quel que soit votre parcours, genre, origine culturelle, sociale, … notamment au travers de ses réseaux OUTFront et Women@Capgemini. Entreprise handi accueillante, le Groupe développe une politique active d’emploi et d’insertion des personnes en situation d’handicap. Capgemini s’engage pour un numérique responsable en intégrant l’éco-conception et l’accessibilité dans ses projets, et réduira de 90 % ses émissions d’ici 2040. Partenaire de différentes associations, Capgemini accompagne les exclus du numérique vers l’autonomie.
-https://www.capgemini.com/fr-fr/notre-groupe/responsabilite-sociale-et-environnementale/","**L'offre**
-
-
-Vous intégrez notre équipe à Belfort dans le département IT d’un de nos clients.
-Vous travaillerez sur toutes les phases des projets stratégiques pour nos clients.",,0.0,,,no,5,[3-7],,,,,Belfort,France,2024-01-23 07:00:29,Management/Chef,True
-Sogeti,Sogeti Consultant(e) Développeur(se) Java H/F - Dijon,Développeur.euse Full stack,"**L'offre**
-
-
-Nous recherchons un(e) Développeur/se Java pour intégrer nos équipes à Dijon dans le département IT d’un de nos clients.
-
-Vos missions :
-♠ Participer à la définition des spécifications
-♠ Participer à la stratégie de test
-♠ Réalisation des tests
-♠ Développer et réaliser les modules du logiciel
-♠ Rédiger les documentations techniques
-♠ Optimisation des traitements
-Environnement technique :
-♠ Java, EE
-♠ Spring Boot
-♠ GIT (ou équivalent)
-♠ SQL (Oracle)
-
-
-﻿
-
-
-**L'entreprise**
-
-
-Capgemini est un leader mondial, responsable et multiculturel, regroupant 350 000 personnes dans près de 50 pays ; partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie.
-Fort de plus de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes.
-
-
-**Votre profil**
-
-
-Issu.e d’une formation supérieure en informatique (Bac+5 type école d'Ingénieur ou Master Universitaire), vous justifiez d'une expérience de minimum 3 ans sur un poste similaire
-Capgemini promeut une culture inclusive dans un cadre multiculturel et créateur de valeur, quel que soit votre parcours, genre, origine culturelle, sociale, … notamment au travers de ses réseaux OUTFront et Women@Capgemini. Entreprise handi accueillante, le Groupe développe une politique active d’emploi et d’insertion des personnes en situation d’handicap. Capgemini s’engage pour un numérique responsable en intégrant l’éco-conception et l’accessibilité dans ses projets, et réduira de 90 % ses émissions d’ici 2040. Partenaire de différentes associations, Capgemini accompagne les exclus du numérique vers l’autonomie.
-https://www.capgemini.com/fr-fr/notre-groupe/responsabilite-sociale-et-environnementale/﻿","Fort de plus de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes.
-Capgemini s’engage pour un numérique responsable en intégrant l’éco-conception et l’accessibilité dans ses projets, et réduira de 90 % ses émissions d’ici 2040.",,0.0,,,no,3,[0-3],,,,,Dijon,France,2024-01-23 07:00:29,Java/Git/Management/Oracle/Spring/Spring Boot/SQL,True
-Sogeti,SOGETI - Testeur QA LILLE H/F,Développeur.euse Full stack,"**L'offre**
-
-
-TES MISSIONS
-
- * Participer à la définition et à la mise en place de la stratégie de tests
- * Rédiger les tests fonctionnels et techniques
- * Participer à la validation des campagnes de test (intégration continue)
- * Réaliser le bilan de test afin de capitaliser et d'assurer le suivi des connaissances
-
-
-
-
-ENVIE D'ECHANGER AVEC NOUS ?
-
- * Postuler sur cette annonce (2 min) ou en envoyant un mail à serena.dufour@sogeti.com
-
-Capgemini promeut une culture inclusive dans un cadre multiculturel et créateur de valeur, quel que soit votre parcours, genre, origine culturelle, sociale, … notamment au travers de ses réseaux OUTFront et
-Women@Capgemini . Entreprise handi accueillante , le Groupe développe une politique active d’emploi et d’insertion des personnes en situation d’handicap. Capgemini s’engage pour un numérique responsable en intégrant l’éco conception et l’accessibilité dans ses projets, et réduira de 90% ses émissions d’ici 2040. Partenaire de différentes associations, Capgemini accompagne les exclus du numérique vers l’autonomie.
-https://www.capgemini.com/fr fr/notre groupe/responsabilite sociale et environnementale/
-
-
-**L'entreprise**
-
-
-Capgemini est un leader mondial, responsable et multiculturel, regroupant 350000 personnes dans près de 50 pays ;partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie. Fort de plus de 50 ans d’expérience et d’une grande expertise des différents secteurs d’activité, Capgemini est reconnu par ses clients pour répondre à l’ensemble de leurs besoins, de la stratégie et du design jusqu’au management des opérations, en tirant parti des innovations dans les domaines en perpétuelle évolution du cloud, de la data, de l’Intelligence Artificielle, de la connectivité, des logiciels, de l’ingénierie digitale et des plateformes.
-
-
-**Votre profil**
-
-
-LES PREREQUIS
-
- * Tu as 1 à 3 ans d'expérience dans l’activité de tests et une formation de niveau bac +3/+5
- * Tu es certifié ISTQB et tu maîtrises un langage de programmation (Java, Angular,…)
- * Ta stack : Robotframework, Cucumber, Gherkin, Selenium ; Cerberus ; Postman, Squash TM; TestLink ; Jira ; Katalon ; X-Ray ; Mantis.","https://www.capgemini.com/fr fr/notre groupe/responsabilite sociale et environnementale/
-
-
-**L'entreprise**
-
-
-Capgemini est un leader mondial, responsable et multiculturel, regroupant 350000 personnes dans près de 50 pays ;partenaire stratégique des entreprises pour la transformation de leurs activités en tirant profit de toute la puissance de la technologie.
-**Votre profil**
-
-
-LES PREREQUIS
-
- * Tu as 1 à 3 ans d'expérience dans l’activité de tests et une formation de niveau bac +3/+5
- * Tu es certifié ISTQB et tu maîtrises un langage de programmation (Java, Angular,…)
- * Ta stack : Robotframework, Cucumber, Gherkin, Selenium ; Cerberus ; Postman, Squash TM; TestLink ; Jira ; Katalon ; X-Ray ; Mantis.",,0.0,,,no,2,[0-3],,,,,Lille,France,2024-01-23 07:00:28,Angular/Cucumber/Java/Jira/Management/Mantis/Postman/Robot Framework/Selenium/XRay,True
-Capgemini,Expert Mulesoft Talend F/H,Développeur.euse Full stack,"**L'offre**
-
-
-Rejoindre CAPGEMINI Toulouse c'est : 
-
-
-Capgemini recherche pour le site de Toulouse,
-un(e) Expert Mulesoft pour Rejoindre Capgemini, c’est intervenir au cœur du métier d’intégrateur de Capgemini, contribuer au développement de systèmes et programmes critiques dans le cadre des transformations Digitales et Data, Agiles de nos clients.
-Être Développeur / Tech lead, c’est être à la pointe des sujets d’intégration et participer au développement de l’offre « Modernisation des plateformes d’échange et API Management” en s’appuyant sur la solution d’intégration Mulesoft.
-
-
-
-Votre rôle
-
-Être Expert Mulesoft c’est :
- * Participer au recueil des besoins auprès de nos clients
- * Participer à la conception, l’architecture et l’intégration de la solution d’intégration retenue
- * Déployer et optimiser au quotidien des pipelines de données dans le Cloud,
- * Développer des nouveaux flux/API,
- * Apporter une Expertise et un Leadership Technologique
- * Apporter / Diffuser une Expertise et un Leadership Technologique au sein de sa squad
- * Assurer la scalabilité, la modularité et la modernité des plateformes Interfaces
- * Collaborer avec les partenaires de projet, d'intégration et d'exploitation pour faciliter la mise en œuvre des nouveaux flux
-
-
-**L'entreprise**
-
-
-Rejoindre CAPGEMINI Toulouse c’est :
-
-Intégrer un groupe incontournable du monde de L’IT au cœur de la capitale européenne de l’aéronautique et du spatial.
-Intervenir sur des projets innovants et d’envergure, à la fois variés et motivants, pour des clients grands comptes du secteur spatial ou des acteurs du newSpace.
-
-
-**Votre profil**
-
-
-Votre profil
-
-Qui êtes-vous ? :
- * ESB / ETL / IPAAS ( Mulesoft, Boomi, Talend, Tibco, Webmethods, WSO2,…)
- * API Gateway / API Management (Apigee, APIM, Axway, kong, Mulesoft, Boomi,...)
- * API Rest / Json / Swagger / openAPI / RAML
- * Kafka / Solace / ActiveMQ / RabbitMQ / TIBCO EMS / IBM MQ / JMS
- * Javascript / Groovy / Python / Java
- * Cloud (AWS/Azure/GCP)
-
-
-CAPGEMINI, Entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise.
-
-Get the Future You Want | www.capgemini.com","Être Développeur / Tech lead, c’est être à la pointe des sujets d’intégration et participer au développement de l’offre « Modernisation des plateformes d’échange et API Management” en s’appuyant sur la solution d’intégration Mulesoft.
-Intervenir sur des projets innovants et d’envergure, à la fois variés et motivants, pour des clients grands comptes du secteur spatial ou des acteurs du newSpace.",,0.0,,,no,3,[0-3],,,,,Toulouse,France,2023-11-24 05:30:14,Mulesoft/Talend/API REST/Groovy/Java/Javascript/Kafka/Kong/Management/Python/RabbitMQ/WebMethods,True
-Capgemini,Ingénieur Cloud confirmé TOULOUSE F/H,Développeur.euse Full stack,"**L'offre**
-
-
-Contexte
-
-Capgemini recherche pour sa practice C&amp;CA Toulouse, un Ingénieur Cloud Aws pour compléter nos équipes. Rejoindre C&amp;CA c’est intervenir au cœur du métier d’intégrateur de Capgemini pour le développement des systèmes et programmes critiques dans le cadre des transformations Agiles, Digitales et Data de nos clients.
-Capgemini est partenaire AWS depuis 2008. Capgemini c’est également une communauté de plus de 3000 certifiés AWS dans le monde. Nous rejoindre c’est bénéficier de l’appui de notre partenaire dans le développement de votre savoir-faire et de votre réseau.
-
-
-**L'entreprise**
-
-
-Rejoindre Capgemini Toulouse c'est :
-
-
-Intégrer un groupe incontournable du monde de L’IT au cœur de la capitale européenne de l’aéronautique et du spatial. Intervenir sur des projets d’envergure variés et motivants pour des clients grands comptes issus de différents secteurs : aéronautique, spatial, énergie, défense, secteur public, etc. Avoir l’opportunité d’exprimer votre talent dans une entreprise à la pointe de l’innovation tout en évoluant dans un environnement agile et multiculturel.
-
-
-**Votre profil**
-
-
-Votre profil :
-
-
-En tant qu’Ingénieur Cloud AWS votre rôle sera de :
- * Garantir l’exploitabilité et la fiabilité des applications
- * Piloter la fourniture des environnements et leur maintien en conditions opérationnelles dans le temps
- * Automatiser, fiabiliser et optimiser les déploiements
- * Industrialiser les créations/suppressions d’Environnements dans le Cloud
-
-
-
-Nous Rejoindre Capgemini c'est :
- * Bénéficier pendant les premiers mois d’un accompagnement individualisé : complément de certifications AWS, rencontre avec des pairs, exécution progressive de mission de plus en plus engageante pour vous et Capgemini
- * Favoriser l'épanouissement professionnel et personnel : Formations, Télétravail, Congés d'anciennetés, Congés enfant, Avantages CE, Activités loisirs, etc.
- * De la flexibilité au quotidien
- * Une plateforme de e-learning complète et très diversifiée
- * Une ambiance de travail dynamique et conviviale
-
-
-Get The Future You Want* | www.capgemini.com
-
-Capgemini, Entreprise handi accueillante, conformément à la norme AFNOR NF X50-783, est également signataire de la charte de la diversité en entreprise.","Rejoindre C&amp;CA c’est intervenir au cœur du métier d’intégrateur de Capgemini pour le développement des systèmes et programmes critiques dans le cadre des transformations Agiles, Digitales et Data de nos clients.
-Capgemini c’est également une communauté de plus de 3000 certifiés AWS dans le monde.",,0.0,,,no,4,[3-7],,,,,Toulouse,France,2023-11-24 05:30:14,Agile/Réseau,True
+Si vous avez envie de vous développer dans un environnement favorable et êtes engagé(e) à avoir un impact positif, nous vous invitons à rejoindre notre équipe. Optimal Ways est l'endroit où vos compétences, vos connaissances et vos valeurs convergent pour une carrière épanouissante.","poste Consultant ( e ) technique Digital Analytics H/F fait ! * * Description poste * * tant Consultant ( e ) technique Digital Analytics H/F chez Optimal Ways , avancerez carrière travaillant étroite collaboration équipe experte , compétente bienveillante .",40.0,37.5,35.0,1.0,hybrid,1,[0-3],"L'agence a été fondée par Nicolas Malo en 2011, un expert en Digital Analytics, avec plus de 20 ans d'expérience dans le domaine avec des expériences à l'international (Silicon Valley & Canada). Nicolas est également impliqué depuis l'origine dans MeasureCamp, le réseau de conférences le plus important de Digital Analytics au niveau mondial. Pendant 3 ans, Nicolas a été également le président de l'AADF (Association des Analystes Digitaux Francophones).","L'agence a fondée Nicolas Malo 2011 , expert Digital Analytics , plus 20 ans d'expérience domaine expériences l'international ( Silicon Valley & Canada ) . Pendant 3 ans , Nicolas a également président l'AADF ( Association Analystes Digitaux Francophones ) .","Nous sommes une agence spécialisée dans le Digital Analytics et avons pour mission d’accompagner et former les équipes ecommerce à prendre des décisions éclairées avec une démarche durable et responsable. Nous travaillons principalement avec des grandes marques retail & ecommerce et leurs filiales dans le monde entier (Brady Seton, Cultura, Cyrillus, Decathlon, GiFi, Midas, Somfy, …).",,Wasquehal,France,2023-12-22 09:36:08,Javascript/CSS3/HTML5/NodeJS/Python/Angular/Actionscript/Gestion de projet/jQuery/SQL/Google Apps Script/Google Cloud/Firebase,True
+OOTI,Lead Developer (Python/Django),Lead developer,"Deviens le Leader de l’Innovation en Architecture avec OOTI !
+OOTI est à la recherche de sa prochaine recrue pour prendre les rênes de notre équipe de développeurs. En tant que Startup SaaS BtoB en pleine croissance, notre produit est au cœur de notre entreprise, et nos ambitions de développement sont à la hauteur des dernières avancées technologiques.
+Notre dernière version du produit le rend plus performant et intuitif que jamais, avec une roadmap en constante évolution. Notre mission est claire : révolutionner le secteur de l’architecture grâce à un produit unique et puissant !
+En rejoignant notre équipe, tu auras un rôle clé en tant que manager, où tu partageras ton expertise en développement web et contribueras à façonner l’avenir de notre produit.
+
+**Tes missions 🎯**
+
+* Concevoir des solutions client : Créer des applications et des services qui répondent aux besoins de nos clients
+* Innovation constante : Apporter ton expertise à l’équipe pour développer de nouvelles fonctionnalités tout en veillant à la qualité du code
+* Intégrations API : connecter OOTI à d’autres acteurs métiers
+* Testing : Assurer l’efficacité du CI/CD en améliorant la fiabilité des tests unitaires et d’intégration
+* Leader Visionnaire : Proposer des idées et contribuer à l’élaboration de la roadmap en travaillant auprès de notre Product Owner
+* Excellence technique : Appliquer les meilleures pratiques de développement à notre produit
+* Construire ton équipe de rêve : Tu seras en charge des futurs recrutements et de la formation de ton équipe de développeurs
+* Cohésion d’équipe : En tant que leader, tu veilleras à ce que l’équipe soit motivée, efficace et unie au quotidien
+
+**Profil recherché**
+
+* Expert en Python : Tu as au moins 5 ans d’expérience en Python, en mettant l’accent sur Django et Django Rest API (Backend)
+* Frontend : Sans en être expert, le frontend t’intéresse
+* Base de données : Tu connais bien POSTGRES et REDIS
+* Expérience en gestion d’équipe : Tu as déjà dirigé une équipe de développeurs, ou tu es prêt.e à le faire avec les qualités et la motivation nécessaires
+* Tu es familier avec la méthode agile
+* Univers tech : Tu as déjà travaillé dans l’univers des logiciels et de la tech
+
+Ce que nous recherchons chez toi
+
+* Autonomie et Initiative : Tu es autonome et tu es prêt.e à prendre des initiatives pour atteindre tes objectifs
+* Rigueur et Organisation : Tu es organisé.e et [rigoureux.se](http://rigoureux.se/) dans ton travail
+* Leadership : Tu as des compétences managériales pour faire progresser ton équipe
+* Esprit Curieux : Tu cherches à comprendre en profondeur et tu aimes relever les défis
+* Sens du Design : Tu es sensible aux questions de design et d’interface, et tu aimes construire des produits esthétiques
+
+**Pourquoi nous rejoindre chez OOTI ❣️**
+
+* Contribuer à la croissance d’une startup en plein essor
+* L’opportunité de jouer un rôle clé dans la révolution d’un secteur passionnant : l’architecture
+* Avantages tels qu’une carte ticket-restaurant Swile et une mutuelle Alan
+* Des bureaux flambant neufs, situés au cœur de Paris
+* Travail en étroite collaboration avec tous les pôles : marketing, customer success, sales
+* Intégration au sein d’une équipe hautement impliquée et bienveillante 💙","OOTI recherche prochaine recrue prendre rênes équipe développeurs . * * missions 🎯 * * * Concevoir solutions client : Créer applications services répondent besoins clients * Innovation constante : Apporter expertise ’ équipe développer nouvelles fonctionnalités tout veillant qualité code * Intégrations API : connecter OOTI ’ autres acteurs métiers * Testing : Assurer ’ efficacité CI/CD améliorant fiabilité tests unitaires ’ intégration * Leader Visionnaire : Proposer idées contribuer ’ élaboration roadmap travaillant auprès Product Owner * Excellence technique : Appliquer meilleures pratiques développement produit * Construire équipe rêve : charge futurs recrutements formation équipe développeurs * Cohésion ’ équipe : tant leader , veilleras ’ équipe motivée , efficace unie quotidien * * Profil recherché * * * Expert Python : moins 5 ans ’ expérience Python , mettant ’ accent Django Django Rest API ( Backend ) * Frontend : Sans être expert , frontend ’ intéresse * Base données : connais bien POSTGRES REDIS * Expérience gestion ’ équipe : déjà dirigé équipe développeurs , prêt.e faire qualités motivation nécessaires * familier méthode agile * Univers tech : déjà travaillé ’ univers logiciels tech recherchons chez * Autonomie Initiative : autonome prêt.e prendre initiatives atteindre objectifs * Rigueur Organisation : organisé.e [ rigoureux.se ] ( http : //rigoureux.se/ ) travail * Leadership : compétences managériales faire progresser équipe * Esprit Curieux : cherches comprendre profondeur aimes relever défis * Sens Design : sensible questions design ’ interface , aimes construire produits esthétiques * * Pourquoi rejoindre chez OOTI ❣️ * * * Contribuer croissance ’ startup plein essor * ’ opportunité jouer rôle clé révolution ’ secteur passionnant : ’ architecture * Avantages tels ’ carte ticket-restaurant Swile mutuelle Alan * bureaux flambant neufs , situés cœur Paris * Travail étroite collaboration tous pôles : marketing , customer success , sales * Intégration sein ’ équipe hautement impliquée bienveillante 💙",63.0,60.5,58.0,2.0,hybrid,6,[3-7],"L'équipe est actuellement encadrée par le CTO et le PO, nous recherchons activement un lead developer.",,"Nous avons 8 développeurs, 4 backend et 4 frontend. Ils travaillent en collaboration avec notre PO et Maxime, CTO de OOTI.",,Paris,France,2024-01-15 15:57:37,React/Javascript/Python/Django/Agile,True
+Pixmania,Développeur Full stack Java,Développeur.euse Full stack,"**Missions**
+
+Votre mission, si vous l'acceptez, sera de :
+
+* Penser et concevoir la création et l’évolution des applications
+* Etudier et challenger la faisabilité des demandes
+* Développer les fonctionnalités et intégrer les interfaces
+* Résoudre les bugs et assurer le support technique
+* Réaliser les tests et déployer les applications
+* Assurer la qualité d’un code facilement maintenable, scalable et documenté
+
+**Profil très recherché**
+
+**Pour t’épanouir dans ce poste, il est nécessaire :**
+
+* De maîtriser **JAVA (POJO-MongoDB), NoSQL / SQL, Javascript, CSS (idéalement jQuery, Bootstrap)**
+* De connaître ou avoir envie de te développer : **Coldfusion**
+* Savoir délivrer du code clair et maintenable, dans le respect des best practices
+* D’aimer le travail d’équipe
+* D’être rigoureux, dynamique, force de proposition, curieux avec une réelle soif d’apprendre et de gagner en responsabilité et autonomie
+
+Pour être encore plus à l’aise, **nice to have** : un système de versioning, Selenium",,65.0,50.0,35.0,2.0,hybrid,3,[0-3],,,,,Levallois-Perret,France,2023-10-13 20:05:53,Java/NoSQL/Javascript/CSS3,True
